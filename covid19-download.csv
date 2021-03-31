@@ -1,0 +1,5668 @@
+prname,date,numconf,numdeaths
+Ontario,1/31/2020,3,0
+British Columbia,1/31/2020,1,0
+Canada,1/31/2020,4,0
+Ontario,2/8/2020,3,0
+British Columbia,2/8/2020,4,0
+Canada,2/8/2020,7,0
+Ontario,2/16/2020,3,0
+British Columbia,2/16/2020,5,0
+Canada,2/16/2020,8,0
+Ontario,2/21/2020,3,0
+British Columbia,2/21/2020,6,0
+Canada,2/21/2020,9,0
+Ontario,2/24/2020,4,0
+British Columbia,2/24/2020,6,0
+Canada,2/24/2020,10,0
+Ontario,2/25/2020,4,0
+British Columbia,2/25/2020,7,0
+Canada,2/25/2020,11,0
+Ontario,2/26/2020,5,0
+British Columbia,2/26/2020,7,0
+Canada,2/26/2020,12,0
+Ontario,2/27/2020,6,0
+British Columbia,2/27/2020,7,0
+Canada,2/27/2020,13,0
+Ontario,2/29/2020,8,0
+British Columbia,2/29/2020,7,0
+Canada,2/29/2020,15,0
+Ontario,3/1/2020,15,0
+British Columbia,3/1/2020,8,0
+Quebec,3/1/2020,1,0
+Canada,3/1/2020,24,0
+Ontario,3/3/2020,20,0
+British Columbia,3/3/2020,12,0
+Quebec,3/3/2020,1,0
+Canada,3/3/2020,33,0
+Ontario,3/5/2020,22,0
+British Columbia,3/5/2020,21,0
+Quebec,3/5/2020,2,0
+Canada,3/5/2020,45,0
+Ontario,3/6/2020,28,0
+British Columbia,3/6/2020,21,0
+Quebec,3/6/2020,2,0
+Canada,3/6/2020,51,0
+Ontario,3/7/2020,28,0
+British Columbia,3/7/2020,27,0
+Quebec,3/7/2020,2,0
+Canada,3/7/2020,57,0
+Ontario,3/8/2020,31,0
+British Columbia,3/8/2020,27,1
+Quebec,3/8/2020,3,0
+Alberta,3/8/2020,1,0
+Canada,3/8/2020,62,1
+Ontario,3/9/2020,34,0
+British Columbia,3/9/2020,32,1
+Quebec,3/9/2020,4,0
+Alberta,3/9/2020,7,0
+Canada,3/9/2020,77,1
+British Columbia,3/11/2020,39,1
+Alberta,3/11/2020,14,0
+Saskatchewan,3/11/2020,0,0
+Manitoba,3/11/2020,0,0
+Ontario,3/11/2020,42,1
+Quebec,3/11/2020,7,0
+New Brunswick,3/11/2020,0,0
+Newfoundland and Labrador,3/11/2020,0,0
+Nova Scotia,3/11/2020,0,0
+Prince Edward Island,3/11/2020,0,0
+Northwest Territories,3/11/2020,0,0
+Nunavut,3/11/2020,0,0
+Yukon,3/11/2020,0,0
+Repatriated travellers,3/11/2020,1,0
+Canada,3/11/2020,103,2
+British Columbia,3/12/2020,46,1
+Alberta,3/12/2020,19,0
+Saskatchewan,3/12/2020,0,0
+Manitoba,3/12/2020,0,0
+Ontario,3/12/2020,59,1
+Quebec,3/12/2020,13,0
+Newfoundland and Labrador,3/12/2020,0,0
+New Brunswick,3/12/2020,0,0
+Nova Scotia,3/12/2020,0,0
+Prince Edward Island,3/12/2020,0,0
+Yukon,3/12/2020,0,0
+Northwest Territories,3/12/2020,0,0
+Nunavut,3/12/2020,0,0
+Repatriated travellers,3/12/2020,1,0
+Canada,3/12/2020,138,2
+British Columbia,3/13/2020,53,1
+Alberta,3/13/2020,23,0
+Saskatchewan,3/13/2020,0,0
+Manitoba,3/13/2020,1,0
+Ontario,3/13/2020,79,1
+Quebec,3/13/2020,17,0
+Newfoundland and Labrador,3/13/2020,0,0
+New Brunswick,3/13/2020,1,0
+Nova Scotia,3/13/2020,0,0
+Prince Edward Island,3/13/2020,0,0
+Yukon,3/13/2020,0,0
+Northwest Territories,3/13/2020,0,0
+Nunavut,3/13/2020,0,0
+Repatriated travellers,3/13/2020,2,0
+Canada,3/13/2020,176,2
+British Columbia,3/14/2020,64,1
+Alberta,3/14/2020,29,0
+Saskatchewan,3/14/2020,0,0
+Manitoba,3/14/2020,1,0
+Ontario,3/14/2020,79,1
+Quebec,3/14/2020,17,0
+Newfoundland and Labrador,3/14/2020,0,0
+New Brunswick,3/14/2020,1,0
+Nova Scotia,3/14/2020,0,0
+Prince Edward Island,3/14/2020,0,0
+Yukon,3/14/2020,0,0
+Northwest Territories,3/14/2020,0,0
+Nunavut,3/14/2020,0,0
+Repatriated travellers,3/14/2020,2,0
+Canada,3/14/2020,193,2
+British Columbia,3/15/2020,73,1
+Alberta,3/15/2020,39,0
+Saskatchewan,3/15/2020,0,0
+Manitoba,3/15/2020,4,0
+Ontario,3/15/2020,103,1
+Quebec,3/15/2020,24,0
+Newfoundland and Labrador,3/15/2020,0,0
+New Brunswick,3/15/2020,1,0
+Nova Scotia,3/15/2020,0,0
+Prince Edward Island,3/15/2020,1,0
+Yukon,3/15/2020,0,0
+Northwest Territories,3/15/2020,0,0
+Nunavut,3/15/2020,0,0
+Repatriated travellers,3/15/2020,4,0
+Canada,3/15/2020,249,2
+British Columbia,3/16/2020,73,4
+Alberta,3/16/2020,56,0
+Saskatchewan,3/16/2020,1,0
+Manitoba,3/16/2020,4,0
+Ontario,3/16/2020,145,1
+Quebec,3/16/2020,39,0
+Newfoundland and Labrador,3/16/2020,0,0
+New Brunswick,3/16/2020,1,0
+Nova Scotia,3/16/2020,0,0
+Prince Edward Island,3/16/2020,1,0
+Yukon,3/16/2020,0,0
+Northwest Territories,3/16/2020,0,0
+Nunavut,3/16/2020,0,0
+Repatriated travellers,3/16/2020,4,0
+Canada,3/16/2020,324,5
+British Columbia,3/17/2020,103,7
+Alberta,3/17/2020,74,0
+Saskatchewan,3/17/2020,2,0
+Manitoba,3/17/2020,7,0
+Ontario,3/17/2020,177,1
+Quebec,3/17/2020,50,0
+Newfoundland and Labrador,3/17/2020,0,0
+New Brunswick,3/17/2020,2,0
+Nova Scotia,3/17/2020,0,0
+Prince Edward Island,3/17/2020,1,0
+Yukon,3/17/2020,0,0
+Northwest Territories,3/17/2020,0,0
+Nunavut,3/17/2020,0,0
+Repatriated travellers,3/17/2020,8,0
+Canada,3/17/2020,424,8
+British Columbia,3/18/2020,186,7
+Alberta,3/18/2020,97,0
+Saskatchewan,3/18/2020,2,0
+Manitoba,3/18/2020,8,0
+Ontario,3/18/2020,189,1
+Quebec,3/18/2020,74,1
+Newfoundland and Labrador,3/18/2020,0,0
+New Brunswick,3/18/2020,2,0
+Nova Scotia,3/18/2020,1,0
+Prince Edward Island,3/18/2020,1,0
+Yukon,3/18/2020,0,0
+Northwest Territories,3/18/2020,0,0
+Nunavut,3/18/2020,0,0
+Repatriated travellers,3/18/2020,9,0
+Canada,3/18/2020,569,9
+British Columbia,3/19/2020,271,8
+Alberta,3/19/2020,146,1
+Saskatchewan,3/19/2020,8,0
+Manitoba,3/19/2020,17,0
+Ontario,3/19/2020,258,2
+Quebec,3/19/2020,121,1
+Newfoundland and Labrador,3/19/2020,1,0
+New Brunswick,3/19/2020,7,0
+Nova Scotia,3/19/2020,5,0
+Prince Edward Island,3/19/2020,2,0
+Yukon,3/19/2020,0,0
+Northwest Territories,3/19/2020,0,0
+Nunavut,3/19/2020,0,0
+Repatriated travellers,3/19/2020,10,0
+Canada,3/19/2020,846,12
+British Columbia,3/20/2020,271,9
+Alberta,3/20/2020,195,1
+Saskatchewan,3/20/2020,8,0
+Manitoba,3/20/2020,17,0
+Ontario,3/20/2020,311,2
+Quebec,3/20/2020,139,1
+Newfoundland and Labrador,3/20/2020,3,0
+New Brunswick,3/20/2020,7,0
+Nova Scotia,3/20/2020,5,0
+Prince Edward Island,3/20/2020,2,0
+Yukon,3/20/2020,0,0
+Northwest Territories,3/20/2020,0,0
+Nunavut,3/20/2020,0,0
+Repatriated travellers,3/20/2020,13,0
+Canada,3/20/2020,971,13
+British Columbia,3/21/2020,424,10
+Alberta,3/21/2020,226,1
+Saskatchewan,3/21/2020,25,0
+Manitoba,3/21/2020,11,0
+Ontario,3/21/2020,377,3
+Quebec,3/21/2020,202,4
+Newfoundland and Labrador,3/21/2020,3,0
+New Brunswick,3/21/2020,9,0
+Nova Scotia,3/21/2020,9,0
+Prince Edward Island,3/21/2020,2,0
+Yukon,3/21/2020,0,0
+Northwest Territories,3/21/2020,1,0
+Nunavut,3/21/2020,0,0
+Repatriated travellers,3/21/2020,13,0
+Canada,3/21/2020,1302,18
+British Columbia,3/22/2020,424,10
+Alberta,3/22/2020,259,1
+Saskatchewan,3/22/2020,33,0
+Manitoba,3/22/2020,11,0
+Ontario,3/22/2020,425,5
+Quebec,3/22/2020,221,4
+Newfoundland and Labrador,3/22/2020,3,0
+New Brunswick,3/22/2020,9,0
+Nova Scotia,3/22/2020,28,0
+Prince Edward Island,3/22/2020,3,0
+Yukon,3/22/2020,0,0
+Northwest Territories,3/22/2020,1,0
+Nunavut,3/22/2020,0,0
+Repatriated travellers,3/22/2020,13,0
+Canada,3/22/2020,1430,20
+British Columbia,3/23/2020,472,13
+Alberta,3/23/2020,301,1
+Saskatchewan,3/23/2020,65,0
+Manitoba,3/23/2020,11,0
+Ontario,3/23/2020,503,6
+Quebec,3/23/2020,221,4
+Newfoundland and Labrador,3/23/2020,4,0
+New Brunswick,3/23/2020,9,0
+Nova Scotia,3/23/2020,41,0
+Prince Edward Island,3/23/2020,3,0
+Yukon,3/23/2020,2,0
+Northwest Territories,3/23/2020,1,0
+Nunavut,3/23/2020,0,0
+Repatriated travellers,3/23/2020,13,0
+Canada,3/23/2020,1646,24
+British Columbia,3/24/2020,617,13
+Alberta,3/24/2020,358,2
+Saskatchewan,3/24/2020,72,0
+Manitoba,3/24/2020,11,0
+Ontario,3/24/2020,588,8
+Quebec,3/24/2020,221,4
+Newfoundland and Labrador,3/24/2020,4,0
+New Brunswick,3/24/2020,18,0
+Nova Scotia,3/24/2020,51,0
+Prince Edward Island,3/24/2020,3,0
+Yukon,3/24/2020,2,0
+Northwest Territories,3/24/2020,1,0
+Nunavut,3/24/2020,0,0
+Repatriated travellers,3/24/2020,13,0
+Canada,3/24/2020,1959,27
+British Columbia,3/25/2020,659,14
+Alberta,3/25/2020,419,2
+Saskatchewan,3/25/2020,86,0
+Manitoba,3/25/2020,11,0
+Ontario,3/25/2020,688,13
+Quebec,3/25/2020,1339,6
+Newfoundland and Labrador,3/25/2020,67,0
+New Brunswick,3/25/2020,26,0
+Nova Scotia,3/25/2020,68,0
+Prince Edward Island,3/25/2020,5,0
+Yukon,3/25/2020,3,0
+Northwest Territories,3/25/2020,1,0
+Nunavut,3/25/2020,0,0
+Repatriated travellers,3/25/2020,13,0
+Canada,3/25/2020,3385,35
+British Columbia,3/26/2020,725,14
+Alberta,3/26/2020,486,2
+Saskatchewan,3/26/2020,95,0
+Manitoba,3/26/2020,11,0
+Ontario,3/26/2020,858,15
+Quebec,3/26/2020,1629,8
+Newfoundland and Labrador,3/26/2020,82,0
+New Brunswick,3/26/2020,33,0
+Nova Scotia,3/26/2020,73,0
+Prince Edward Island,3/26/2020,9,0
+Yukon,3/26/2020,3,0
+Northwest Territories,3/26/2020,1,0
+Nunavut,3/26/2020,0,0
+Repatriated travellers,3/26/2020,13,0
+Canada,3/26/2020,4018,39
+British Columbia,3/27/2020,725,14
+Alberta,3/27/2020,542,2
+Saskatchewan,3/27/2020,104,0
+Manitoba,3/27/2020,25,1
+Ontario,3/27/2020,993,18
+Quebec,3/27/2020,2021,18
+Newfoundland and Labrador,3/27/2020,102,0
+New Brunswick,3/27/2020,45,0
+Nova Scotia,3/27/2020,90,0
+Prince Edward Island,3/27/2020,11,0
+Yukon,3/27/2020,3,0
+Northwest Territories,3/27/2020,1,0
+Nunavut,3/27/2020,0,0
+Repatriated travellers,3/27/2020,13,0
+Canada,3/27/2020,4675,53
+British Columbia,3/28/2020,884,16
+Alberta,3/28/2020,542,2
+Saskatchewan,3/28/2020,134,0
+Manitoba,3/28/2020,25,1
+Ontario,3/28/2020,993,18
+Quebec,3/28/2020,2498,22
+Newfoundland and Labrador,3/28/2020,120,0
+New Brunswick,3/28/2020,51,0
+Nova Scotia,3/28/2020,110,0
+Prince Edward Island,3/28/2020,11,0
+Yukon,3/28/2020,4,0
+Northwest Territories,3/28/2020,1,0
+Nunavut,3/28/2020,0,0
+Repatriated travellers,3/28/2020,13,0
+Canada,3/28/2020,5386,59
+British Columbia,3/29/2020,884,17
+Alberta,3/29/2020,621,2
+Saskatchewan,3/29/2020,134,0
+Manitoba,3/29/2020,69,1
+Ontario,3/29/2020,1355,19
+Quebec,3/29/2020,2840,22
+Newfoundland and Labrador,3/29/2020,135,0
+New Brunswick,3/29/2020,66,0
+Nova Scotia,3/29/2020,122,0
+Prince Edward Island,3/29/2020,11,0
+Yukon,3/29/2020,4,0
+Northwest Territories,3/29/2020,1,0
+Nunavut,3/29/2020,0,0
+Repatriated travellers,3/29/2020,13,0
+Canada,3/29/2020,6255,61
+British Columbia,3/30/2020,960,19
+Alberta,3/30/2020,690,8
+Saskatchewan,3/30/2020,175,2
+Manitoba,3/30/2020,83,1
+Ontario,3/30/2020,1706,33
+Quebec,3/30/2020,3430,25
+Newfoundland and Labrador,3/30/2020,148,1
+New Brunswick,3/30/2020,68,0
+Nova Scotia,3/30/2020,127,0
+Prince Edward Island,3/30/2020,18,0
+Yukon,3/30/2020,5,0
+Northwest Territories,3/30/2020,1,0
+Nunavut,3/30/2020,0,0
+Repatriated travellers,3/30/2020,13,0
+Canada,3/30/2020,7424,89
+British Columbia,3/31/2020,970,19
+Alberta,3/31/2020,754,9
+Saskatchewan,3/31/2020,184,2
+Manitoba,3/31/2020,91,1
+Ontario,3/31/2020,1966,33
+Quebec,3/31/2020,4162,31
+Newfoundland and Labrador,3/31/2020,152,1
+New Brunswick,3/31/2020,70,0
+Nova Scotia,3/31/2020,147,0
+Prince Edward Island,3/31/2020,21,0
+Yukon,3/31/2020,5,0
+Northwest Territories,3/31/2020,1,0
+Nunavut,3/31/2020,0,0
+Repatriated travellers,3/31/2020,13,0
+Canada,3/31/2020,8536,96
+British Columbia,4/1/2020,1066,25
+Alberta,4/1/2020,754,9
+Saskatchewan,4/1/2020,193,3
+Manitoba,4/1/2020,109,1
+Ontario,4/1/2020,2392,37
+Quebec,4/1/2020,4611,33
+Newfoundland and Labrador,4/1/2020,175,1
+New Brunswick,4/1/2020,81,0
+Nova Scotia,4/1/2020,173,0
+Prince Edward Island,4/1/2020,21,0
+Yukon,4/1/2020,5,0
+Northwest Territories,4/1/2020,2,0
+Nunavut,4/1/2020,0,0
+Repatriated travellers,4/1/2020,13,0
+Canada,4/1/2020,9595,109
+British Columbia,4/2/2020,1121,31
+Alberta,4/2/2020,968,13
+Saskatchewan,4/2/2020,206,3
+Manitoba,4/2/2020,152,1
+Ontario,4/2/2020,2793,53
+Quebec,4/2/2020,5518,36
+Newfoundland and Labrador,4/2/2020,183,1
+New Brunswick,4/2/2020,91,0
+Nova Scotia,4/2/2020,193,0
+Prince Edward Island,4/2/2020,22,0
+Yukon,4/2/2020,6,0
+Northwest Territories,4/2/2020,2,0
+Nunavut,4/2/2020,0,0
+Repatriated travellers,4/2/2020,13,0
+Canada,4/2/2020,11268,138
+British Columbia,4/3/2020,1174,35
+Alberta,4/3/2020,1075,18
+Saskatchewan,4/3/2020,220,3
+Manitoba,4/3/2020,164,2
+Ontario,4/3/2020,3255,67
+Quebec,4/3/2020,6101,61
+Newfoundland and Labrador,4/3/2020,183,1
+New Brunswick,4/3/2020,95,0
+Nova Scotia,4/3/2020,207,0
+Prince Edward Island,4/3/2020,22,0
+Yukon,4/3/2020,6,0
+Northwest Territories,4/3/2020,4,0
+Nunavut,4/3/2020,0,0
+Repatriated travellers,4/3/2020,13,0
+Canada,4/3/2020,12519,187
+British Columbia,4/4/2020,1203,38
+Alberta,4/4/2020,1075,18
+Saskatchewan,4/4/2020,231,3
+Manitoba,4/4/2020,172,2
+Ontario,4/4/2020,3630,94
+Quebec,4/4/2020,6997,75
+Newfoundland and Labrador,4/4/2020,195,1
+New Brunswick,4/4/2020,98,0
+Nova Scotia,4/4/2020,236,0
+Prince Edward Island,4/4/2020,22,0
+Yukon,4/4/2020,6,0
+Northwest Territories,4/4/2020,4,0
+Nunavut,4/4/2020,0,0
+Repatriated travellers,4/4/2020,13,0
+Canada,4/4/2020,13882,231
+British Columbia,4/5/2020,1203,38
+Alberta,4/5/2020,1250,23
+Saskatchewan,4/5/2020,249,3
+Manitoba,4/5/2020,187,2
+Ontario,4/5/2020,4038,119
+Quebec,4/5/2020,7944,94
+Newfoundland and Labrador,4/5/2020,217,1
+New Brunswick,4/5/2020,101,0
+Nova Scotia,4/5/2020,262,0
+Prince Edward Island,4/5/2020,22,0
+Yukon,4/5/2020,6,0
+Northwest Territories,4/5/2020,4,0
+Nunavut,4/5/2020,0,0
+Repatriated travellers,4/5/2020,13,0
+Canada,4/5/2020,15496,280
+British Columbia,4/6/2020,1266,39
+Alberta,4/6/2020,1348,24
+Saskatchewan,4/6/2020,253,3
+Manitoba,4/6/2020,190,2
+Ontario,4/6/2020,4347,132
+Quebec,4/6/2020,8580,121
+Newfoundland and Labrador,4/6/2020,226,2
+New Brunswick,4/6/2020,103,0
+Nova Scotia,4/6/2020,293,0
+Prince Edward Island,4/6/2020,22,0
+Yukon,4/6/2020,7,0
+Northwest Territories,4/6/2020,5,0
+Nunavut,4/6/2020,0,0
+Repatriated travellers,4/6/2020,13,0
+Canada,4/6/2020,16653,323
+British Columbia,4/7/2020,1291,43
+Alberta,4/7/2020,1373,26
+Saskatchewan,4/7/2020,260,3
+Manitoba,4/7/2020,203,3
+Ontario,4/7/2020,4726,153
+Quebec,4/7/2020,9340,150
+Newfoundland and Labrador,4/7/2020,228,2
+New Brunswick,4/7/2020,105,0
+Nova Scotia,4/7/2020,310,0
+Prince Edward Island,4/7/2020,22,0
+Yukon,4/7/2020,7,0
+Northwest Territories,4/7/2020,5,0
+Nunavut,4/7/2020,0,0
+Repatriated travellers,4/7/2020,13,0
+Canada,4/7/2020,17883,380
+British Columbia,4/8/2020,1336,48
+Alberta,4/8/2020,1423,29
+Saskatchewan,4/8/2020,271,3
+Manitoba,4/8/2020,206,3
+Ontario,4/8/2020,5276,174
+Quebec,4/8/2020,10031,175
+Newfoundland and Labrador,4/8/2020,232,2
+New Brunswick,4/8/2020,108,0
+Nova Scotia,4/8/2020,342,1
+Prince Edward Island,4/8/2020,24,0
+Yukon,4/8/2020,7,0
+Northwest Territories,4/8/2020,5,0
+Nunavut,4/8/2020,0,0
+Repatriated travellers,4/8/2020,13,0
+Canada,4/8/2020,19274,435
+British Columbia,4/9/2020,1370,50
+Alberta,4/9/2020,1451,32
+Saskatchewan,4/9/2020,278,3
+Manitoba,4/9/2020,207,3
+Ontario,4/9/2020,5759,200
+Quebec,4/9/2020,10912,216
+Newfoundland and Labrador,4/9/2020,236,3
+New Brunswick,4/9/2020,111,0
+Nova Scotia,4/9/2020,373,2
+Prince Edward Island,4/9/2020,25,0
+Yukon,4/9/2020,8,0
+Northwest Territories,4/9/2020,5,0
+Nunavut,4/9/2020,0,0
+Repatriated travellers,4/9/2020,13,0
+Canada,4/9/2020,20748,509
+British Columbia,4/10/2020,1410,55
+Alberta,4/10/2020,1500,39
+Saskatchewan,4/10/2020,285,3
+Manitoba,4/10/2020,215,4
+Ontario,4/10/2020,6237,222
+Quebec,4/10/2020,11677,241
+Newfoundland and Labrador,4/10/2020,239,3
+New Brunswick,4/10/2020,112,0
+Nova Scotia,4/10/2020,407,2
+Prince Edward Island,4/10/2020,25,0
+Yukon,4/10/2020,8,0
+Northwest Territories,4/10/2020,5,0
+Nunavut,4/10/2020,0,0
+Repatriated travellers,4/10/2020,13,
+Canada,4/10/2020,22133,569
+British Columbia,4/11/2020,1445,58
+Alberta,4/11/2020,1569,40
+Saskatchewan,4/11/2020,289,4
+Manitoba,4/11/2020,226,4
+Ontario,4/11/2020,6648,253
+Quebec,4/11/2020,12292,289
+Newfoundland and Labrador,4/11/2020,241,3
+New Brunswick,4/11/2020,112,0
+Nova Scotia,4/11/2020,428,2
+Prince Edward Island,4/11/2020,25,0
+Yukon,4/11/2020,8,0
+Northwest Territories,4/11/2020,5,0
+Nunavut,4/11/2020,0,0
+Repatriated travellers,4/11/2020,13,
+Canada,4/11/2020,23301,653
+British Columbia,4/12/2020,1445,58
+Alberta,4/12/2020,1651,44
+Saskatchewan,4/12/2020,296,4
+Manitoba,4/12/2020,226,4
+Ontario,4/12/2020,7049,274
+Quebec,4/12/2020,12846,328
+Newfoundland and Labrador,4/12/2020,242,3
+New Brunswick,4/12/2020,114,0
+Nova Scotia,4/12/2020,445,2
+Prince Edward Island,4/12/2020,25,0
+Yukon,4/12/2020,8,0
+Northwest Territories,4/12/2020,5,0
+Nunavut,4/12/2020,0,0
+Repatriated travellers,4/12/2020,13,
+Canada,4/12/2020,24365,717
+British Columbia,4/13/2020,1490,69
+Alberta,4/13/2020,1732,46
+Saskatchewan,4/13/2020,300,4
+Manitoba,4/13/2020,229,4
+Ontario,4/13/2020,7470,291
+Quebec,4/13/2020,13557,360
+Newfoundland and Labrador,4/13/2020,244,3
+New Brunswick,4/13/2020,116,0
+Nova Scotia,4/13/2020,474,3
+Prince Edward Island,4/13/2020,25,0
+Yukon,4/13/2020,8,0
+Northwest Territories,4/13/2020,5,0
+Nunavut,4/13/2020,0,0
+Repatriated travellers,4/13/2020,13,
+Canada,4/13/2020,25663,780
+British Columbia,4/14/2020,1517,72
+Alberta,4/14/2020,1870,48
+Saskatchewan,4/14/2020,301,4
+Manitoba,4/14/2020,229,4
+Ontario,4/14/2020,7953,334
+Quebec,4/14/2020,14248,435
+Newfoundland and Labrador,4/14/2020,244,3
+New Brunswick,4/14/2020,116,0
+Nova Scotia,4/14/2020,517,3
+Prince Edward Island,4/14/2020,25,0
+Yukon,4/14/2020,8,0
+Northwest Territories,4/14/2020,5,0
+Nunavut,4/14/2020,0,0
+Repatriated travellers,4/14/2020,13,
+Canada,4/14/2020,27046,903
+British Columbia,4/15/2020,1561,75
+Alberta,4/15/2020,1996,48
+Saskatchewan,4/15/2020,304,4
+Manitoba,4/15/2020,231,5
+Ontario,4/15/2020,8447,390
+Quebec,4/15/2020,14860,487
+Newfoundland and Labrador,4/15/2020,247,3
+New Brunswick,4/15/2020,117,0
+Nova Scotia,4/15/2020,549,3
+Prince Edward Island,4/15/2020,26,0
+Yukon,4/15/2020,8,0
+Northwest Territories,4/15/2020,5,0
+Nunavut,4/15/2020,0,0
+Repatriated travellers,4/15/2020,13,
+Canada,4/15/2020,28364,1015
+British Columbia,4/16/2020,1561,75
+Alberta,4/16/2020,2158,50
+Saskatchewan,4/16/2020,305,4
+Manitoba,4/16/2020,239,5
+Ontario,4/16/2020,8961,428
+Quebec,4/16/2020,15857,630
+Newfoundland and Labrador,4/16/2020,252,3
+New Brunswick,4/16/2020,117,0
+Nova Scotia,4/16/2020,579,3
+Prince Edward Island,4/16/2020,26,0
+Yukon,4/16/2020,8,0
+Northwest Territories,4/16/2020,5,0
+Nunavut,4/16/2020,0,0
+Repatriated travellers,4/16/2020,13,
+Canada,4/16/2020,30081,1198
+British Columbia,4/17/2020,1575,77
+Alberta,4/17/2020,2397,50
+Saskatchewan,4/17/2020,306,4
+Manitoba,4/17/2020,239,5
+Ontario,4/17/2020,9525,483
+Quebec,4/17/2020,16798,688
+Newfoundland and Labrador,4/17/2020,256,3
+New Brunswick,4/17/2020,117,0
+Nova Scotia,4/17/2020,606,4
+Prince Edward Island,4/17/2020,26,0
+Yukon,4/17/2020,9,0
+Northwest Territories,4/17/2020,5,0
+Nunavut,4/17/2020,0,0
+Repatriated travellers,4/17/2020,13,
+Canada,4/17/2020,31872,1314
+British Columbia,4/18/2020,1618,78
+Alberta,4/18/2020,2562,51
+Saskatchewan,4/18/2020,310,4
+Manitoba,4/18/2020,243,5
+Ontario,4/18/2020,10010,519
+Quebec,4/18/2020,17521,805
+Newfoundland and Labrador,4/18/2020,257,3
+New Brunswick,4/18/2020,118,0
+Nova Scotia,4/18/2020,649,7
+Prince Edward Island,4/18/2020,26,0
+Yukon,4/18/2020,9,0
+Northwest Territories,4/18/2020,5,0
+Nunavut,4/18/2020,0,0
+Repatriated travellers,4/18/2020,13,
+Canada,4/18/2020,33341,1472
+British Columbia,4/19/2020,1618,78
+Alberta,4/19/2020,2562,51
+Saskatchewan,4/19/2020,314,4
+Manitoba,4/19/2020,245,5
+Ontario,4/19/2020,10578,558
+Quebec,4/19/2020,18357,877
+Newfoundland and Labrador,4/19/2020,257,3
+New Brunswick,4/19/2020,118,0
+Nova Scotia,4/19/2020,675,9
+Prince Edward Island,4/19/2020,26,0
+Yukon,4/19/2020,9,0
+Northwest Territories,4/19/2020,5,0
+Nunavut,4/19/2020,0,0
+Repatriated travellers,4/19/2020,13,
+Canada,4/19/2020,34777,1585
+British Columbia,4/20/2020,1699,86
+Alberta,4/20/2020,2908,59
+Saskatchewan,4/20/2020,316,4
+Manitoba,4/20/2020,246,6
+Ontario,4/20/2020,11184,589
+Quebec,4/20/2020,19319,939
+Newfoundland and Labrador,4/20/2020,257,3
+New Brunswick,4/20/2020,118,0
+Nova Scotia,4/20/2020,721,9
+Prince Edward Island,4/20/2020,26,0
+Yukon,4/20/2020,11,0
+Northwest Territories,4/20/2020,5,0
+Nunavut,4/20/2020,0,0
+Repatriated travellers,4/20/2020,13,
+Canada,4/20/2020,36823,1695
+British Columbia,4/21/2020,1724,87
+Alberta,4/21/2020,3095,61
+Saskatchewan,4/21/2020,320,4
+Manitoba,4/21/2020,246,6
+Ontario,4/21/2020,11735,627
+Quebec,4/21/2020,20126,1041
+Newfoundland and Labrador,4/21/2020,257,3
+New Brunswick,4/21/2020,118,0
+Nova Scotia,4/21/2020,737,10
+Prince Edward Island,4/21/2020,26,0
+Yukon,4/21/2020,11,0
+Northwest Territories,4/21/2020,5,0
+Nunavut,4/21/2020,0,0
+Repatriated travellers,4/21/2020,13,
+Canada,4/21/2020,38413,1839
+British Columbia,4/22/2020,1795,90
+Alberta,4/22/2020,3401,66
+Saskatchewan,4/22/2020,326,4
+Manitoba,4/22/2020,246,6
+Ontario,4/22/2020,12245,664
+Quebec,4/22/2020,20965,1134
+Newfoundland and Labrador,4/22/2020,256,3
+New Brunswick,4/22/2020,118,0
+Nova Scotia,4/22/2020,772,12
+Prince Edward Island,4/22/2020,26,0
+Yukon,4/22/2020,11,0
+Northwest Territories,4/22/2020,5,0
+Nunavut,4/22/2020,0,0
+Repatriated travellers,4/22/2020,13,
+Canada,4/22/2020,40179,1979
+British Columbia,4/23/2020,1824,94
+Alberta,4/23/2020,3720,67
+Saskatchewan,4/23/2020,331,4
+Manitoba,4/23/2020,251,6
+Ontario,4/23/2020,12879,718
+Quebec,4/23/2020,21838,1243
+Newfoundland and Labrador,4/23/2020,256,3
+New Brunswick,4/23/2020,118,0
+Nova Scotia,4/23/2020,827,16
+Prince Edward Island,4/23/2020,26,0
+Yukon,4/23/2020,11,0
+Northwest Territories,4/23/2020,5,0
+Nunavut,4/23/2020,0,0
+Repatriated travellers,4/23/2020,13,
+Canada,4/23/2020,42099,2151
+British Columbia,4/24/2020,1853,98
+Alberta,4/24/2020,4017,72
+Saskatchewan,4/24/2020,341,4
+Manitoba,4/24/2020,252,6
+Ontario,4/24/2020,13519,768
+Quebec,4/24/2020,22616,1340
+Newfoundland and Labrador,4/24/2020,256,3
+New Brunswick,4/24/2020,118,0
+Nova Scotia,4/24/2020,850,16
+Prince Edward Island,4/24/2020,26,0
+Yukon,4/24/2020,11,0
+Northwest Territories,4/24/2020,5,0
+Nunavut,4/24/2020,0,0
+Repatriated travellers,4/24/2020,13,
+Canada,4/24/2020,43877,2307
+British Columbia,4/25/2020,1948,100
+Alberta,4/25/2020,4233,73
+Saskatchewan,4/25/2020,347,4
+Manitoba,4/25/2020,256,6
+Ontario,4/25/2020,13995,816
+Quebec,4/25/2020,23267,1446
+Newfoundland and Labrador,4/25/2020,257,3
+New Brunswick,4/25/2020,118,0
+Nova Scotia,4/25/2020,865,22
+Prince Edward Island,4/25/2020,26,0
+Yukon,4/25/2020,11,0
+Northwest Territories,4/25/2020,5,0
+Nunavut,4/25/2020,0,0
+Repatriated travellers,4/25/2020,13,
+Canada,4/25/2020,45341,2470
+British Columbia,4/26/2020,1948,100
+Alberta,4/26/2020,4480,73
+Saskatchewan,4/26/2020,353,4
+Manitoba,4/26/2020,260,6
+Ontario,4/26/2020,14432,840
+Quebec,4/26/2020,24107,1515
+Newfoundland and Labrador,4/26/2020,258,3
+New Brunswick,4/26/2020,118,0
+Nova Scotia,4/26/2020,873,24
+Prince Edward Island,4/26/2020,26,0
+Yukon,4/26/2020,11,0
+Northwest Territories,4/26/2020,5,0
+Nunavut,4/26/2020,0,0
+Repatriated travellers,4/26/2020,13,
+Canada,4/26/2020,46884,2565
+British Columbia,4/27/2020,1998,103
+Alberta,4/27/2020,4696,75
+Saskatchewan,4/27/2020,365,5
+Manitoba,4/27/2020,261,6
+Ontario,4/27/2020,14856,897
+Quebec,4/27/2020,24982,1599
+Newfoundland and Labrador,4/27/2020,258,3
+New Brunswick,4/27/2020,118,0
+Nova Scotia,4/27/2020,900,24
+Prince Edward Island,4/27/2020,26,0
+Yukon,4/27/2020,11,0
+Northwest Territories,4/27/2020,5,0
+Nunavut,4/27/2020,0,0
+Repatriated travellers,4/27/2020,13,
+Canada,4/27/2020,48489,2712
+British Columbia,4/28/2020,2053,105
+Alberta,4/28/2020,4850,80
+Saskatchewan,4/28/2020,366,5
+Manitoba,4/28/2020,261,6
+Ontario,4/28/2020,15381,956
+Quebec,4/28/2020,25757,1682
+Newfoundland and Labrador,4/28/2020,258,3
+New Brunswick,4/28/2020,118,0
+Nova Scotia,4/28/2020,915,27
+Prince Edward Island,4/28/2020,27,0
+Yukon,4/28/2020,11,0
+Northwest Territories,4/28/2020,5,0
+Nunavut,4/28/2020,0,0
+Repatriated travellers,4/28/2020,13,
+Canada,4/28/2020,50015,2864
+British Columbia,4/29/2020,2087,109
+Alberta,4/29/2020,5165,87
+Saskatchewan,4/29/2020,383,6
+Manitoba,4/29/2020,263,6
+Ontario,4/29/2020,15728,1001
+Quebec,4/29/2020,26594,1761
+Newfoundland and Labrador,4/29/2020,258,3
+New Brunswick,4/29/2020,118,0
+Nova Scotia,4/29/2020,935,28
+Prince Edward Island,4/29/2020,27,0
+Yukon,4/29/2020,11,0
+Northwest Territories,4/29/2020,5,0
+Nunavut,4/29/2020,0,0
+Repatriated travellers,4/29/2020,13,
+Canada,4/29/2020,51587,3001
+British Columbia,4/30/2020,2112,111
+Alberta,4/30/2020,5355,89
+Saskatchewan,4/30/2020,389,6
+Manitoba,4/30/2020,264,6
+Ontario,4/30/2020,16187,1087
+Quebec,4/30/2020,27538,1859
+Newfoundland and Labrador,4/30/2020,258,3
+New Brunswick,4/30/2020,118,0
+Nova Scotia,4/30/2020,947,28
+Prince Edward Island,4/30/2020,27,0
+Yukon,4/30/2020,11,0
+Northwest Territories,4/30/2020,5,0
+Nunavut,4/30/2020,0,0
+Repatriated travellers,4/30/2020,13,
+Canada,4/30/2020,53225,3189
+British Columbia,5/1/2020,2145,112
+Alberta,5/1/2020,5573,92
+Saskatchewan,5/1/2020,415,6
+Manitoba,5/1/2020,268,6
+Ontario,5/1/2020,16608,1126
+Quebec,5/1/2020,28648,2022
+Newfoundland and Labrador,5/1/2020,259,3
+New Brunswick,5/1/2020,118,0
+Nova Scotia,5/1/2020,959,29
+Prince Edward Island,5/1/2020,27,0
+Yukon,5/1/2020,11,0
+Northwest Territories,5/1/2020,5,0
+Nunavut,5/1/2020,0,0
+Repatriated travellers,5/1/2020,13,
+Canada,5/1/2020,55050,3396
+British Columbia,5/2/2020,2171,114
+Alberta,5/2/2020,5670,94
+Saskatchewan,5/2/2020,421,6
+Manitoba,5/2/2020,269,6
+Ontario,5/2/2020,17119,1181
+Quebec,5/2/2020,29656,2136
+Newfoundland and Labrador,5/2/2020,259,3
+New Brunswick,5/2/2020,118,0
+Nova Scotia,5/2/2020,963,31
+Prince Edward Island,5/2/2020,27,0
+Yukon,5/2/2020,11,0
+Northwest Territories,5/2/2020,5,0
+Nunavut,5/2/2020,0,0
+Repatriated travellers,5/2/2020,13,
+Canada,5/2/2020,56703,3571
+British Columbia,5/3/2020,2171,114
+Alberta,5/3/2020,5766,95
+Saskatchewan,5/3/2020,433,6
+Manitoba,5/3/2020,270,6
+Ontario,5/3/2020,17553,1221
+Quebec,5/3/2020,31865,2205
+Newfoundland and Labrador,5/3/2020,259,3
+New Brunswick,5/3/2020,118,0
+Nova Scotia,5/3/2020,971,37
+Prince Edward Island,5/3/2020,27,0
+Yukon,5/3/2020,11,0
+Northwest Territories,5/3/2020,5,0
+Nunavut,5/3/2020,0,0
+Repatriated travellers,5/3/2020,13,0
+Canada,5/3/2020,59463,3687
+British Columbia,5/4/2020,2224,117
+Alberta,5/4/2020,5836,104
+Saskatchewan,5/4/2020,467,6
+Manitoba,5/4/2020,270,6
+Ontario,5/4/2020,17923,1305
+Quebec,5/4/2020,32623,2280
+Newfoundland and Labrador,5/4/2020,259,3
+New Brunswick,5/4/2020,118,0
+Nova Scotia,5/4/2020,985,38
+Prince Edward Island,5/4/2020,27,0
+Yukon,5/4/2020,11,0
+Northwest Territories,5/4/2020,5,0
+Nunavut,5/4/2020,0,0
+Repatriated travellers,5/4/2020,13,
+Canada,5/4/2020,60761,3859
+British Columbia,5/5/2020,2232,121
+Alberta,5/5/2020,5893,106
+Saskatchewan,5/5/2020,487,6
+Manitoba,5/5/2020,271,7
+Ontario,5/5/2020,18310,1366
+Quebec,5/5/2020,33417,2398
+Newfoundland and Labrador,5/5/2020,259,3
+New Brunswick,5/5/2020,119,0
+Nova Scotia,5/5/2020,991,41
+Prince Edward Island,5/5/2020,27,0
+Yukon,5/5/2020,11,0
+Northwest Territories,5/5/2020,5,0
+Nunavut,5/5/2020,0,0
+Repatriated travellers,5/5/2020,13,
+Canada,5/5/2020,62035,4048
+British Columbia,5/6/2020,2255,124
+Alberta,5/6/2020,5963,112
+Saskatchewan,5/6/2020,512,6
+Manitoba,5/6/2020,273,7
+Ontario,5/6/2020,18722,1434
+Quebec,5/6/2020,34327,2510
+Newfoundland and Labrador,5/6/2020,259,3
+New Brunswick,5/6/2020,120,0
+Nova Scotia,5/6/2020,998,41
+Prince Edward Island,5/6/2020,27,0
+Yukon,5/6/2020,11,0
+Northwest Territories,5/6/2020,5,0
+Nunavut,5/6/2020,0,0
+Repatriated travellers,5/6/2020,13,
+Canada,5/6/2020,63485,4237
+British Columbia,5/7/2020,2288,126
+Alberta,5/7/2020,6017,114
+Saskatchewan,5/7/2020,531,6
+Manitoba,5/7/2020,272,7
+Ontario,5/7/2020,19121,1482
+Quebec,5/7/2020,35238,2631
+Newfoundland and Labrador,5/7/2020,261,3
+New Brunswick,5/7/2020,120,0
+Nova Scotia,5/7/2020,1007,44
+Prince Edward Island,5/7/2020,27,0
+Yukon,5/7/2020,11,0
+Northwest Territories,5/7/2020,5,0
+Nunavut,5/7/2020,0,0
+Repatriated travellers,5/7/2020,13,
+Canada,5/7/2020,64911,4413
+British Columbia,5/8/2020,2315,127
+Alberta,5/8/2020,6098,115
+Saskatchewan,5/8/2020,544,6
+Manitoba,5/8/2020,273,7
+Ontario,5/8/2020,19598,1545
+Quebec,5/8/2020,36150,2725
+Newfoundland and Labrador,5/8/2020,261,3
+New Brunswick,5/8/2020,120,0
+Nova Scotia,5/8/2020,1008,46
+Prince Edward Island,5/8/2020,27,0
+Yukon,5/8/2020,11,0
+Northwest Territories,5/8/2020,5,0
+Nunavut,5/8/2020,0,0
+Repatriated travellers,5/8/2020,13,
+Canada,5/8/2020,66423,4574
+British Columbia,5/9/2020,2330,129
+Alberta,5/9/2020,6157,116
+Saskatchewan,5/9/2020,553,6
+Manitoba,5/9/2020,273,7
+Ontario,5/9/2020,19944,1604
+Quebec,5/9/2020,36986,2786
+Newfoundland and Labrador,5/9/2020,261,3
+New Brunswick,5/9/2020,120,0
+Nova Scotia,5/9/2020,1011,47
+Prince Edward Island,5/9/2020,27,0
+Yukon,5/9/2020,11,0
+Northwest Territories,5/9/2020,5,0
+Nunavut,5/9/2020,0,0
+Repatriated travellers,5/9/2020,13,
+Canada,5/9/2020,67691,4698
+British Columbia,5/10/2020,2330,129
+Alberta,5/10/2020,6253,117
+Saskatchewan,5/10/2020,564,6
+Manitoba,5/10/2020,276,7
+Ontario,5/10/2020,20238,1639
+Quebec,5/10/2020,37721,2928
+Newfoundland and Labrador,5/10/2020,261,3
+New Brunswick,5/10/2020,120,0
+Nova Scotia,5/10/2020,1018,47
+Prince Edward Island,5/10/2020,27,0
+Yukon,5/10/2020,11,0
+Northwest Territories,5/10/2020,5,0
+Nunavut,5/10/2020,0,0
+Repatriated travellers,5/10/2020,13,
+Canada,5/10/2020,68837,4876
+British Columbia,5/11/2020,2353,130
+Alberta,5/11/2020,6300,117
+Saskatchewan,5/11/2020,568,6
+Manitoba,5/11/2020,278,7
+Ontario,5/11/2020,20546,1674
+Quebec,5/11/2020,38469,3013
+Newfoundland and Labrador,5/11/2020,261,3
+New Brunswick,5/11/2020,120,0
+Nova Scotia,5/11/2020,1019,48
+Prince Edward Island,5/11/2020,27,0
+Yukon,5/11/2020,11,0
+Northwest Territories,5/11/2020,5,0
+Nunavut,5/11/2020,0,0
+Repatriated travellers,5/11/2020,13,
+Canada,5/11/2020,69970,4998
+British Columbia,5/12/2020,2360,131
+Alberta,5/12/2020,6345,118
+Saskatchewan,5/12/2020,573,6
+Manitoba,5/12/2020,279,7
+Ontario,5/12/2020,20907,1730
+Quebec,5/12/2020,39225,3131
+Newfoundland and Labrador,5/12/2020,261,3
+New Brunswick,5/12/2020,120,0
+Nova Scotia,5/12/2020,1020,48
+Prince Edward Island,5/12/2020,27,0
+Yukon,5/12/2020,11,0
+Northwest Territories,5/12/2020,5,0
+Nunavut,5/12/2020,0,0
+Repatriated travellers,5/12/2020,13,
+Canada,5/12/2020,71146,5174
+British Columbia,5/13/2020,2376,132
+Alberta,5/13/2020,6407,120
+Saskatchewan,5/13/2020,577,6
+Manitoba,5/13/2020,279,7
+Ontario,5/13/2020,21236,1770
+Quebec,5/13/2020,39931,3220
+Newfoundland and Labrador,5/13/2020,261,3
+New Brunswick,5/13/2020,120,0
+Nova Scotia,5/13/2020,1024,51
+Prince Edward Island,5/13/2020,27,0
+Yukon,5/13/2020,11,0
+Northwest Territories,5/13/2020,5,0
+Nunavut,5/13/2020,0,0
+Repatriated travellers,5/13/2020,13,
+Canada,5/13/2020,72267,5309
+British Columbia,5/14/2020,2392,135
+Alberta,5/14/2020,6457,121
+Saskatchewan,5/14/2020,582,6
+Manitoba,5/14/2020,278,7
+Ontario,5/14/2020,21581,1803
+Quebec,5/14/2020,40724,3351
+Newfoundland and Labrador,5/14/2020,261,3
+New Brunswick,5/14/2020,120,0
+Nova Scotia,5/14/2020,1026,51
+Prince Edward Island,5/14/2020,27,0
+Yukon,5/14/2020,11,0
+Northwest Territories,5/14/2020,5,0
+Nunavut,5/14/2020,0,0
+Repatriated travellers,5/14/2020,13,
+Canada,5/14/2020,73477,5477
+British Columbia,5/15/2020,2407,140
+Alberta,5/15/2020,6515,125
+Saskatchewan,5/15/2020,590,6
+Manitoba,5/15/2020,278,7
+Ontario,5/15/2020,21922,1835
+Quebec,5/15/2020,41420,3401
+Newfoundland and Labrador,5/15/2020,260,3
+New Brunswick,5/15/2020,120,0
+Nova Scotia,5/15/2020,1034,55
+Prince Edward Island,5/15/2020,27,0
+Yukon,5/15/2020,11,0
+Northwest Territories,5/15/2020,5,0
+Nunavut,5/15/2020,0,0
+Repatriated travellers,5/15/2020,13,
+Canada,5/15/2020,74602,5572
+British Columbia,5/16/2020,2428,141
+Alberta,5/16/2020,6587,126
+Saskatchewan,5/16/2020,591,6
+Manitoba,5/16/2020,278,7
+Ontario,5/16/2020,22313,1868
+Quebec,5/16/2020,42183,3483
+Newfoundland and Labrador,5/16/2020,260,3
+New Brunswick,5/16/2020,120,0
+Nova Scotia,5/16/2020,1037,55
+Prince Edward Island,5/16/2020,27,0
+Yukon,5/16/2020,11,0
+Northwest Territories,5/16/2020,5,0
+Nunavut,5/16/2020,0,0
+Repatriated travellers,5/16/2020,13,
+Canada,5/16/2020,75853,5689
+British Columbia,5/17/2020,2428,141
+Alberta,5/17/2020,6644,127
+Saskatchewan,5/17/2020,592,6
+Manitoba,5/17/2020,278,7
+Ontario,5/17/2020,22653,1891
+Quebec,5/17/2020,42920,3562
+Newfoundland and Labrador,5/17/2020,260,3
+New Brunswick,5/17/2020,120,0
+Nova Scotia,5/17/2020,1040,55
+Prince Edward Island,5/17/2020,27,0
+Yukon,5/17/2020,11,0
+Northwest Territories,5/17/2020,5,0
+Nunavut,5/17/2020,0,0
+Repatriated travellers,5/17/2020,13,
+Canada,5/17/2020,76991,5792
+British Columbia,5/18/2020,2444,143
+Alberta,5/18/2020,6683,128
+Saskatchewan,5/18/2020,592,6
+Manitoba,5/18/2020,279,7
+Ontario,5/18/2020,22957,1914
+Quebec,5/18/2020,43627,3596
+Newfoundland and Labrador,5/18/2020,260,3
+New Brunswick,5/18/2020,120,0
+Nova Scotia,5/18/2020,1043,55
+Prince Edward Island,5/18/2020,27,0
+Yukon,5/18/2020,11,0
+Northwest Territories,5/18/2020,5,0
+Nunavut,5/18/2020,0,0
+Repatriated travellers,5/18/2020,13,
+Canada,5/18/2020,78061,5852
+British Columbia,5/19/2020,2446,146
+Alberta,5/19/2020,6716,128
+Saskatchewan,5/19/2020,599,6
+Manitoba,5/19/2020,279,7
+Ontario,5/19/2020,23384,1929
+Quebec,5/19/2020,44197,3647
+Newfoundland and Labrador,5/19/2020,260,3
+New Brunswick,5/19/2020,120,0
+Nova Scotia,5/19/2020,1044,56
+Prince Edward Island,5/19/2020,27,0
+Yukon,5/19/2020,11,0
+Northwest Territories,5/19/2020,5,0
+Nunavut,5/19/2020,0,0
+Repatriated travellers,5/19/2020,13,
+Canada,5/19/2020,79101,5922
+British Columbia,5/20/2020,2467,149
+Alberta,5/20/2020,6716,128
+Saskatchewan,5/20/2020,620,6
+Manitoba,5/20/2020,279,7
+Ontario,5/20/2020,23774,1972
+Quebec,5/20/2020,44775,3718
+Newfoundland and Labrador,5/20/2020,260,3
+New Brunswick,5/20/2020,120,0
+Nova Scotia,5/20/2020,1045,57
+Prince Edward Island,5/20/2020,27,0
+Yukon,5/20/2020,11,0
+Northwest Territories,5/20/2020,5,0
+Nunavut,5/20/2020,0,0
+Repatriated travellers,5/20/2020,13,
+Canada,5/20/2020,80112,6040
+British Columbia,5/21/2020,2479,152
+Alberta,5/21/2020,6768,132
+Saskatchewan,5/21/2020,622,7
+Manitoba,5/21/2020,279,7
+Ontario,5/21/2020,24187,2003
+Quebec,5/21/2020,45495,3800
+Newfoundland and Labrador,5/21/2020,260,3
+New Brunswick,5/21/2020,121,0
+Nova Scotia,5/21/2020,1046,58
+Prince Edward Island,5/21/2020,27,0
+Yukon,5/21/2020,11,0
+Northwest Territories,5/21/2020,5,0
+Nunavut,5/21/2020,0,0
+Repatriated travellers,5/21/2020,13,
+Canada,5/21/2020,81313,6162
+British Columbia,5/22/2020,2507,155
+Alberta,5/22/2020,6800,134
+Saskatchewan,5/22/2020,627,7
+Manitoba,5/22/2020,281,7
+Ontario,5/22/2020,24628,2031
+Quebec,5/22/2020,46141,3865
+Newfoundland and Labrador,5/22/2020,260,3
+New Brunswick,5/22/2020,121,0
+Nova Scotia,5/22/2020,1048,58
+Prince Edward Island,5/22/2020,27,0
+Yukon,5/22/2020,11,0
+Northwest Territories,5/22/2020,5,0
+Nunavut,5/22/2020,0,0
+Repatriated travellers,5/22/2020,13,
+Canada,5/22/2020,82469,6260
+British Columbia,5/23/2020,2517,157
+Alberta,5/23/2020,6818,135
+Saskatchewan,5/23/2020,630,7
+Manitoba,5/23/2020,281,7
+Ontario,5/23/2020,25040,2058
+Quebec,5/23/2020,46838,3940
+Newfoundland and Labrador,5/23/2020,260,3
+New Brunswick,5/23/2020,121,0
+Nova Scotia,5/23/2020,1049,58
+Prince Edward Island,5/23/2020,27,0
+Yukon,5/23/2020,11,0
+Northwest Territories,5/23/2020,5,0
+Nunavut,5/23/2020,0,0
+Repatriated travellers,5/23/2020,13,
+Canada,5/23/2020,83610,6365
+British Columbia,5/24/2020,2517,157
+Alberta,5/24/2020,6860,135
+Saskatchewan,5/24/2020,632,7
+Manitoba,5/24/2020,281,7
+Ontario,5/24/2020,25500,2083
+Quebec,5/24/2020,47411,3984
+Newfoundland and Labrador,5/24/2020,260,3
+New Brunswick,5/24/2020,121,0
+Nova Scotia,5/24/2020,1050,58
+Prince Edward Island,5/24/2020,27,0
+Yukon,5/24/2020,11,0
+Northwest Territories,5/24/2020,5,0
+Nunavut,5/24/2020,0,0
+Repatriated travellers,5/24/2020,13,
+Canada,5/24/2020,84688,6434
+British Columbia,5/25/2020,2530,161
+Alberta,5/25/2020,6879,138
+Saskatchewan,5/25/2020,634,7
+Manitoba,5/25/2020,281,7
+Ontario,5/25/2020,25904,2112
+Quebec,5/25/2020,47984,4069
+Newfoundland and Labrador,5/25/2020,260,3
+New Brunswick,5/25/2020,121,0
+Nova Scotia,5/25/2020,1051,58
+Prince Edward Island,5/25/2020,27,0
+Yukon,5/25/2020,11,0
+Northwest Territories,5/25/2020,5,0
+Nunavut,5/25/2020,0,0
+Repatriated travellers,5/25/2020,13,
+Canada,5/25/2020,85700,6555
+British Columbia,5/26/2020,2541,161
+Alberta,5/26/2020,6901,139
+Saskatchewan,5/26/2020,634,8
+Manitoba,5/26/2020,281,7
+Ontario,5/26/2020,26191,2133
+Quebec,5/26/2020,48598,4139
+Newfoundland and Labrador,5/26/2020,260,3
+New Brunswick,5/26/2020,122,0
+Nova Scotia,5/26/2020,1052,59
+Prince Edward Island,5/26/2020,27,0
+Yukon,5/26/2020,11,0
+Northwest Territories,5/26/2020,5,0
+Nunavut,5/26/2020,0,0
+Repatriated travellers,5/26/2020,13,
+Canada,5/26/2020,86636,6649
+British Columbia,5/27/2020,2550,162
+Alberta,5/27/2020,6926,141
+Saskatchewan,5/27/2020,637,10
+Manitoba,5/27/2020,281,7
+Ontario,5/27/2020,26483,2165
+Quebec,5/27/2020,49139,4228
+Newfoundland and Labrador,5/27/2020,260,3
+New Brunswick,5/27/2020,123,0
+Nova Scotia,5/27/2020,1053,59
+Prince Edward Island,5/27/2020,27,0
+Yukon,5/27/2020,11,0
+Northwest Territories,5/27/2020,5,0
+Nunavut,5/27/2020,0,0
+Repatriated travellers,5/27/2020,13,
+Canada,5/27/2020,87508,6775
+British Columbia,5/28/2020,2558,164
+Alberta,5/28/2020,6955,143
+Saskatchewan,5/28/2020,639,10
+Manitoba,5/28/2020,283,7
+Ontario,5/28/2020,26866,2199
+Quebec,5/28/2020,49702,4302
+Newfoundland and Labrador,5/28/2020,261,3
+New Brunswick,5/28/2020,126,0
+Nova Scotia,5/28/2020,1055,59
+Prince Edward Island,5/28/2020,27,0
+Yukon,5/28/2020,11,0
+Northwest Territories,5/28/2020,5,0
+Nunavut,5/28/2020,0,0
+Repatriated travellers,5/28/2020,13,
+Canada,5/28/2020,88501,6887
+British Columbia,5/29/2020,2562,164
+Alberta,5/29/2020,6979,143
+Saskatchewan,5/29/2020,641,10
+Manitoba,5/29/2020,283,7
+Ontario,5/29/2020,27210,2240
+Quebec,5/29/2020,50232,4363
+Newfoundland and Labrador,5/29/2020,261,3
+New Brunswick,5/29/2020,128,0
+Nova Scotia,5/29/2020,1055,59
+Prince Edward Island,5/29/2020,27,0
+Yukon,5/29/2020,11,0
+Northwest Territories,5/29/2020,5,0
+Nunavut,5/29/2020,0,0
+Repatriated travellers,5/29/2020,13,
+Canada,5/29/2020,89407,6989
+British Columbia,5/30/2020,2573,164
+Alberta,5/30/2020,6992,143
+Saskatchewan,5/30/2020,645,10
+Manitoba,5/30/2020,283,7
+Ontario,5/30/2020,27533,2257
+Quebec,5/30/2020,50651,4439
+Newfoundland and Labrador,5/30/2020,261,3
+New Brunswick,5/30/2020,129,0
+Nova Scotia,5/30/2020,1056,60
+Prince Edward Island,5/30/2020,27,0
+Yukon,5/30/2020,11,0
+Northwest Territories,5/30/2020,5,0
+Nunavut,5/30/2020,0,0
+Repatriated travellers,5/30/2020,13,
+Canada,5/30/2020,90179,7083
+British Columbia,5/31/2020,2573,164
+Alberta,5/31/2020,7010,143
+Saskatchewan,5/31/2020,646,11
+Manitoba,5/31/2020,284,7
+Ontario,5/31/2020,27859,2276
+Quebec,5/31/2020,51059,4641
+Newfoundland and Labrador,5/31/2020,261,3
+New Brunswick,5/31/2020,132,0
+Nova Scotia,5/31/2020,1056,60
+Prince Edward Island,5/31/2020,27,0
+Yukon,5/31/2020,11,0
+Northwest Territories,5/31/2020,5,0
+Nunavut,5/31/2020,0,0
+Repatriated travellers,5/31/2020,13,
+Canada,5/31/2020,90936,7305
+British Columbia,6/1/2020,2597,165
+Alberta,6/1/2020,7044,143
+Saskatchewan,6/1/2020,646,11
+Manitoba,6/1/2020,284,7
+Ontario,6/1/2020,28263,2286
+Quebec,6/1/2020,51354,4661
+Newfoundland and Labrador,6/1/2020,261,3
+New Brunswick,6/1/2020,132,0
+Nova Scotia,6/1/2020,1057,60
+Prince Edward Island,6/1/2020,27,0
+Yukon,6/1/2020,11,0
+Northwest Territories,6/1/2020,5,0
+Nunavut,6/1/2020,0,0
+Repatriated travellers,6/1/2020,13,
+Canada,6/1/2020,91694,7336
+British Columbia,6/2/2020,2601,165
+Alberta,6/2/2020,7057,143
+Saskatchewan,6/2/2020,646,11
+Manitoba,6/2/2020,286,7
+Ontario,6/2/2020,28709,2303
+Quebec,6/2/2020,51593,4713
+Newfoundland and Labrador,6/2/2020,261,3
+New Brunswick,6/2/2020,133,0
+Nova Scotia,6/2/2020,1057,60
+Prince Edward Island,6/2/2020,27,0
+Yukon,6/2/2020,11,0
+Northwest Territories,6/2/2020,5,0
+Nunavut,6/2/2020,0,0
+Repatriated travellers,6/2/2020,13,
+Canada,6/2/2020,92399,7405
+British Columbia,6/3/2020,2623,166
+Alberta,6/3/2020,7076,145
+Saskatchewan,6/3/2020,647,11
+Manitoba,6/3/2020,287,7
+Ontario,6/3/2020,29047,2322
+Quebec,6/3/2020,51884,4794
+Newfoundland and Labrador,6/3/2020,261,3
+New Brunswick,6/3/2020,135,0
+Nova Scotia,6/3/2020,1058,60
+Prince Edward Island,6/3/2020,27,0
+Yukon,6/3/2020,11,0
+Northwest Territories,6/3/2020,5,0
+Nunavut,6/3/2020,0,0
+Repatriated travellers,6/3/2020,13,
+Canada,6/3/2020,93074,7508
+British Columbia,6/4/2020,2632,166
+Alberta,6/4/2020,7091,146
+Saskatchewan,6/4/2020,648,11
+Manitoba,6/4/2020,287,7
+Ontario,6/4/2020,29403,2367
+Quebec,6/4/2020,52143,4885
+Newfoundland and Labrador,6/4/2020,261,3
+New Brunswick,6/4/2020,136,1
+Nova Scotia,6/4/2020,1058,61
+Prince Edward Island,6/4/2020,27,0
+Yukon,6/4/2020,11,0
+Northwest Territories,6/4/2020,5,0
+Nunavut,6/4/2020,0,0
+Repatriated travellers,6/4/2020,13,
+Canada,6/4/2020,93715,7647
+British Columbia,6/5/2020,2632,167
+Alberta,6/5/2020,7098,146
+Saskatchewan,6/5/2020,649,11
+Manitoba,6/5/2020,289,7
+Ontario,6/5/2020,29747,2382
+Quebec,6/5/2020,52398,4935
+Newfoundland and Labrador,6/5/2020,261,3
+New Brunswick,6/5/2020,136,1
+Nova Scotia,6/5/2020,1058,61
+Prince Edward Island,6/5/2020,27,0
+Yukon,6/5/2020,11,0
+Northwest Territories,6/5/2020,5,0
+Nunavut,6/5/2020,0,0
+Repatriated travellers,6/5/2020,13,
+Canada,6/5/2020,94324,7713
+British Columbia,6/6/2020,2632,167
+Alberta,6/6/2020,7138,146
+Saskatchewan,6/6/2020,650,11
+Manitoba,6/6/2020,289,7
+Ontario,6/6/2020,30202,2417
+Quebec,6/6/2020,52624,4970
+Newfoundland and Labrador,6/6/2020,261,3
+New Brunswick,6/6/2020,136,1
+Nova Scotia,6/6/2020,1058,61
+Prince Edward Island,6/6/2020,27,0
+Yukon,6/6/2020,11,0
+Northwest Territories,6/6/2020,5,0
+Nunavut,6/6/2020,0,0
+Repatriated travellers,6/6/2020,13,
+Canada,6/6/2020,95046,7783
+British Columbia,6/7/2020,2632,167
+Alberta,6/7/2020,7138,146
+Saskatchewan,6/7/2020,650,11
+Manitoba,6/7/2020,289,7
+Ontario,6/7/2020,30617,2436
+Quebec,6/7/2020,52849,4978
+Newfoundland and Labrador,6/7/2020,261,3
+New Brunswick,6/7/2020,137,1
+Nova Scotia,6/7/2020,1059,61
+Prince Edward Island,6/7/2020,27,0
+Yukon,6/7/2020,11,0
+Northwest Territories,6/7/2020,5,0
+Nunavut,6/7/2020,0,0
+Repatriated travellers,6/7/2020,13,
+Canada,6/7/2020,95688,7810
+British Columbia,6/8/2020,2659,167
+Alberta,6/8/2020,11067,149
+Saskatchewan,6/8/2020,654,13
+Manitoba,6/8/2020,289,7
+Ontario,6/8/2020,30860,2460
+Quebec,6/8/2020,53047,4984
+Newfoundland and Labrador,6/8/2020,261,3
+New Brunswick,6/8/2020,146,1
+Nova Scotia,6/8/2020,1059,61
+Prince Edward Island,6/8/2020,27,0
+Yukon,6/8/2020,11,0
+Northwest Territories,6/8/2020,5,0
+Nunavut,6/8/2020,0,0
+Repatriated travellers,6/8/2020,13,
+Canada,6/8/2020,96233,7845
+British Columbia,6/9/2020,2669,167
+Alberta,6/9/2020,7229,151
+Saskatchewan,6/9/2020,656,13
+Manitoba,6/9/2020,289,7
+Ontario,6/9/2020,31090,2474
+Quebec,6/9/2020,53185,5029
+Newfoundland and Labrador,6/9/2020,261,3
+New Brunswick,6/9/2020,147,1
+Nova Scotia,6/9/2020,1060,62
+Prince Edward Island,6/9/2020,27,0
+Yukon,6/9/2020,11,0
+Northwest Territories,6/9/2020,5,0
+Nunavut,6/9/2020,0,0
+Repatriated travellers,6/9/2020,13,
+Canada,6/9/2020,96642,7907
+British Columbia,6/10/2020,2680,167
+Alberta,6/10/2020,7276,151
+Saskatchewan,6/10/2020,658,13
+Manitoba,6/10/2020,289,7
+Ontario,6/10/2020,31341,2485
+Quebec,6/10/2020,53341,5081
+Newfoundland and Labrador,6/10/2020,261,3
+New Brunswick,6/10/2020,151,1
+Nova Scotia,6/10/2020,1061,62
+Prince Edward Island,6/10/2020,27,0
+Yukon,6/10/2020,11,0
+Northwest Territories,6/10/2020,5,0
+Nunavut,6/10/2020,0,0
+Repatriated travellers,6/10/2020,13,
+Canada,6/10/2020,97114,7970
+British Columbia,6/11/2020,2694,167
+Alberta,6/11/2020,7316,149
+Saskatchewan,6/11/2020,660,13
+Manitoba,6/11/2020,289,7
+Ontario,6/11/2020,31544,2497
+Quebec,6/11/2020,53485,5105
+Newfoundland and Labrador,6/11/2020,261,3
+New Brunswick,6/11/2020,153,1
+Nova Scotia,6/11/2020,1061,62
+Prince Edward Island,6/11/2020,27,0
+Yukon,6/11/2020,11,0
+Northwest Territories,6/11/2020,5,0
+Nunavut,6/11/2020,0,0
+Repatriated travellers,6/11/2020,13,
+Canada,6/11/2020,97519,8004
+British Columbia,6/12/2020,2709,168
+Alberta,6/12/2020,7346,149
+Saskatchewan,6/12/2020,663,13
+Manitoba,6/12/2020,290,7
+Ontario,6/12/2020,31726,2508
+Quebec,6/12/2020,53666,5148
+Newfoundland and Labrador,6/12/2020,261,3
+New Brunswick,6/12/2020,154,1
+Nova Scotia,6/12/2020,1061,62
+Prince Edward Island,6/12/2020,27,0
+Yukon,6/12/2020,11,0
+Northwest Territories,6/12/2020,5,0
+Nunavut,6/12/2020,0,0
+Repatriated travellers,6/12/2020,13,
+Canada,6/12/2020,97932,8059
+British Columbia,6/13/2020,2709,168
+Alberta,6/13/2020,7383,150
+Saskatchewan,6/13/2020,664,13
+Manitoba,6/13/2020,292,7
+Ontario,6/13/2020,31992,2517
+Quebec,6/13/2020,53824,5195
+Newfoundland and Labrador,6/13/2020,261,3
+New Brunswick,6/13/2020,157,2
+Nova Scotia,6/13/2020,1061,62
+Prince Edward Island,6/13/2020,27,0
+Yukon,6/13/2020,11,0
+Northwest Territories,6/13/2020,5,0
+Nunavut,6/13/2020,0,0
+Repatriated travellers,6/13/2020,13,
+Canada,6/13/2020,98399,8117
+British Columbia,6/14/2020,2709,168
+Alberta,6/14/2020,7433,150
+Saskatchewan,6/14/2020,665,13
+Manitoba,6/14/2020,293,7
+Ontario,6/14/2020,32189,2529
+Quebec,6/14/2020,53952,5222
+Newfoundland and Labrador,6/14/2020,261,3
+New Brunswick,6/14/2020,157,2
+Nova Scotia,6/14/2020,1061,62
+Prince Edward Island,6/14/2020,27,0
+Yukon,6/14/2020,11,0
+Northwest Territories,6/14/2020,5,0
+Nunavut,6/14/2020,0,0
+Repatriated travellers,6/14/2020,13,
+Canada,6/14/2020,98776,8156
+British Columbia,6/15/2020,2745,168
+Alberta,6/15/2020,7453,151
+Saskatchewan,6/15/2020,683,13
+Manitoba,6/15/2020,293,7
+Ontario,6/15/2020,32370,2542
+Quebec,6/15/2020,54054,5242
+Newfoundland and Labrador,6/15/2020,261,3
+New Brunswick,6/15/2020,160,2
+Nova Scotia,6/15/2020,1061,62
+Prince Edward Island,6/15/2020,27,0
+Yukon,6/15/2020,11,0
+Northwest Territories,6/15/2020,5,0
+Nunavut,6/15/2020,0,0
+Repatriated travellers,6/15/2020,13,
+Canada,6/15/2020,99136,8190
+British Columbia,6/16/2020,2756,168
+Alberta,6/16/2020,7482,151
+Saskatchewan,6/16/2020,684,13
+Manitoba,6/16/2020,293,7
+Ontario,6/16/2020,32554,2553
+Quebec,6/16/2020,54146,5269
+Newfoundland and Labrador,6/16/2020,261,3
+New Brunswick,6/16/2020,163,2
+Nova Scotia,6/16/2020,1061,62
+Prince Edward Island,6/16/2020,27,0
+Yukon,6/16/2020,11,0
+Northwest Territories,6/16/2020,5,0
+Nunavut,6/16/2020,0,0
+Repatriated travellers,6/16/2020,13,
+Canada,6/16/2020,99456,8228
+British Columbia,6/17/2020,2775,168
+Alberta,6/17/2020,7530,151
+Saskatchewan,6/17/2020,693,13
+Manitoba,6/17/2020,295,7
+Ontario,6/17/2020,32744,2565
+Quebec,6/17/2020,54263,5298
+Newfoundland and Labrador,6/17/2020,261,3
+New Brunswick,6/17/2020,164,2
+Nova Scotia,6/17/2020,1061,62
+Prince Edward Island,6/17/2020,27,0
+Yukon,6/17/2020,11,0
+Northwest Territories,6/17/2020,5,0
+Nunavut,6/17/2020,0,0
+Repatriated travellers,6/17/2020,13,
+Canada,6/17/2020,99842,8269
+British Columbia,6/18/2020,2783,168
+Alberta,6/18/2020,7579,152
+Saskatchewan,6/18/2020,708,13
+Manitoba,6/18/2020,297,7
+Ontario,6/18/2020,32917,2568
+Quebec,6/18/2020,54383,5340
+Newfoundland and Labrador,6/18/2020,261,3
+New Brunswick,6/18/2020,164,2
+Nova Scotia,6/18/2020,1061,62
+Prince Edward Island,6/18/2020,27,0
+Yukon,6/18/2020,11,0
+Northwest Territories,6/18/2020,5,0
+Nunavut,6/18/2020,0,0
+Repatriated travellers,6/18/2020,13,
+Canada,6/18/2020,100209,8315
+British Columbia,6/19/2020,2790,168
+Alberta,6/19/2020,7625,152
+Saskatchewan,6/19/2020,716,13
+Manitoba,6/19/2020,300,7
+Ontario,6/19/2020,33095,2579
+Quebec,6/19/2020,54550,5375
+Newfoundland and Labrador,6/19/2020,261,3
+New Brunswick,6/19/2020,164,2
+Nova Scotia,6/19/2020,1061,62
+Prince Edward Island,6/19/2020,27,0
+Yukon,6/19/2020,11,0
+Northwest Territories,6/19/2020,5,0
+Nunavut,6/19/2020,0,0
+Repatriated travellers,6/19/2020,13,
+Canada,6/19/2020,100618,8361
+British Columbia,6/20/2020,2790,168
+Alberta,6/20/2020,7673,152
+Saskatchewan,6/20/2020,726,13
+Manitoba,6/20/2020,302,7
+Ontario,6/20/2020,33301,2610
+Quebec,6/20/2020,54674,5408
+Newfoundland and Labrador,6/20/2020,261,3
+New Brunswick,6/20/2020,164,2
+Nova Scotia,6/20/2020,1061,62
+Prince Edward Island,6/20/2020,27,0
+Yukon,6/20/2020,11,0
+Northwest Territories,6/20/2020,5,0
+Nunavut,6/20/2020,0,0
+Repatriated travellers,6/20/2020,13,
+Canada,6/20/2020,101008,8425
+British Columbia,6/21/2020,2790,168
+Alberta,6/21/2020,7704,152
+Saskatchewan,6/21/2020,746,13
+Manitoba,6/21/2020,302,7
+Ontario,6/21/2020,33476,2621
+Quebec,6/21/2020,54766,5417
+Newfoundland and Labrador,6/21/2020,261,3
+New Brunswick,6/21/2020,164,2
+Nova Scotia,6/21/2020,1061,62
+Prince Edward Island,6/21/2020,27,0
+Yukon,6/21/2020,11,0
+Northwest Territories,6/21/2020,5,0
+Nunavut,6/21/2020,0,0
+Repatriated travellers,6/21/2020,13,
+Canada,6/21/2020,101326,8445
+British Columbia,6/22/2020,2822,169
+Alberta,6/22/2020,7736,153
+Saskatchewan,6/22/2020,751,13
+Manitoba,6/22/2020,303,7
+Ontario,6/22/2020,33637,2624
+Quebec,6/22/2020,54835,5417
+Newfoundland and Labrador,6/22/2020,261,3
+New Brunswick,6/22/2020,164,2
+Nova Scotia,6/22/2020,1061,63
+Prince Edward Island,6/22/2020,27,0
+Yukon,6/22/2020,11,0
+Northwest Territories,6/22/2020,5,0
+Nunavut,6/22/2020,0,0
+Repatriated travellers,6/22/2020,13,
+Canada,6/22/2020,101626,8451
+British Columbia,6/23/2020,2835,170
+Alberta,6/23/2020,7781,153
+Saskatchewan,6/23/2020,753,13
+Manitoba,6/23/2020,303,7
+Ontario,6/23/2020,33853,2634
+Quebec,6/23/2020,54884,5424
+Newfoundland and Labrador,6/23/2020,261,3
+New Brunswick,6/23/2020,165,2
+Nova Scotia,6/23/2020,1061,63
+Prince Edward Island,6/23/2020,27,0
+Yukon,6/23/2020,11,0
+Northwest Territories,6/23/2020,5,0
+Nunavut,6/23/2020,0,0
+Repatriated travellers,6/23/2020,13,
+Canada,6/23/2020,101952,8469
+British Columbia,6/24/2020,2849,171
+Alberta,6/24/2020,7825,153
+Saskatchewan,6/24/2020,757,13
+Manitoba,6/24/2020,304,7
+Ontario,6/24/2020,34016,2646
+Quebec,6/24/2020,54937,5441
+Newfoundland and Labrador,6/24/2020,261,3
+New Brunswick,6/24/2020,165,2
+Nova Scotia,6/24/2020,1061,63
+Prince Edward Island,6/24/2020,27,0
+Yukon,6/24/2020,11,0
+Northwest Territories,6/24/2020,5,0
+Nunavut,6/24/2020,0,0
+Repatriated travellers,6/24/2020,13,
+Canada,6/24/2020,102231,8499
+British Columbia,6/25/2020,2869,173
+Alberta,6/25/2020,7851,154
+Saskatchewan,6/25/2020,759,13
+Manitoba,6/25/2020,305,7
+Ontario,6/25/2020,34205,2656
+Quebec,6/25/2020,55079,5448
+Newfoundland and Labrador,6/25/2020,261,3
+New Brunswick,6/25/2020,165,2
+Nova Scotia,6/25/2020,1061,63
+Prince Edward Island,6/25/2020,27,0
+Yukon,6/25/2020,11,0
+Northwest Territories,6/25/2020,5,0
+Nunavut,6/25/2020,0,0
+Repatriated travellers,6/25/2020,13,0
+Canada,6/25/2020,102611,8519
+British Columbia,6/26/2020,2878,174
+Alberta,6/26/2020,7888,154
+Saskatchewan,6/26/2020,772,13
+Manitoba,6/26/2020,307,7
+Ontario,6/26/2020,34316,2659
+Quebec,6/26/2020,55079,5448
+Newfoundland and Labrador,6/26/2020,261,3
+New Brunswick,6/26/2020,165,2
+Nova Scotia,6/26/2020,1061,63
+Prince Edward Island,6/26/2020,27,0
+Yukon,6/26/2020,11,0
+Northwest Territories,6/26/2020,5,0
+Nunavut,6/26/2020,0,0
+Repatriated travellers,6/26/2020,13,
+Canada,6/26/2020,102783,8523
+British Columbia,6/27/2020,2878,174
+Alberta,6/27/2020,7957,154
+Saskatchewan,6/27/2020,777,13
+Manitoba,6/27/2020,311,7
+Ontario,6/27/2020,34476,2667
+Quebec,6/27/2020,55079,5448
+Newfoundland and Labrador,6/27/2020,261,3
+New Brunswick,6/27/2020,165,2
+Nova Scotia,6/27/2020,1061,63
+Prince Edward Island,6/27/2020,27,0
+Yukon,6/27/2020,11,0
+Northwest Territories,6/27/2020,5,0
+Nunavut,6/27/2020,0,0
+Repatriated travellers,6/27/2020,13,
+Canada,6/27/2020,103021,8531
+British Columbia,6/28/2020,2878,174
+Alberta,6/28/2020,7996,154
+Saskatchewan,6/28/2020,778,13
+Manitoba,6/28/2020,311,7
+Ontario,6/28/2020,34654,2673
+Quebec,6/28/2020,55079,5448
+Newfoundland and Labrador,6/28/2020,261,3
+New Brunswick,6/28/2020,165,2
+Nova Scotia,6/28/2020,1061,63
+Prince Edward Island,6/28/2020,27,0
+Yukon,6/28/2020,11,0
+Northwest Territories,6/28/2020,5,0
+Nunavut,6/28/2020,0,0
+Repatriated travellers,6/28/2020,13,
+Canada,6/28/2020,103239,8537
+British Columbia,6/29/2020,2904,174
+Alberta,6/29/2020,8067,154
+Saskatchewan,6/29/2020,779,13
+Manitoba,6/29/2020,313,7
+Ontario,6/29/2020,34911,2680
+Quebec,6/29/2020,55390,5485
+Newfoundland and Labrador,6/29/2020,261,3
+New Brunswick,6/29/2020,165,2
+Nova Scotia,6/29/2020,1061,63
+Prince Edward Island,6/29/2020,27,0
+Yukon,6/29/2020,11,0
+Northwest Territories,6/29/2020,5,0
+Nunavut,6/29/2020,0,0
+Repatriated travellers,6/29/2020,13,
+Canada,6/29/2020,103907,8581
+British Columbia,6/30/2020,2916,174
+Alberta,6/30/2020,8108,154
+Saskatchewan,6/30/2020,785,13
+Manitoba,6/30/2020,314,7
+Ontario,6/30/2020,35068,2687
+Quebec,6/30/2020,55458,5503
+Newfoundland and Labrador,6/30/2020,261,3
+New Brunswick,6/30/2020,165,2
+Nova Scotia,6/30/2020,1062,63
+Prince Edward Island,6/30/2020,27,0
+Yukon,6/30/2020,11,0
+Northwest Territories,6/30/2020,5,0
+Nunavut,6/30/2020,0,0
+Repatriated travellers,6/30/2020,13,
+Canada,6/30/2020,104193,8606
+British Columbia,7/1/2020,2916,174
+Alberta,7/1/2020,8108,154
+Saskatchewan,7/1/2020,785,13
+Manitoba,7/1/2020,314,7
+Ontario,7/1/2020,35068,2687
+Quebec,7/1/2020,55458,5503
+Newfoundland and Labrador,7/1/2020,261,3
+New Brunswick,7/1/2020,165,2
+Nova Scotia,7/1/2020,1062,63
+Prince Edward Island,7/1/2020,27,0
+Yukon,7/1/2020,11,0
+Northwest Territories,7/1/2020,5,0
+Nunavut,7/1/2020,0,0
+Repatriated travellers,7/1/2020,13,
+Canada,7/1/2020,104193,8606
+British Columbia,7/2/2020,2940,177
+Alberta,7/2/2020,8202,155
+Saskatchewan,7/2/2020,795,14
+Manitoba,7/2/2020,314,7
+Ontario,7/2/2020,35370,2695
+Quebec,7/2/2020,55593,5541
+Newfoundland and Labrador,7/2/2020,261,3
+New Brunswick,7/2/2020,165,2
+Nova Scotia,7/2/2020,1064,63
+Prince Edward Island,7/2/2020,27,0
+Yukon,7/2/2020,11,0
+Northwest Territories,7/2/2020,5,0
+Nunavut,7/2/2020,0,0
+Repatriated travellers,7/2/2020,13,
+Canada,7/2/2020,104760,8657
+British Columbia,7/3/2020,2947,177
+Alberta,7/3/2020,8259,155
+Saskatchewan,7/3/2020,796,14
+Manitoba,7/3/2020,314,7
+Ontario,7/3/2020,35535,2697
+Quebec,7/3/2020,55682,5560
+Newfoundland and Labrador,7/3/2020,261,3
+New Brunswick,7/3/2020,165,2
+Nova Scotia,7/3/2020,1064,63
+Prince Edward Island,7/3/2020,27,0
+Yukon,7/3/2020,11,0
+Northwest Territories,7/3/2020,5,0
+Nunavut,7/3/2020,0,0
+Repatriated travellers,7/3/2020,13,
+Canada,7/3/2020,105079,8678
+British Columbia,7/4/2020,2947,177
+Alberta,7/4/2020,8259,155
+Saskatchewan,7/4/2020,796,14
+Manitoba,7/4/2020,314,7
+Ontario,7/4/2020,35656,2702
+Quebec,7/4/2020,55784,5566
+Newfoundland and Labrador,7/4/2020,261,3
+New Brunswick,7/4/2020,165,2
+Nova Scotia,7/4/2020,1064,63
+Prince Edward Island,7/4/2020,30,0
+Yukon,7/4/2020,11,0
+Northwest Territories,7/4/2020,5,0
+Nunavut,7/4/2020,0,0
+Repatriated travellers,7/4/2020,13,
+Canada,7/4/2020,105305,8689
+British Columbia,7/5/2020,2947,177
+Alberta,7/5/2020,8259,155
+Saskatchewan,7/5/2020,796,14
+Manitoba,7/5/2020,314,7
+Ontario,7/5/2020,35794,2704
+Quebec,7/5/2020,55863,5574
+Newfoundland and Labrador,7/5/2020,261,3
+New Brunswick,7/5/2020,165,2
+Nova Scotia,7/5/2020,1064,63
+Prince Edward Island,7/5/2020,32,0
+Yukon,7/5/2020,11,0
+Northwest Territories,7/5/2020,5,0
+Nunavut,7/5/2020,0,0
+Repatriated travellers,7/5/2020,13,
+Canada,7/5/2020,105524,8699
+British Columbia,7/6/2020,2978,183
+Alberta,7/6/2020,8389,155
+Saskatchewan,7/6/2020,805,14
+Manitoba,7/6/2020,314,7
+Ontario,7/6/2020,35948,2704
+Quebec,7/6/2020,55937,5577
+Newfoundland and Labrador,7/6/2020,261,3
+New Brunswick,7/6/2020,165,2
+Nova Scotia,7/6/2020,1065,63
+Prince Edward Island,7/6/2020,32,0
+Yukon,7/6/2020,11,0
+Northwest Territories,7/6/2020,5,0
+Nunavut,7/6/2020,0,0
+Repatriated travellers,7/6/2020,13,
+Canada,7/6/2020,105923,8708
+British Columbia,7/7/2020,2990,183
+Alberta,7/7/2020,8436,157
+Saskatchewan,7/7/2020,806,15
+Manitoba,7/7/2020,314,7
+Ontario,7/7/2020,36060,2706
+Quebec,7/7/2020,55997,5590
+Newfoundland and Labrador,7/7/2020,261,3
+New Brunswick,7/7/2020,165,2
+Nova Scotia,7/7/2020,1065,63
+Prince Edward Island,7/7/2020,32,0
+Yukon,7/7/2020,11,0
+Northwest Territories,7/7/2020,5,0
+Nunavut,7/7/2020,0,0
+Repatriated travellers,7/7/2020,13,
+Canada,7/7/2020,106155,8726
+British Columbia,7/8/2020,3008,186
+Alberta,7/8/2020,8482,158
+Saskatchewan,7/8/2020,808,15
+Manitoba,7/8/2020,314,7
+Ontario,7/8/2020,36178,2715
+Quebec,7/8/2020,56079,5603
+Newfoundland and Labrador,7/8/2020,261,3
+New Brunswick,7/8/2020,165,2
+Nova Scotia,7/8/2020,1066,63
+Prince Edward Island,7/8/2020,32,0
+Yukon,7/8/2020,11,0
+Northwest Territories,7/8/2020,5,0
+Nunavut,7/8/2020,0,0
+Repatriated travellers,7/8/2020,13,
+Canada,7/8/2020,106422,8752
+British Columbia,7/9/2020,3028,186
+Alberta,7/9/2020,8519,161
+Saskatchewan,7/9/2020,813,15
+Manitoba,7/9/2020,314,7
+Ontario,7/9/2020,36348,2718
+Quebec,7/9/2020,56216,5609
+Newfoundland and Labrador,7/9/2020,261,3
+New Brunswick,7/9/2020,166,2
+Nova Scotia,7/9/2020,1066,63
+Prince Edward Island,7/9/2020,33,0
+Yukon,7/9/2020,11,0
+Northwest Territories,7/9/2020,5,0
+Nunavut,7/9/2020,0,0
+Repatriated travellers,7/9/2020,13,
+Canada,7/9/2020,106793,8764
+British Columbia,7/10/2020,3053,187
+Alberta,7/10/2020,8596,160
+Saskatchewan,7/10/2020,815,15
+Manitoba,7/10/2020,314,7
+Ontario,7/10/2020,36464,2725
+Quebec,7/10/2020,56316,5612
+Newfoundland and Labrador,7/10/2020,262,3
+New Brunswick,7/10/2020,166,2
+Nova Scotia,7/10/2020,1066,63
+Prince Edward Island,7/10/2020,33,0
+Yukon,7/10/2020,11,0
+Northwest Territories,7/10/2020,5,0
+Nunavut,7/10/2020,0,0
+Repatriated travellers,7/10/2020,13,
+Canada,7/10/2020,107114,8774
+British Columbia,7/11/2020,3053,187
+Alberta,7/11/2020,8596,160
+Saskatchewan,7/11/2020,815,15
+Manitoba,7/11/2020,314,7
+Ontario,7/11/2020,36594,2731
+Quebec,7/11/2020,56407,5620
+Newfoundland and Labrador,7/11/2020,262,3
+New Brunswick,7/11/2020,166,2
+Nova Scotia,7/11/2020,1066,63
+Prince Edward Island,7/11/2020,33,0
+Yukon,7/11/2020,11,0
+Northwest Territories,7/11/2020,5,0
+Nunavut,7/11/2020,0,0
+Repatriated travellers,7/11/2020,13,
+Canada,7/11/2020,107335,8788
+British Columbia,7/12/2020,3053,187
+Alberta,7/12/2020,8596,160
+Saskatchewan,7/12/2020,815,15
+Manitoba,7/12/2020,314,7
+Ontario,7/12/2020,36723,2734
+Quebec,7/12/2020,56521,5627
+Newfoundland and Labrador,7/12/2020,262,3
+New Brunswick,7/12/2020,166,2
+Nova Scotia,7/12/2020,1066,63
+Prince Edward Island,7/12/2020,34,0
+Yukon,7/12/2020,11,0
+Northwest Territories,7/12/2020,5,0
+Nunavut,7/12/2020,0,0
+Repatriated travellers,7/12/2020,13,
+Canada,7/12/2020,107579,8798
+British Columbia,7/13/2020,3115,189
+Alberta,7/13/2020,8826,161
+Saskatchewan,7/13/2020,871,15
+Manitoba,7/13/2020,314,7
+Ontario,7/13/2020,36839,2737
+Quebec,7/13/2020,56621,5628
+Newfoundland and Labrador,7/13/2020,262,3
+New Brunswick,7/13/2020,166,2
+Nova Scotia,7/13/2020,1066,63
+Prince Edward Island,7/13/2020,35,0
+Yukon,7/13/2020,11,0
+Northwest Territories,7/13/2020,5,0
+Nunavut,7/13/2020,0,0
+Repatriated travellers,7/13/2020,13,
+Canada,7/13/2020,108144,8805
+British Columbia,7/14/2020,3128,189
+Alberta,7/14/2020,8912,163
+Saskatchewan,7/14/2020,876,15
+Manitoba,7/14/2020,319,7
+Ontario,7/14/2020,36950,2738
+Quebec,7/14/2020,56730,5633
+Newfoundland and Labrador,7/14/2020,262,3
+New Brunswick,7/14/2020,167,2
+Nova Scotia,7/14/2020,1066,63
+Prince Edward Island,7/14/2020,36,0
+Yukon,7/14/2020,11,0
+Northwest Territories,7/14/2020,5,0
+Nunavut,7/14/2020,0,0
+Repatriated travellers,7/14/2020,13,
+Canada,7/14/2020,108475,8813
+British Columbia,7/15/2020,3149,189
+Alberta,7/15/2020,8994,163
+Saskatchewan,7/15/2020,881,15
+Manitoba,7/15/2020,319,7
+Ontario,7/15/2020,37052,2752
+Quebec,7/15/2020,56859,5636
+Newfoundland and Labrador,7/15/2020,262,3
+New Brunswick,7/15/2020,168,2
+Nova Scotia,7/15/2020,1067,63
+Prince Edward Island,7/15/2020,36,0
+Yukon,7/15/2020,11,0
+Northwest Territories,7/15/2020,5,0
+Nunavut,7/15/2020,0,0
+Repatriated travellers,7/15/2020,13,
+Canada,7/15/2020,108816,8830
+British Columbia,7/16/2020,3170,189
+Alberta,7/16/2020,9114,165
+Saskatchewan,7/16/2020,923,15
+Manitoba,7/16/2020,320,7
+Ontario,7/16/2020,37163,2757
+Quebec,7/16/2020,57001,5646
+Newfoundland and Labrador,7/16/2020,262,3
+New Brunswick,7/16/2020,168,2
+Nova Scotia,7/16/2020,1067,63
+Prince Edward Island,7/16/2020,36,0
+Yukon,7/16/2020,11,0
+Northwest Territories,7/16/2020,5,0
+Nunavut,7/16/2020,0,0
+Repatriated travellers,7/16/2020,13,
+Canada,7/16/2020,109253,8847
+British Columbia,7/17/2020,3198,189
+Alberta,7/17/2020,9219,167
+Saskatchewan,7/17/2020,936,15
+Manitoba,7/17/2020,325,7
+Ontario,7/17/2020,37274,2766
+Quebec,7/17/2020,57142,5647
+Newfoundland and Labrador,7/17/2020,262,3
+New Brunswick,7/17/2020,168,2
+Nova Scotia,7/17/2020,1067,63
+Prince Edward Island,7/17/2020,36,0
+Yukon,7/17/2020,13,0
+Northwest Territories,7/17/2020,5,0
+Nunavut,7/17/2020,0,0
+Repatriated travellers,7/17/2020,13,
+Canada,7/17/2020,109658,8859
+British Columbia,7/18/2020,3198,189
+Alberta,7/18/2020,9219,167
+Saskatchewan,7/18/2020,941,15
+Manitoba,7/18/2020,326,7
+Ontario,7/18/2020,37440,2768
+Quebec,7/18/2020,57300,5654
+Newfoundland and Labrador,7/18/2020,262,3
+New Brunswick,7/18/2020,168,2
+Nova Scotia,7/18/2020,1067,63
+Prince Edward Island,7/18/2020,36,0
+Yukon,7/18/2020,13,0
+Northwest Territories,7/18/2020,5,0
+Nunavut,7/18/2020,0,0
+Repatriated travellers,7/18/2020,13,
+Canada,7/18/2020,109988,8868
+British Columbia,7/19/2020,3198,189
+Alberta,7/19/2020,9219,167
+Saskatchewan,7/19/2020,943,15
+Manitoba,7/19/2020,332,7
+Ontario,7/19/2020,37604,2771
+Quebec,7/19/2020,57466,5655
+Newfoundland and Labrador,7/19/2020,262,3
+New Brunswick,7/19/2020,169,2
+Nova Scotia,7/19/2020,1067,63
+Prince Edward Island,7/19/2020,36,0
+Yukon,7/19/2020,13,0
+Northwest Territories,7/19/2020,5,0
+Nunavut,7/19/2020,0,0
+Repatriated travellers,7/19/2020,13,
+Canada,7/19/2020,110327,8872
+British Columbia,7/20/2020,3300,189
+Alberta,7/20/2020,9587,170
+Saskatchewan,7/20/2020,962,15
+Manitoba,7/20/2020,343,7
+Ontario,7/20/2020,37739,2772
+Quebec,7/20/2020,57616,5657
+Newfoundland and Labrador,7/20/2020,262,3
+New Brunswick,7/20/2020,170,2
+Nova Scotia,7/20/2020,1067,63
+Prince Edward Island,7/20/2020,36,0
+Yukon,7/20/2020,13,0
+Northwest Territories,7/20/2020,5,0
+Nunavut,7/20/2020,0,0
+Repatriated travellers,7/20/2020,13,
+Canada,7/20/2020,111113,8878
+British Columbia,7/21/2020,3328,189
+Alberta,7/21/2020,9728,172
+Saskatchewan,7/21/2020,970,15
+Manitoba,7/21/2020,353,7
+Ontario,7/21/2020,37942,2773
+Quebec,7/21/2020,57796,5658
+Newfoundland and Labrador,7/21/2020,263,3
+New Brunswick,7/21/2020,170,2
+Nova Scotia,7/21/2020,1067,63
+Prince Edward Island,7/21/2020,36,0
+Yukon,7/21/2020,13,0
+Northwest Territories,7/21/2020,5,0
+Nunavut,7/21/2020,0,0
+Repatriated travellers,7/21/2020,13,
+Canada,7/21/2020,111684,8882
+British Columbia,7/22/2020,3362,189
+Alberta,7/22/2020,9861,174
+Saskatchewan,7/22/2020,1030,15
+Manitoba,7/22/2020,361,7
+Ontario,7/22/2020,38107,2775
+Quebec,7/22/2020,57938,5662
+Newfoundland and Labrador,7/22/2020,264,3
+New Brunswick,7/22/2020,170,2
+Nova Scotia,7/22/2020,1067,63
+Prince Edward Island,7/22/2020,36,0
+Yukon,7/22/2020,13,0
+Northwest Territories,7/22/2020,5,0
+Nunavut,7/22/2020,0,0
+Repatriated travellers,7/22/2020,13,
+Canada,7/22/2020,112227,8890
+British Columbia,7/23/2020,3392,190
+Alberta,7/23/2020,9975,176
+Saskatchewan,7/23/2020,1072,16
+Manitoba,7/23/2020,362,7
+Ontario,7/23/2020,38210,2775
+Quebec,7/23/2020,58080,5662
+Newfoundland and Labrador,7/23/2020,264,3
+New Brunswick,7/23/2020,170,2
+Nova Scotia,7/23/2020,1067,63
+Prince Edward Island,7/23/2020,36,0
+Yukon,7/23/2020,13,0
+Northwest Territories,7/23/2020,5,0
+Nunavut,7/23/2020,0,0
+Repatriated travellers,7/23/2020,13,
+Canada,7/23/2020,112659,8894
+British Columbia,7/24/2020,3419,191
+Alberta,7/24/2020,10086,178
+Saskatchewan,7/24/2020,1099,16
+Manitoba,7/24/2020,371,7
+Ontario,7/24/2020,38405,2778
+Quebec,7/24/2020,58243,5663
+Newfoundland and Labrador,7/24/2020,265,3
+New Brunswick,7/24/2020,170,2
+Nova Scotia,7/24/2020,1067,63
+Prince Edward Island,7/24/2020,36,0
+Yukon,7/24/2020,14,0
+Northwest Territories,7/24/2020,5,0
+Nunavut,7/24/2020,0,0
+Repatriated travellers,7/24/2020,13,
+Canada,7/24/2020,113193,8901
+British Columbia,7/25/2020,3419,191
+Alberta,7/25/2020,10086,178
+Saskatchewan,7/25/2020,1136,16
+Manitoba,7/25/2020,375,7
+Ontario,7/25/2020,38543,2779
+Quebec,7/25/2020,58414,5666
+Newfoundland and Labrador,7/25/2020,265,3
+New Brunswick,7/25/2020,170,2
+Nova Scotia,7/25/2020,1067,63
+Prince Edward Island,7/25/2020,36,0
+Yukon,7/25/2020,14,0
+Northwest Territories,7/25/2020,5,0
+Nunavut,7/25/2020,0,0
+Repatriated travellers,7/25/2020,13,
+Canada,7/25/2020,113543,8905
+British Columbia,7/26/2020,3419,191
+Alberta,7/26/2020,10086,178
+Saskatchewan,7/26/2020,1178,16
+Manitoba,7/26/2020,381,7
+Ontario,7/26/2020,38680,2783
+Quebec,7/26/2020,58583,5667
+Newfoundland and Labrador,7/26/2020,266,3
+New Brunswick,7/26/2020,170,2
+Nova Scotia,7/26/2020,1067,63
+Prince Edward Island,7/26/2020,36,0
+Yukon,7/26/2020,14,0
+Northwest Territories,7/26/2020,5,0
+Nunavut,7/26/2020,0,0
+Repatriated travellers,7/26/2020,13,
+Canada,7/26/2020,113898,8910
+British Columbia,7/27/2020,3500,193
+Alberta,7/27/2020,10390,186
+Saskatchewan,7/27/2020,1209,16
+Manitoba,7/27/2020,387,7
+Ontario,7/27/2020,38799,2784
+Quebec,7/27/2020,58728,5667
+Newfoundland and Labrador,7/27/2020,266,3
+New Brunswick,7/27/2020,170,2
+Nova Scotia,7/27/2020,1067,63
+Prince Edward Island,7/27/2020,36,0
+Yukon,7/27/2020,14,0
+Northwest Territories,7/27/2020,5,0
+Nunavut,7/27/2020,0,0
+Repatriated travellers,7/27/2020,13,
+Canada,7/27/2020,114584,8921
+British Columbia,7/28/2020,3523,194
+Alberta,7/28/2020,10470,187
+Saskatchewan,7/28/2020,1218,17
+Manitoba,7/28/2020,391,8
+Ontario,7/28/2020,38910,2788
+Quebec,7/28/2020,58897,5670
+Newfoundland and Labrador,7/28/2020,266,3
+New Brunswick,7/28/2020,170,2
+Nova Scotia,7/28/2020,1067,63
+Prince Edward Island,7/28/2020,36,0
+Yukon,7/28/2020,14,0
+Northwest Territories,7/28/2020,5,0
+Nunavut,7/28/2020,0,0
+Repatriated travellers,7/28/2020,13,
+Canada,7/28/2020,114980,8932
+British Columbia,7/29/2020,3562,194
+Alberta,7/29/2020,10603,190
+Saskatchewan,7/29/2020,1268,17
+Manitoba,7/29/2020,393,8
+Ontario,7/29/2020,38986,2789
+Quebec,7/29/2020,59009,5672
+Newfoundland and Labrador,7/29/2020,266,3
+New Brunswick,7/29/2020,170,2
+Nova Scotia,7/29/2020,1067,64
+Prince Edward Island,7/29/2020,36,0
+Yukon,7/29/2020,14,0
+Northwest Territories,7/29/2020,5,0
+Nunavut,7/29/2020,0,0
+Repatriated travellers,7/29/2020,13,
+Canada,7/29/2020,115392,8939
+British Columbia,7/30/2020,3591,194
+Alberta,7/30/2020,10716,195
+Saskatchewan,7/30/2020,1306,18
+Manitoba,7/30/2020,395,8
+Ontario,7/30/2020,39075,2792
+Quebec,7/30/2020,59131,5673
+Newfoundland and Labrador,7/30/2020,266,3
+New Brunswick,7/30/2020,170,2
+Nova Scotia,7/30/2020,1067,64
+Prince Edward Island,7/30/2020,36,0
+Yukon,7/30/2020,14,0
+Northwest Territories,7/30/2020,5,0
+Nunavut,7/30/2020,0,0
+Repatriated travellers,7/30/2020,13,
+Canada,7/30/2020,115785,8949
+British Columbia,7/31/2020,3641,195
+Alberta,7/31/2020,10843,196
+Saskatchewan,7/31/2020,1319,18
+Manitoba,7/31/2020,401,8
+Ontario,7/31/2020,39209,2795
+Quebec,7/31/2020,59312,5674
+Newfoundland and Labrador,7/31/2020,266,3
+New Brunswick,7/31/2020,170,2
+Nova Scotia,7/31/2020,1069,64
+Prince Edward Island,7/31/2020,36,0
+Yukon,7/31/2020,14,0
+Northwest Territories,7/31/2020,5,0
+Nunavut,7/31/2020,0,0
+Repatriated travellers,7/31/2020,13,
+Canada,7/31/2020,116298,8955
+British Columbia,8/1/2020,3641,195
+Alberta,8/1/2020,10843,196
+Saskatchewan,8/1/2020,1334,18
+Manitoba,8/1/2020,403,8
+Ontario,8/1/2020,39333,2797
+Quebec,8/1/2020,59458,5678
+Newfoundland and Labrador,8/1/2020,266,3
+New Brunswick,8/1/2020,170,2
+Nova Scotia,8/1/2020,1069,64
+Prince Edward Island,8/1/2020,36,0
+Yukon,8/1/2020,14,0
+Northwest Territories,8/1/2020,5,0
+Nunavut,8/1/2020,0,0
+Repatriated travellers,8/1/2020,13,
+Canada,8/1/2020,116585,8961
+British Columbia,8/2/2020,3641,195
+Alberta,8/2/2020,10843,196
+Saskatchewan,8/2/2020,1342,18
+Manitoba,8/2/2020,421,8
+Ontario,8/2/2020,39449,2798
+Quebec,8/2/2020,59599,5681
+Newfoundland and Labrador,8/2/2020,266,3
+New Brunswick,8/2/2020,170,2
+Nova Scotia,8/2/2020,1071,64
+Prince Edward Island,8/2/2020,36,0
+Yukon,8/2/2020,14,0
+Northwest Territories,8/2/2020,5,0
+Nunavut,8/2/2020,0,0
+Repatriated travellers,8/2/2020,13,
+Canada,8/2/2020,116870,8965
+British Columbia,8/3/2020,3641,195
+Alberta,8/3/2020,10843,196
+Saskatchewan,8/3/2020,1359,18
+Manitoba,8/3/2020,428,8
+Ontario,8/3/2020,39449,2798
+Quebec,8/3/2020,59722,5683
+Newfoundland and Labrador,8/3/2020,266,3
+New Brunswick,8/3/2020,170,2
+Nova Scotia,8/3/2020,1071,64
+Prince Edward Island,8/3/2020,36,0
+Yukon,8/3/2020,14,0
+Northwest Territories,8/3/2020,5,0
+Nunavut,8/3/2020,0,0
+Repatriated travellers,8/3/2020,13,
+Canada,8/3/2020,117017,8967
+British Columbia,8/4/2020,3787,195
+Alberta,8/4/2020,11146,201
+Saskatchewan,8/4/2020,1368,18
+Manitoba,8/4/2020,428,8
+Ontario,8/4/2020,39628,2802
+Quebec,8/4/2020,59845,5685
+Newfoundland and Labrador,8/4/2020,266,3
+New Brunswick,8/4/2020,170,2
+Nova Scotia,8/4/2020,1071,64
+Prince Edward Island,8/4/2020,36,0
+Yukon,8/4/2020,14,0
+Northwest Territories,8/4/2020,5,0
+Nunavut,8/4/2020,0,0
+Repatriated travellers,8/4/2020,13,
+Canada,8/4/2020,117777,8978
+British Columbia,8/5/2020,3834,195
+Alberta,8/5/2020,11240,203
+Saskatchewan,8/5/2020,1376,18
+Manitoba,8/5/2020,429,8
+Ontario,8/5/2020,39714,2802
+Quebec,8/5/2020,60000,5687
+Newfoundland and Labrador,8/5/2020,266,3
+New Brunswick,8/5/2020,174,2
+Nova Scotia,8/5/2020,1071,64
+Prince Edward Island,8/5/2020,36,0
+Yukon,8/5/2020,14,0
+Northwest Territories,8/5/2020,5,0
+Nunavut,8/5/2020,0,0
+Repatriated travellers,8/5/2020,13,
+Canada,8/5/2020,118172,8982
+British Columbia,8/6/2020,3881,195
+Alberta,8/6/2020,11296,205
+Saskatchewan,8/6/2020,1387,19
+Manitoba,8/6/2020,459,8
+Ontario,8/6/2020,39809,2803
+Quebec,8/6/2020,60133,5687
+Newfoundland and Labrador,8/6/2020,266,3
+New Brunswick,8/6/2020,176,2
+Nova Scotia,8/6/2020,1071,64
+Prince Edward Island,8/6/2020,36,0
+Yukon,8/6/2020,14,0
+Northwest Territories,8/6/2020,5,0
+Nunavut,8/6/2020,0,0
+Repatriated travellers,8/6/2020,13,
+Canada,8/6/2020,118546,8986
+British Columbia,8/7/2020,3934,195
+Alberta,8/7/2020,11430,208
+Saskatchewan,8/7/2020,1409,20
+Manitoba,8/7/2020,476,8
+Ontario,8/7/2020,39897,2803
+Quebec,8/7/2020,60241,5687
+Newfoundland and Labrador,8/7/2020,267,3
+New Brunswick,8/7/2020,176,2
+Nova Scotia,8/7/2020,1071,64
+Prince Edward Island,8/7/2020,36,0
+Yukon,8/7/2020,15,0
+Northwest Territories,8/7/2020,5,0
+Nunavut,8/7/2020,0,0
+Repatriated travellers,8/7/2020,13,
+Canada,8/7/2020,118970,8990
+British Columbia,8/8/2020,3934,195
+Alberta,8/8/2020,11430,208
+Saskatchewan,8/8/2020,1433,20
+Manitoba,8/8/2020,492,8
+Ontario,8/8/2020,39967,2804
+Quebec,8/8/2020,60367,5692
+Newfoundland and Labrador,8/8/2020,267,3
+New Brunswick,8/8/2020,176,2
+Nova Scotia,8/8/2020,1071,64
+Prince Edward Island,8/8/2020,36,0
+Yukon,8/8/2020,15,0
+Northwest Territories,8/8/2020,5,0
+Nunavut,8/8/2020,0,0
+Repatriated travellers,8/8/2020,13,
+Canada,8/8/2020,119206,8996
+British Columbia,8/9/2020,3934,195
+Alberta,8/9/2020,11430,208
+Saskatchewan,8/9/2020,1445,20
+Manitoba,8/9/2020,527,8
+Ontario,8/9/2020,40046,2806
+Quebec,8/9/2020,60471,5695
+Newfoundland and Labrador,8/9/2020,267,3
+New Brunswick,8/9/2020,176,2
+Nova Scotia,8/9/2020,1071,64
+Prince Edward Island,8/9/2020,36,0
+Yukon,8/9/2020,15,0
+Northwest Territories,8/9/2020,5,0
+Nunavut,8/9/2020,0,0
+Repatriated travellers,8/9/2020,13,0
+Canada,8/9/2020,119436,9001
+British Columbia,8/10/2020,4065,195
+Alberta,8/10/2020,11687,213
+Saskatchewan,8/10/2020,1450,20
+Manitoba,8/10/2020,543,8
+Ontario,8/10/2020,40161,2806
+Quebec,8/10/2020,60627,5696
+Newfoundland and Labrador,8/10/2020,268,3
+New Brunswick,8/10/2020,176,2
+Nova Scotia,8/10/2020,1071,64
+Prince Edward Island,8/10/2020,36,0
+Yukon,8/10/2020,15,0
+Northwest Territories,8/10/2020,5,0
+Nunavut,8/10/2020,0,0
+Repatriated travellers,8/10/2020,13,0
+Canada,8/10/2020,120117,9007
+British Columbia,8/11/2020,4111,195
+Alberta,8/11/2020,11772,216
+Saskatchewan,8/11/2020,1479,20
+Manitoba,8/11/2020,547,8
+Ontario,8/11/2020,40194,2806
+Quebec,8/11/2020,60718,5697
+Newfoundland and Labrador,8/11/2020,268,3
+New Brunswick,8/11/2020,177,2
+Nova Scotia,8/11/2020,1071,64
+Prince Edward Island,8/11/2020,36,0
+Yukon,8/11/2020,15,0
+Northwest Territories,8/11/2020,5,0
+Nunavut,8/11/2020,0,0
+Repatriated travellers,8/11/2020,13,0
+Canada,8/11/2020,120406,9011
+British Columbia,8/12/2020,4196,196
+Alberta,8/12/2020,11893,217
+Saskatchewan,8/12/2020,1484,20
+Manitoba,8/12/2020,563,8
+Ontario,8/12/2020,40289,2807
+Quebec,8/12/2020,60813,5709
+Newfoundland and Labrador,8/12/2020,268,3
+New Brunswick,8/12/2020,178,2
+Nova Scotia,8/12/2020,1071,64
+Prince Edward Island,8/12/2020,41,0
+Yukon,8/12/2020,15,0
+Northwest Territories,8/12/2020,5,0
+Nunavut,8/12/2020,0,0
+Repatriated travellers,8/12/2020,13,0
+Canada,8/12/2020,120829,9026
+British Columbia,8/13/2020,4274,196
+Alberta,8/13/2020,11969,220
+Saskatchewan,8/13/2020,1511,20
+Manitoba,8/13/2020,603,8
+Ontario,8/13/2020,40367,2807
+Quebec,8/13/2020,60917,5715
+Newfoundland and Labrador,8/13/2020,268,3
+New Brunswick,8/13/2020,180,2
+Nova Scotia,8/13/2020,1071,64
+Prince Edward Island,8/13/2020,41,0
+Yukon,8/13/2020,15,0
+Northwest Territories,8/13/2020,5,0
+Nunavut,8/13/2020,0,0
+Repatriated travellers,8/13/2020,13,0
+Canada,8/13/2020,121234,9035
+British Columbia,8/14/2020,4358,196
+Alberta,8/14/2020,12053,221
+Saskatchewan,8/14/2020,1541,20
+Manitoba,8/14/2020,643,8
+Ontario,8/14/2020,40459,2808
+Quebec,8/14/2020,61004,5718
+Newfoundland and Labrador,8/14/2020,268,3
+New Brunswick,8/14/2020,180,2
+Nova Scotia,8/14/2020,1072,64
+Prince Edward Island,8/14/2020,41,0
+Yukon,8/14/2020,15,0
+Northwest Territories,8/14/2020,5,0
+Nunavut,8/14/2020,0,0
+Repatriated travellers,8/14/2020,13,0
+Canada,8/14/2020,121652,9040
+British Columbia,8/15/2020,4358,196
+Alberta,8/15/2020,12053,221
+Saskatchewan,8/15/2020,1566,21
+Manitoba,8/15/2020,663,9
+Ontario,8/15/2020,40565,2814
+Quebec,8/15/2020,61084,5719
+Newfoundland and Labrador,8/15/2020,268,3
+New Brunswick,8/15/2020,184,2
+Nova Scotia,8/15/2020,1074,64
+Prince Edward Island,8/15/2020,41,0
+Yukon,8/15/2020,15,0
+Northwest Territories,8/15/2020,5,0
+Nunavut,8/15/2020,0,0
+Repatriated travellers,8/15/2020,13,0
+Canada,8/15/2020,121889,9049
+British Columbia,8/16/2020,4358,196
+Alberta,8/16/2020,12053,221
+Saskatchewan,8/16/2020,1580,22
+Manitoba,8/16/2020,697,9
+Ontario,8/16/2020,40646,2814
+Quebec,8/16/2020,61151,5720
+Newfoundland and Labrador,8/16/2020,268,3
+New Brunswick,8/16/2020,186,2
+Nova Scotia,8/16/2020,1074,64
+Prince Edward Island,8/16/2020,41,0
+Yukon,8/16/2020,15,0
+Northwest Territories,8/16/2020,5,0
+Nunavut,8/16/2020,0,0
+Repatriated travellers,8/16/2020,13,0
+Canada,8/16/2020,122087,9051
+British Columbia,8/17/2020,4594,198
+Alberta,8/17/2020,12412,224
+Saskatchewan,8/17/2020,1581,22
+Manitoba,8/17/2020,731,9
+Ontario,8/17/2020,40745,2814
+Quebec,8/17/2020,61206,5721
+Newfoundland and Labrador,8/17/2020,268,3
+New Brunswick,8/17/2020,186,2
+Nova Scotia,8/17/2020,1075,64
+Prince Edward Island,8/17/2020,41,0
+Yukon,8/17/2020,15,0
+Northwest Territories,8/17/2020,5,0
+Nunavut,8/17/2020,0,0
+Repatriated travellers,8/17/2020,13,0
+Canada,8/17/2020,122872,9057
+British Columbia,8/18/2020,4677,198
+Alberta,8/18/2020,12419,225
+Saskatchewan,8/18/2020,1582,22
+Manitoba,8/18/2020,748,11
+Ontario,8/18/2020,40870,2817
+Quebec,8/18/2020,61252,5727
+Newfoundland and Labrador,8/18/2020,268,3
+New Brunswick,8/18/2020,186,2
+Nova Scotia,8/18/2020,1075,64
+Prince Edward Island,8/18/2020,44,0
+Yukon,8/18/2020,15,0
+Northwest Territories,8/18/2020,5,0
+Nunavut,8/18/2020,0,0
+Repatriated travellers,8/18/2020,13,0
+Canada,8/18/2020,123154,9069
+British Columbia,8/19/2020,4745,198
+Alberta,8/19/2020,12501,227
+Saskatchewan,8/19/2020,1586,22
+Manitoba,8/19/2020,763,12
+Ontario,8/19/2020,40972,2817
+Quebec,8/19/2020,61316,5729
+Newfoundland and Labrador,8/19/2020,268,3
+New Brunswick,8/19/2020,186,2
+Nova Scotia,8/19/2020,1076,64
+Prince Edward Island,8/19/2020,44,0
+Yukon,8/19/2020,15,0
+Northwest Territories,8/19/2020,5,0
+Nunavut,8/19/2020,0,0
+Repatriated travellers,8/19/2020,13,0
+Canada,8/19/2020,123490,9074
+British Columbia,8/20/2020,4825,200
+Alberta,8/20/2020,12604,228
+Saskatchewan,8/20/2020,1590,22
+Manitoba,8/20/2020,796,12
+Ontario,8/20/2020,41048,2818
+Quebec,8/20/2020,61402,5730
+Newfoundland and Labrador,8/20/2020,268,3
+New Brunswick,8/20/2020,186,2
+Nova Scotia,8/20/2020,1077,64
+Prince Edward Island,8/20/2020,44,0
+Yukon,8/20/2020,15,0
+Northwest Territories,8/20/2020,5,0
+Nunavut,8/20/2020,0,0
+Repatriated travellers,8/20/2020,13,0
+Canada,8/20/2020,123873,9079
+British Columbia,8/21/2020,4915,202
+Alberta,8/21/2020,12748,230
+Saskatchewan,8/21/2020,1595,22
+Manitoba,8/21/2020,830,12
+Ontario,8/21/2020,41179,2821
+Quebec,8/21/2020,61495,5733
+Newfoundland and Labrador,8/21/2020,268,3
+New Brunswick,8/21/2020,188,2
+Nova Scotia,8/21/2020,1077,64
+Prince Edward Island,8/21/2020,44,0
+Yukon,8/21/2020,15,0
+Northwest Territories,8/21/2020,5,0
+Nunavut,8/21/2020,0,0
+Repatriated travellers,8/21/2020,13,0
+Canada,8/21/2020,124372,9089
+British Columbia,8/22/2020,4915,202
+Alberta,8/22/2020,12748,230
+Saskatchewan,8/22/2020,1597,22
+Manitoba,8/22/2020,872,12
+Ontario,8/22/2020,41287,2822
+Quebec,8/22/2020,61599,5739
+Newfoundland and Labrador,8/22/2020,268,3
+New Brunswick,8/22/2020,188,2
+Nova Scotia,8/22/2020,1078,64
+Prince Edward Island,8/22/2020,44,0
+Yukon,8/22/2020,15,0
+Northwest Territories,8/22/2020,5,0
+Nunavut,8/22/2020,0,0
+Repatriated travellers,8/22/2020,13,0
+Canada,8/22/2020,124629,9096
+British Columbia,8/23/2020,4915,202
+Alberta,8/23/2020,12748,230
+Saskatchewan,8/23/2020,1600,22
+Manitoba,8/23/2020,944,12
+Ontario,8/23/2020,41402,2822
+Quebec,8/23/2020,61673,5740
+Newfoundland and Labrador,8/23/2020,268,3
+New Brunswick,8/23/2020,189,2
+Nova Scotia,8/23/2020,1080,65
+Prince Edward Island,8/23/2020,44,0
+Yukon,8/23/2020,15,0
+Northwest Territories,8/23/2020,5,0
+Nunavut,8/23/2020,0,0
+Repatriated travellers,8/23/2020,13,0
+Canada,8/23/2020,124896,9098
+British Columbia,8/24/2020,5184,203
+Alberta,8/24/2020,13006,234
+Saskatchewan,8/24/2020,1602,22
+Manitoba,8/24/2020,993,12
+Ontario,8/24/2020,41507,2823
+Quebec,8/24/2020,61741,5744
+Newfoundland and Labrador,8/24/2020,268,3
+New Brunswick,8/24/2020,189,2
+Nova Scotia,8/24/2020,1080,65
+Prince Edward Island,8/24/2020,44,0
+Yukon,8/24/2020,15,0
+Northwest Territories,8/24/2020,5,0
+Nunavut,8/24/2020,0,0
+Repatriated travellers,8/24/2020,13,0
+Canada,8/24/2020,125647,9108
+British Columbia,8/25/2020,5242,203
+Alberta,8/25/2020,13083,235
+Saskatchewan,8/25/2020,1601,23
+Manitoba,8/25/2020,1018,13
+Ontario,8/25/2020,41607,2825
+Quebec,8/25/2020,61803,5746
+Newfoundland and Labrador,8/25/2020,268,3
+New Brunswick,8/25/2020,190,2
+Nova Scotia,8/25/2020,1080,65
+Prince Edward Island,8/25/2020,44,0
+Yukon,8/25/2020,15,0
+Northwest Territories,8/25/2020,5,0
+Nunavut,8/25/2020,0,0
+Repatriated travellers,8/25/2020,13,0
+Canada,8/25/2020,125969,9115
+British Columbia,8/26/2020,5304,203
+Alberta,8/26/2020,13210,235
+Saskatchewan,8/26/2020,1604,24
+Manitoba,8/26/2020,1043,13
+Ontario,8/26/2020,41695,2827
+Quebec,8/26/2020,61945,5747
+Newfoundland and Labrador,8/26/2020,268,3
+New Brunswick,8/26/2020,190,2
+Nova Scotia,8/26/2020,1081,65
+Prince Edward Island,8/26/2020,44,0
+Yukon,8/26/2020,15,0
+Northwest Territories,8/26/2020,5,0
+Nunavut,8/26/2020,0,0
+Repatriated travellers,8/26/2020,13,0
+Canada,8/26/2020,126417,9119
+British Columbia,8/27/2020,5372,204
+Alberta,8/27/2020,13318,237
+Saskatchewan,8/27/2020,1609,24
+Manitoba,8/27/2020,1064,14
+Ontario,8/27/2020,41813,2828
+Quebec,8/27/2020,62026,5750
+Newfoundland and Labrador,8/27/2020,268,3
+New Brunswick,8/27/2020,190,2
+Nova Scotia,8/27/2020,1081,65
+Prince Edward Island,8/27/2020,44,0
+Yukon,8/27/2020,15,0
+Northwest Territories,8/27/2020,5,0
+Nunavut,8/27/2020,0,0
+Repatriated travellers,8/27/2020,13,0
+Canada,8/27/2020,126848,9127
+British Columbia,8/28/2020,5496,204
+Alberta,8/28/2020,13476,237
+Saskatchewan,8/28/2020,1611,24
+Manitoba,8/28/2020,1096,14
+Ontario,8/28/2020,41935,2834
+Quebec,8/28/2020,62076,5755
+Newfoundland and Labrador,8/28/2020,269,3
+New Brunswick,8/28/2020,191,2
+Nova Scotia,8/28/2020,1083,65
+Prince Edward Island,8/28/2020,44,0
+Yukon,8/28/2020,15,0
+Northwest Territories,8/28/2020,5,0
+Nunavut,8/28/2020,0,0
+Repatriated travellers,8/28/2020,13,0
+Canada,8/28/2020,127310,9138
+British Columbia,8/29/2020,5496,204
+Alberta,8/29/2020,13476,237
+Saskatchewan,8/29/2020,1615,24
+Manitoba,8/29/2020,1151,14
+Ontario,8/29/2020,42083,2834
+Quebec,8/29/2020,62232,5755
+Newfoundland and Labrador,8/29/2020,269,3
+New Brunswick,8/29/2020,191,2
+Nova Scotia,8/29/2020,1083,65
+Prince Edward Island,8/29/2020,44,0
+Yukon,8/29/2020,15,0
+Northwest Territories,8/29/2020,5,0
+Nunavut,8/29/2020,0,0
+Repatriated travellers,8/29/2020,13,0
+Canada,8/29/2020,127673,9138
+British Columbia,8/30/2020,5496,204
+Alberta,8/30/2020,13476,237
+Saskatchewan,8/30/2020,1615,24
+Manitoba,8/30/2020,1186,14
+Ontario,8/30/2020,42195,2835
+Quebec,8/30/2020,62352,5758
+Newfoundland and Labrador,8/30/2020,269,3
+New Brunswick,8/30/2020,191,2
+Nova Scotia,8/30/2020,1083,65
+Prince Edward Island,8/30/2020,44,0
+Yukon,8/30/2020,15,0
+Northwest Territories,8/30/2020,5,0
+Nunavut,8/30/2020,0,0
+Repatriated travellers,8/30/2020,13,0
+Canada,8/30/2020,127940,9142
+British Columbia,8/31/2020,5790,208
+Alberta,8/31/2020,13902,239
+Saskatchewan,8/31/2020,1619,24
+Manitoba,8/31/2020,1214,14
+Ontario,8/31/2020,42309,2836
+Quebec,8/31/2020,62492,5760
+Newfoundland and Labrador,8/31/2020,269,3
+New Brunswick,8/31/2020,191,2
+Nova Scotia,8/31/2020,1085,65
+Prince Edward Island,8/31/2020,44,0
+Yukon,8/31/2020,15,0
+Northwest Territories,8/31/2020,5,0
+Nunavut,8/31/2020,0,0
+Repatriated travellers,8/31/2020,13,0
+Canada,8/31/2020,128948,9151
+British Columbia,9/1/2020,5848,209
+Alberta,9/1/2020,14066,241
+Saskatchewan,9/1/2020,1622,24
+Manitoba,9/1/2020,1232,14
+Ontario,9/1/2020,42421,2837
+Quebec,9/1/2020,62614,5762
+Newfoundland and Labrador,9/1/2020,269,3
+New Brunswick,9/1/2020,191,2
+Nova Scotia,9/1/2020,1085,65
+Prince Edward Island,9/1/2020,44,0
+Yukon,9/1/2020,15,0
+Northwest Territories,9/1/2020,5,0
+Nunavut,9/1/2020,0,0
+Repatriated travellers,9/1/2020,13,0
+Canada,9/1/2020,129425,9157
+British Columbia,9/2/2020,5952,209
+Alberta,9/2/2020,14180,242
+Saskatchewan,9/2/2020,1624,24
+Manitoba,9/2/2020,1244,14
+Ontario,9/2/2020,42554,2837
+Quebec,9/2/2020,62746,5764
+Newfoundland and Labrador,9/2/2020,269,3
+New Brunswick,9/2/2020,192,2
+Nova Scotia,9/2/2020,1085,65
+Prince Edward Island,9/2/2020,44,0
+Yukon,9/2/2020,15,0
+Northwest Territories,9/2/2020,5,0
+Nunavut,9/2/2020,0,0
+Repatriated travellers,9/2/2020,13,0
+Canada,9/2/2020,129923,9160
+British Columbia,9/3/2020,6041,210
+Alberta,9/3/2020,14310,242
+Saskatchewan,9/3/2020,1634,24
+Manitoba,9/3/2020,1264,16
+Ontario,9/3/2020,42686,2837
+Quebec,9/3/2020,62933,5767
+Newfoundland and Labrador,9/3/2020,269,3
+New Brunswick,9/3/2020,192,2
+Nova Scotia,9/3/2020,1085,65
+Prince Edward Island,9/3/2020,46,0
+Yukon,9/3/2020,15,0
+Northwest Territories,9/3/2020,5,0
+Nunavut,9/3/2020,0,0
+Repatriated travellers,9/3/2020,13,0
+Canada,9/3/2020,130493,9166
+British Columbia,9/4/2020,6162,211
+Alberta,9/4/2020,14474,242
+Saskatchewan,9/4/2020,1638,24
+Manitoba,9/4/2020,1273,16
+Ontario,9/4/2020,42834,2836
+Quebec,9/4/2020,63117,5767
+Newfoundland and Labrador,9/4/2020,269,3
+New Brunswick,9/4/2020,192,2
+Nova Scotia,9/4/2020,1085,65
+Prince Edward Island,9/4/2020,47,0
+Yukon,9/4/2020,15,0
+Northwest Territories,9/4/2020,5,0
+Nunavut,9/4/2020,0,0
+Repatriated travellers,9/4/2020,13,0
+Canada,9/4/2020,131124,9166
+British Columbia,9/5/2020,6162,211
+Alberta,9/5/2020,14474,242
+Saskatchewan,9/5/2020,1643,24
+Manitoba,9/5/2020,1294,16
+Ontario,9/5/2020,43003,2836
+Quebec,9/5/2020,63292,5769
+Newfoundland and Labrador,9/5/2020,270,3
+New Brunswick,9/5/2020,192,2
+Nova Scotia,9/5/2020,1085,65
+Prince Edward Island,9/5/2020,47,0
+Yukon,9/5/2020,15,0
+Northwest Territories,9/5/2020,5,0
+Nunavut,9/5/2020,0,0
+Repatriated travellers,9/5/2020,13,0
+Canada,9/5/2020,131495,9168
+British Columbia,9/6/2020,6162,211
+Alberta,9/6/2020,14474,242
+Saskatchewan,9/6/2020,1651,24
+Manitoba,9/6/2020,1323,16
+Ontario,9/6/2020,43161,2838
+Quebec,9/6/2020,63497,5769
+Newfoundland and Labrador,9/6/2020,270,3
+New Brunswick,9/6/2020,192,2
+Nova Scotia,9/6/2020,1085,65
+Prince Edward Island,9/6/2020,47,0
+Yukon,9/6/2020,15,0
+Northwest Territories,9/6/2020,5,0
+Nunavut,9/6/2020,0,0
+Repatriated travellers,9/6/2020,13,0
+Canada,9/6/2020,131895,9170
+British Columbia,9/7/2020,6162,211
+Alberta,9/7/2020,14474,242
+Saskatchewan,9/7/2020,1662,24
+Manitoba,9/7/2020,1338,16
+Ontario,9/7/2020,43161,2838
+Quebec,9/7/2020,63713,5770
+Newfoundland and Labrador,9/7/2020,270,3
+New Brunswick,9/7/2020,192,2
+Nova Scotia,9/7/2020,1086,65
+Prince Edward Island,9/7/2020,51,0
+Yukon,9/7/2020,15,0
+Northwest Territories,9/7/2020,5,0
+Nunavut,9/7/2020,0,0
+Repatriated travellers,9/7/2020,13,0
+Canada,9/7/2020,132142,9171
+British Columbia,9/8/2020,6591,213
+Alberta,9/8/2020,15093,247
+Saskatchewan,9/8/2020,1669,24
+Manitoba,9/8/2020,1349,16
+Ontario,9/8/2020,43536,2838
+Quebec,9/8/2020,63876,5770
+Newfoundland and Labrador,9/8/2020,270,3
+New Brunswick,9/8/2020,192,2
+Nova Scotia,9/8/2020,1086,65
+Prince Edward Island,9/8/2020,53,0
+Yukon,9/8/2020,15,0
+Northwest Territories,9/8/2020,5,0
+Nunavut,9/8/2020,0,0
+Repatriated travellers,9/8/2020,13,0
+Canada,9/8/2020,133748,9178
+British Columbia,9/9/2020,6691,213
+Alberta,9/9/2020,15191,248
+Saskatchewan,9/9/2020,1670,24
+Manitoba,9/9/2020,1365,16
+Ontario,9/9/2020,43685,2838
+Quebec,9/9/2020,64056,5771
+Newfoundland and Labrador,9/9/2020,270,3
+New Brunswick,9/9/2020,192,2
+Nova Scotia,9/9/2020,1086,65
+Prince Edward Island,9/9/2020,55,0
+Yukon,9/9/2020,15,0
+Northwest Territories,9/9/2020,5,0
+Nunavut,9/9/2020,0,0
+Repatriated travellers,9/9/2020,13,0
+Canada,9/9/2020,134294,9180
+British Columbia,9/10/2020,6830,213
+Alberta,9/10/2020,15304,253
+Saskatchewan,9/10/2020,1676,24
+Manitoba,9/10/2020,1378,16
+Ontario,9/10/2020,43855,2839
+Quebec,9/10/2020,64244,5773
+Newfoundland and Labrador,9/10/2020,270,3
+New Brunswick,9/10/2020,193,2
+Nova Scotia,9/10/2020,1086,65
+Prince Edward Island,9/10/2020,55,0
+Yukon,9/10/2020,15,0
+Northwest Territories,9/10/2020,5,0
+Nunavut,9/10/2020,0,0
+Repatriated travellers,9/10/2020,13,0
+Canada,9/10/2020,134924,9188
+British Columbia,9/11/2020,6962,213
+Alberta,9/11/2020,15415,253
+Saskatchewan,9/11/2020,1688,24
+Manitoba,9/11/2020,1393,16
+Ontario,9/11/2020,44068,2838
+Quebec,9/11/2020,64463,5774
+Newfoundland and Labrador,9/11/2020,270,3
+New Brunswick,9/11/2020,193,2
+Nova Scotia,9/11/2020,1086,65
+Prince Edward Island,9/11/2020,55,0
+Yukon,9/11/2020,15,0
+Northwest Territories,9/11/2020,5,0
+Nunavut,9/11/2020,0,0
+Repatriated travellers,9/11/2020,13,0
+Canada,9/11/2020,135626,9188
+British Columbia,9/12/2020,6962,213
+Alberta,9/12/2020,15415,253
+Saskatchewan,9/12/2020,1709,24
+Manitoba,9/12/2020,1410,16
+Ontario,9/12/2020,44300,2839
+Quebec,9/12/2020,64707,5780
+Newfoundland and Labrador,9/12/2020,271,3
+New Brunswick,9/12/2020,193,2
+Nova Scotia,9/12/2020,1086,65
+Prince Edward Island,9/12/2020,55,0
+Yukon,9/12/2020,15,0
+Northwest Territories,9/12/2020,5,0
+Nunavut,9/12/2020,0,0
+Repatriated travellers,9/12/2020,13,0
+Canada,9/12/2020,136141,9195
+British Columbia,9/13/2020,6962,213
+Alberta,9/13/2020,15415,253
+Saskatchewan,9/13/2020,1726,24
+Manitoba,9/13/2020,1428,16
+Ontario,9/13/2020,44504,2840
+Quebec,9/13/2020,64986,5780
+Newfoundland and Labrador,9/13/2020,271,3
+New Brunswick,9/13/2020,193,2
+Nova Scotia,9/13/2020,1086,65
+Prince Edward Island,9/13/2020,55,0
+Yukon,9/13/2020,15,0
+Northwest Territories,9/13/2020,5,0
+Nunavut,9/13/2020,0,0
+Repatriated travellers,9/13/2020,13,0
+Canada,9/13/2020,136659,9196
+British Columbia,9/14/2020,7279,219
+Alberta,9/14/2020,15833,254
+Saskatchewan,9/14/2020,1731,24
+Manitoba,9/14/2020,1449,16
+Ontario,9/14/2020,44817,2841
+Quebec,9/14/2020,65262,5780
+Newfoundland and Labrador,9/14/2020,271,3
+New Brunswick,9/14/2020,194,2
+Nova Scotia,9/14/2020,1086,65
+Prince Edward Island,9/14/2020,55,0
+Yukon,9/14/2020,15,0
+Northwest Territories,9/14/2020,5,0
+Nunavut,9/14/2020,0,0
+Repatriated travellers,9/14/2020,13,0
+Canada,9/14/2020,138010,9204
+British Columbia,9/15/2020,7376,219
+Alberta,9/15/2020,15957,254
+Saskatchewan,9/15/2020,1741,24
+Manitoba,9/15/2020,1466,16
+Ontario,9/15/2020,45068,2850
+Quebec,9/15/2020,65554,5785
+Newfoundland and Labrador,9/15/2020,271,3
+New Brunswick,9/15/2020,194,2
+Nova Scotia,9/15/2020,1086,65
+Prince Edward Island,9/15/2020,57,0
+Yukon,9/15/2020,15,0
+Northwest Territories,9/15/2020,5,0
+Nunavut,9/15/2020,0,0
+Repatriated travellers,9/15/2020,13,0
+Canada,9/15/2020,138803,9218
+British Columbia,9/16/2020,7498,219
+Alberta,9/16/2020,16128,254
+Saskatchewan,9/16/2020,1751,24
+Manitoba,9/16/2020,1489,16
+Ontario,9/16/2020,45383,2852
+Quebec,9/16/2020,65857,5788
+Newfoundland and Labrador,9/16/2020,271,3
+New Brunswick,9/16/2020,194,2
+Nova Scotia,9/16/2020,1086,65
+Prince Edward Island,9/16/2020,57,0
+Yukon,9/16/2020,15,0
+Northwest Territories,9/16/2020,5,0
+Nunavut,9/16/2020,0,0
+Repatriated travellers,9/16/2020,13,0
+Canada,9/16/2020,139747,9223
+British Columbia,9/17/2020,7663,220
+Alberta,9/17/2020,16274,254
+Saskatchewan,9/17/2020,1757,24
+Manitoba,9/17/2020,1500,16
+Ontario,9/17/2020,45676,2855
+Quebec,9/17/2020,66356,5791
+Newfoundland and Labrador,9/17/2020,271,3
+New Brunswick,9/17/2020,194,2
+Nova Scotia,9/17/2020,1086,65
+Prince Edward Island,9/17/2020,57,0
+Yukon,9/17/2020,15,0
+Northwest Territories,9/17/2020,5,0
+Nunavut,9/17/2020,0,0
+Repatriated travellers,9/17/2020,13,0
+Canada,9/17/2020,140867,9230
+British Columbia,9/18/2020,7842,223
+Alberta,9/18/2020,16381,255
+Saskatchewan,9/18/2020,1776,24
+Manitoba,9/18/2020,1540,16
+Ontario,9/18/2020,46077,2855
+Quebec,9/18/2020,66653,5792
+Newfoundland and Labrador,9/18/2020,272,3
+New Brunswick,9/18/2020,194,2
+Nova Scotia,9/18/2020,1086,65
+Prince Edward Island,9/18/2020,57,0
+Yukon,9/18/2020,15,0
+Northwest Territories,9/18/2020,5,0
+Nunavut,9/18/2020,0,0
+Repatriated travellers,9/18/2020,13,0
+Canada,9/18/2020,141911,9235
+British Columbia,9/19/2020,7842,223
+Alberta,9/19/2020,16381,255
+Saskatchewan,9/19/2020,1787,24
+Manitoba,9/19/2020,1558,16
+Ontario,9/19/2020,46484,2856
+Quebec,9/19/2020,67080,5797
+Newfoundland and Labrador,9/19/2020,272,3
+New Brunswick,9/19/2020,194,2
+Nova Scotia,9/19/2020,1086,65
+Prince Edward Island,9/19/2020,57,0
+Yukon,9/19/2020,15,0
+Northwest Territories,9/19/2020,5,0
+Nunavut,9/19/2020,0,0
+Repatriated travellers,9/19/2020,13,0
+Canada,9/19/2020,142774,9241
+British Columbia,9/20/2020,7842,223
+Alberta,9/20/2020,16381,255
+Saskatchewan,9/20/2020,1807,24
+Manitoba,9/20/2020,1586,16
+Ontario,9/20/2020,46849,2857
+Quebec,9/20/2020,67542,5802
+Newfoundland and Labrador,9/20/2020,272,3
+New Brunswick,9/20/2020,194,2
+Nova Scotia,9/20/2020,1086,65
+Prince Edward Island,9/20/2020,57,0
+Yukon,9/20/2020,15,0
+Northwest Territories,9/20/2020,5,0
+Nunavut,9/20/2020,0,0
+Repatriated travellers,9/20/2020,13,0
+Canada,9/20/2020,143649,9247
+British Columbia,9/21/2020,8208,227
+Alberta,9/21/2020,16739,256
+Saskatchewan,9/21/2020,1814,24
+Manitoba,9/21/2020,1608,18
+Ontario,9/21/2020,47274,2859
+Quebec,9/21/2020,68128,5804
+Newfoundland and Labrador,9/21/2020,272,3
+New Brunswick,9/21/2020,196,2
+Nova Scotia,9/21/2020,1086,65
+Prince Edward Island,9/21/2020,57,0
+Yukon,9/21/2020,15,0
+Northwest Territories,9/21/2020,5,0
+Nunavut,9/21/2020,0,0
+Repatriated travellers,9/21/2020,13,0
+Canada,9/21/2020,145415,9258
+British Columbia,9/22/2020,8304,227
+Alberta,9/22/2020,16889,258
+Saskatchewan,9/22/2020,1824,24
+Manitoba,9/22/2020,1632,18
+Ontario,9/22/2020,47752,2862
+Quebec,9/22/2020,68617,5805
+Newfoundland and Labrador,9/22/2020,272,3
+New Brunswick,9/22/2020,196,2
+Nova Scotia,9/22/2020,1087,65
+Prince Edward Island,9/22/2020,57,0
+Yukon,9/22/2020,15,0
+Northwest Territories,9/22/2020,5,0
+Nunavut,9/22/2020,0,0
+Repatriated travellers,9/22/2020,13,0
+Canada,9/22/2020,146663,9264
+British Columbia,9/23/2020,8395,227
+Alberta,9/23/2020,17032,260
+Saskatchewan,9/23/2020,1830,24
+Manitoba,9/23/2020,1674,18
+Ontario,9/23/2020,48087,2865
+Quebec,9/23/2020,69088,5809
+Newfoundland and Labrador,9/23/2020,272,3
+New Brunswick,9/23/2020,197,2
+Nova Scotia,9/23/2020,1087,65
+Prince Edward Island,9/23/2020,58,0
+Yukon,9/23/2020,15,0
+Northwest Territories,9/23/2020,5,0
+Nunavut,9/23/2020,0,0
+Repatriated travellers,9/23/2020,13,0
+Canada,9/23/2020,147753,9273
+British Columbia,9/24/2020,8543,229
+Alberta,9/24/2020,17190,261
+Saskatchewan,9/24/2020,1835,24
+Manitoba,9/24/2020,1711,19
+Ontario,9/24/2020,48496,2866
+Quebec,9/24/2020,69670,5810
+Newfoundland and Labrador,9/24/2020,272,3
+New Brunswick,9/24/2020,199,2
+Nova Scotia,9/24/2020,1087,65
+Prince Edward Island,9/24/2020,58,0
+Yukon,9/24/2020,15,0
+Northwest Territories,9/24/2020,5,0
+Nunavut,9/24/2020,0,0
+Repatriated travellers,9/24/2020,13,0
+Canada,9/24/2020,149094,9279
+British Columbia,9/25/2020,8641,230
+Alberta,9/25/2020,17343,261
+Saskatchewan,9/25/2020,1846,24
+Manitoba,9/25/2020,1764,19
+Ontario,9/25/2020,48905,2867
+Quebec,9/25/2020,70307,5814
+Newfoundland and Labrador,9/25/2020,272,3
+New Brunswick,9/25/2020,200,2
+Nova Scotia,9/25/2020,1087,65
+Prince Edward Island,9/25/2020,58,0
+Yukon,9/25/2020,15,0
+Northwest Territories,9/25/2020,5,0
+Nunavut,9/25/2020,0,0
+Repatriated travellers,9/25/2020,13,0
+Canada,9/25/2020,150456,9285
+British Columbia,9/26/2020,8641,230
+Alberta,9/26/2020,17343,261
+Saskatchewan,9/26/2020,1863,24
+Manitoba,9/26/2020,1829,19
+Ontario,9/26/2020,49340,2867
+Quebec,9/26/2020,71005,5821
+Newfoundland and Labrador,9/26/2020,272,3
+New Brunswick,9/26/2020,200,2
+Nova Scotia,9/26/2020,1087,65
+Prince Edward Island,9/26/2020,58,0
+Yukon,9/26/2020,15,0
+Northwest Territories,9/26/2020,5,0
+Nunavut,9/26/2020,0,0
+Repatriated travellers,9/26/2020,13,0
+Canada,9/26/2020,151671,9292
+British Columbia,9/27/2020,8641,230
+Alberta,9/27/2020,17343,261
+Saskatchewan,9/27/2020,1878,24
+Manitoba,9/27/2020,1880,19
+Ontario,9/27/2020,49831,2869
+Quebec,9/27/2020,71901,5825
+Newfoundland and Labrador,9/27/2020,273,3
+New Brunswick,9/27/2020,200,2
+Nova Scotia,9/27/2020,1087,65
+Prince Edward Island,9/27/2020,58,0
+Yukon,9/27/2020,15,0
+Northwest Territories,9/27/2020,5,0
+Nunavut,9/27/2020,0,0
+Repatriated travellers,9/27/2020,13,0
+Canada,9/27/2020,153125,9298
+British Columbia,9/28/2020,8908,233
+Alberta,9/28/2020,17749,265
+Saskatchewan,9/28/2020,1892,24
+Manitoba,9/28/2020,1919,20
+Ontario,9/28/2020,50531,2870
+Quebec,9/28/2020,72651,5826
+Newfoundland and Labrador,9/28/2020,273,3
+New Brunswick,9/28/2020,200,2
+Nova Scotia,9/28/2020,1087,65
+Prince Edward Island,9/28/2020,58,0
+Yukon,9/28/2020,15,0
+Northwest Territories,9/28/2020,5,0
+Nunavut,9/28/2020,0,0
+Repatriated travellers,9/28/2020,13,0
+Canada,9/28/2020,155301,9308
+British Columbia,9/29/2020,9013,234
+Alberta,9/29/2020,17909,266
+Saskatchewan,9/29/2020,1899,24
+Manitoba,9/29/2020,1953,20
+Ontario,9/29/2020,51085,2874
+Quebec,9/29/2020,73450,5833
+Newfoundland and Labrador,9/29/2020,273,3
+New Brunswick,9/29/2020,200,2
+Nova Scotia,9/29/2020,1087,65
+Prince Edward Island,9/29/2020,59,0
+Yukon,9/29/2020,15,0
+Northwest Territories,9/29/2020,5,0
+Nunavut,9/29/2020,0,0
+Repatriated travellers,9/29/2020,13,0
+Canada,9/29/2020,156961,9321
+British Columbia,9/30/2020,9138,234
+Alberta,9/30/2020,18062,267
+Saskatchewan,9/30/2020,1913,24
+Manitoba,9/30/2020,1993,20
+Ontario,9/30/2020,51710,2878
+Quebec,9/30/2020,74288,5834
+Newfoundland and Labrador,9/30/2020,274,3
+New Brunswick,9/30/2020,200,2
+Nova Scotia,9/30/2020,1088,65
+Prince Edward Island,9/30/2020,59,0
+Yukon,9/30/2020,15,0
+Northwest Territories,9/30/2020,5,0
+Nunavut,9/30/2020,0,0
+Repatriated travellers,9/30/2020,13,0
+Canada,9/30/2020,158758,9327
+British Columbia,10/1/2020,9220,235
+Alberta,10/1/2020,18235,269
+Saskatchewan,10/1/2020,1927,24
+Manitoba,10/1/2020,2029,20
+Ontario,10/1/2020,52248,2881
+Quebec,10/1/2020,75221,5850
+Newfoundland and Labrador,10/1/2020,275,3
+New Brunswick,10/1/2020,200,2
+Nova Scotia,10/1/2020,1088,65
+Prince Edward Island,10/1/2020,59,0
+Yukon,10/1/2020,15,0
+Northwest Territories,10/1/2020,5,0
+Nunavut,10/1/2020,0,0
+Repatriated travellers,10/1/2020,13,0
+Canada,10/1/2020,160535,9349
+British Columbia,10/2/2020,9381,238
+Alberta,10/2/2020,18357,272
+Saskatchewan,10/2/2020,1940,24
+Manitoba,10/2/2020,2072,21
+Ontario,10/2/2020,52980,2957
+Quebec,10/2/2020,76273,5857
+Newfoundland and Labrador,10/2/2020,275,3
+New Brunswick,10/2/2020,200,2
+Nova Scotia,10/2/2020,1089,65
+Prince Edward Island,10/2/2020,59,0
+Yukon,10/2/2020,15,0
+Northwest Territories,10/2/2020,5,0
+Nunavut,10/2/2020,0,0
+Repatriated travellers,10/2/2020,13,0
+Canada,10/2/2020,162659,9439
+British Columbia,10/3/2020,9381,238
+Alberta,10/3/2020,18357,272
+Saskatchewan,10/3/2020,1954,24
+Manitoba,10/3/2020,2108,22
+Ontario,10/3/2020,53633,2998
+Quebec,10/3/2020,77380,5867
+Newfoundland and Labrador,10/3/2020,276,4
+New Brunswick,10/3/2020,201,2
+Nova Scotia,10/3/2020,1089,65
+Prince Edward Island,10/3/2020,59,0
+Yukon,10/3/2020,15,0
+Northwest Territories,10/3/2020,5,0
+Nunavut,10/3/2020,0,0
+Repatriated travellers,10/3/2020,13,0
+Canada,10/3/2020,164471,9492
+British Columbia,10/4/2020,9381,238
+Alberta,10/4/2020,18357,272
+Saskatchewan,10/4/2020,1959,24
+Manitoba,10/4/2020,2140,23
+Ontario,10/4/2020,54199,3005
+Quebec,10/4/2020,78459,5878
+Newfoundland and Labrador,10/4/2020,277,4
+New Brunswick,10/4/2020,201,2
+Nova Scotia,10/4/2020,1089,65
+Prince Edward Island,10/4/2020,61,0
+Yukon,10/4/2020,15,0
+Northwest Territories,10/4/2020,5,0
+Nunavut,10/4/2020,0,0
+Repatriated travellers,10/4/2020,13,0
+Canada,10/4/2020,166156,9511
+British Columbia,10/5/2020,9739,242
+Alberta,10/5/2020,18935,280
+Saskatchewan,10/5/2020,1968,24
+Manitoba,10/5/2020,2191,23
+Ontario,10/5/2020,54814,3010
+Quebec,10/5/2020,79650,5884
+Newfoundland and Labrador,10/5/2020,277,4
+New Brunswick,10/5/2020,203,2
+Nova Scotia,10/5/2020,1089,65
+Prince Edward Island,10/5/2020,61,0
+Yukon,10/5/2020,15,0
+Northwest Territories,10/5/2020,5,0
+Nunavut,10/5/2020,0,0
+Repatriated travellers,10/5/2020,13,0
+Canada,10/5/2020,168960,9534
+British Columbia,10/6/2020,9841,244
+Alberta,10/6/2020,19211,281
+Saskatchewan,10/6/2020,1984,24
+Manitoba,10/6/2020,2246,24
+Ontario,10/6/2020,55362,3017
+Quebec,10/6/2020,81014,5899
+Newfoundland and Labrador,10/6/2020,277,4
+New Brunswick,10/6/2020,205,2
+Nova Scotia,10/6/2020,1089,65
+Prince Edward Island,10/6/2020,61,0
+Yukon,10/6/2020,15,0
+Northwest Territories,10/6/2020,5,0
+Nunavut,10/6/2020,0,0
+Repatriated travellers,10/6/2020,13,0
+Canada,10/6/2020,171323,9560
+British Columbia,10/7/2020,9956,244
+Alberta,10/7/2020,19354,281
+Saskatchewan,10/7/2020,1994,24
+Manitoba,10/7/2020,2278,27
+Ontario,10/7/2020,55945,3018
+Quebec,10/7/2020,81914,5906
+Newfoundland and Labrador,10/7/2020,277,4
+New Brunswick,10/7/2020,222,2
+Nova Scotia,10/7/2020,1089,65
+Prince Edward Island,10/7/2020,61,0
+Yukon,10/7/2020,15,0
+Northwest Territories,10/7/2020,5,0
+Nunavut,10/7/2020,0,0
+Repatriated travellers,10/7/2020,13,0
+Canada,10/7/2020,173123,9571
+British Columbia,10/8/2020,10066,245
+Alberta,10/8/2020,19718,283
+Saskatchewan,10/8/2020,2012,24
+Manitoba,10/8/2020,2344,27
+Ontario,10/8/2020,56742,3022
+Quebec,10/8/2020,82992,5915
+Newfoundland and Labrador,10/8/2020,277,4
+New Brunswick,10/8/2020,225,2
+Nova Scotia,10/8/2020,1089,65
+Prince Edward Island,10/8/2020,61,0
+Yukon,10/8/2020,15,0
+Northwest Territories,10/8/2020,5,0
+Nunavut,10/8/2020,0,0
+Repatriated travellers,10/8/2020,13,0
+Canada,10/8/2020,175559,9587
+British Columbia,10/9/2020,10185,245
+Alberta,10/9/2020,19995,282
+Saskatchewan,10/9/2020,2034,24
+Manitoba,10/9/2020,2428,30
+Ontario,10/9/2020,57681,3027
+Quebec,10/9/2020,84094,5936
+Newfoundland and Labrador,10/9/2020,279,4
+New Brunswick,10/9/2020,238,2
+Nova Scotia,10/9/2020,1089,65
+Prince Edward Island,10/9/2020,61,0
+Yukon,10/9/2020,15,0
+Northwest Territories,10/9/2020,5,0
+Nunavut,10/9/2020,0,0
+Repatriated travellers,10/9/2020,13,0
+Canada,10/9/2020,178117,9615
+British Columbia,10/10/2020,10185,245
+Alberta,10/10/2020,19995,282
+Saskatchewan,10/10/2020,2068,24
+Manitoba,10/10/2020,2524,32
+Ontario,10/10/2020,58490,3034
+Quebec,10/10/2020,85191,5950
+Newfoundland and Labrador,10/10/2020,282,4
+New Brunswick,10/10/2020,258,2
+Nova Scotia,10/10/2020,1092,65
+Prince Edward Island,10/10/2020,61,0
+Yukon,10/10/2020,15,0
+Northwest Territories,10/10/2020,5,0
+Nunavut,10/10/2020,0,0
+Repatriated travellers,10/10/2020,13,0
+Canada,10/10/2020,180179,9638
+British Columbia,10/11/2020,10185,245
+Alberta,10/11/2020,19995,282
+Saskatchewan,10/11/2020,2092,25
+Manitoba,10/11/2020,2578,32
+Ontario,10/11/2020,59139,3035
+Quebec,10/11/2020,86133,5953
+Newfoundland and Labrador,10/11/2020,282,4
+New Brunswick,10/11/2020,272,2
+Nova Scotia,10/11/2020,1092,65
+Prince Edward Island,10/11/2020,63,0
+Yukon,10/11/2020,15,0
+Northwest Territories,10/11/2020,5,0
+Nunavut,10/11/2020,0,0
+Repatriated travellers,10/11/2020,13,0
+Canada,10/11/2020,181864,9643
+British Columbia,10/12/2020,10185,245
+Alberta,10/12/2020,19995,282
+Saskatchewan,10/12/2020,2140,25
+Manitoba,10/12/2020,2655,34
+Ontario,10/12/2020,59139,3035
+Quebec,10/12/2020,86976,5965
+Newfoundland and Labrador,10/12/2020,283,4
+New Brunswick,10/12/2020,278,2
+Nova Scotia,10/12/2020,1092,65
+Prince Edward Island,10/12/2020,63,0
+Yukon,10/12/2020,15,0
+Northwest Territories,10/12/2020,5,0
+Nunavut,10/12/2020,0,0
+Repatriated travellers,10/12/2020,13,0
+Canada,10/12/2020,182839,9657
+British Columbia,10/13/2020,10734,250
+Alberta,10/13/2020,20956,286
+Saskatchewan,10/13/2020,2174,25
+Manitoba,10/13/2020,2779,35
+Ontario,10/13/2020,60692,3047
+Quebec,10/13/2020,87791,5970
+Newfoundland and Labrador,10/13/2020,283,4
+New Brunswick,10/13/2020,284,2
+Nova Scotia,10/13/2020,1092,65
+Prince Edward Island,10/13/2020,63,0
+Yukon,10/13/2020,15,0
+Northwest Territories,10/13/2020,5,0
+Nunavut,10/13/2020,0,0
+Repatriated travellers,10/13/2020,13,0
+Canada,10/13/2020,186881,9684
+British Columbia,10/14/2020,10892,250
+Alberta,10/14/2020,21199,287
+Saskatchewan,10/14/2020,2199,25
+Manitoba,10/14/2020,2925,37
+Ontario,10/14/2020,61413,3047
+Quebec,10/14/2020,88994,5977
+Newfoundland and Labrador,10/14/2020,283,4
+New Brunswick,10/14/2020,292,2
+Nova Scotia,10/14/2020,1092,65
+Prince Edward Island,10/14/2020,63,0
+Yukon,10/14/2020,15,0
+Northwest Territories,10/14/2020,5,0
+Nunavut,10/14/2020,0,0
+Repatriated travellers,10/14/2020,13,0
+Canada,10/14/2020,189385,9694
+British Columbia,10/15/2020,11034,250
+Alberta,10/15/2020,21443,288
+Saskatchewan,10/15/2020,2232,25
+Manitoba,10/15/2020,3098,38
+Ontario,10/15/2020,62196,3057
+Quebec,10/15/2020,89963,6005
+Newfoundland and Labrador,10/15/2020,284,4
+New Brunswick,10/15/2020,292,2
+Nova Scotia,10/15/2020,1092,65
+Prince Edward Island,10/15/2020,63,0
+Yukon,10/15/2020,15,0
+Northwest Territories,10/15/2020,5,0
+Nunavut,10/15/2020,0,0
+Repatriated travellers,10/15/2020,13,0
+Canada,10/15/2020,191730,9734
+British Columbia,10/16/2020,11189,251
+Alberta,10/16/2020,21775,288
+Saskatchewan,10/16/2020,2270,25
+Manitoba,10/16/2020,3173,38
+Ontario,10/16/2020,62908,3066
+Quebec,10/16/2020,91018,6018
+Newfoundland and Labrador,10/16/2020,287,4
+New Brunswick,10/16/2020,297,2
+Nova Scotia,10/16/2020,1093,65
+Prince Edward Island,10/16/2020,63,0
+Yukon,10/16/2020,15,0
+Northwest Territories,10/16/2020,5,0
+Nunavut,10/16/2020,0,0
+Repatriated travellers,10/16/2020,13,0
+Canada,10/16/2020,194106,9757
+British Columbia,10/17/2020,11189,251
+Alberta,10/17/2020,21775,288
+Saskatchewan,10/17/2020,2306,25
+Manitoba,10/17/2020,3258,38
+Ontario,10/17/2020,63713,3076
+Quebec,10/17/2020,92297,6032
+Newfoundland and Labrador,10/17/2020,287,4
+New Brunswick,10/17/2020,305,2
+Nova Scotia,10/17/2020,1095,65
+Prince Edward Island,10/17/2020,63,0
+Yukon,10/17/2020,15,0
+Northwest Territories,10/17/2020,5,0
+Nunavut,10/17/2020,0,0
+Repatriated travellers,10/17/2020,13,0
+Canada,10/17/2020,196321,9781
+British Columbia,10/18/2020,11189,251
+Alberta,10/18/2020,21775,288
+Saskatchewan,10/18/2020,2330,25
+Manitoba,10/18/2020,3302,40
+Ontario,10/18/2020,64371,3081
+Quebec,10/18/2020,93391,6038
+Newfoundland and Labrador,10/18/2020,287,4
+New Brunswick,10/18/2020,310,3
+Nova Scotia,10/18/2020,1097,65
+Prince Edward Island,10/18/2020,63,0
+Yukon,10/18/2020,15,0
+Northwest Territories,10/18/2020,5,0
+Nunavut,10/18/2020,0,0
+Repatriated travellers,10/18/2020,13,0
+Canada,10/18/2020,198148,9795
+British Columbia,10/19/2020,11687,253
+Alberta,10/19/2020,22673,292
+Saskatchewan,10/19/2020,2396,25
+Manitoba,10/19/2020,3382,42
+Ontario,10/19/2020,65075,3085
+Quebec,10/19/2020,94429,6044
+Newfoundland and Labrador,10/19/2020,287,4
+New Brunswick,10/19/2020,313,3
+Nova Scotia,10/19/2020,1097,65
+Prince Edward Island,10/19/2020,63,0
+Yukon,10/19/2020,17,0
+Northwest Territories,10/19/2020,5,0
+Nunavut,10/19/2020,0,0
+Repatriated travellers,10/19/2020,13,0
+Canada,10/19/2020,201437,9813
+British Columbia,10/20/2020,11854,254
+Alberta,10/20/2020,22996,293
+Saskatchewan,10/20/2020,2439,25
+Manitoba,10/20/2020,3491,42
+Ontario,10/20/2020,65896,3088
+Quebec,10/20/2020,95216,6055
+Newfoundland and Labrador,10/20/2020,287,4
+New Brunswick,10/20/2020,313,3
+Nova Scotia,10/20/2020,1097,65
+Prince Edward Island,10/20/2020,64,0
+Yukon,10/20/2020,17,0
+Northwest Territories,10/20/2020,5,0
+Nunavut,10/20/2020,0,0
+Repatriated travellers,10/20/2020,13,0
+Canada,10/20/2020,203688,9829
+British Columbia,10/21/2020,12057,256
+Alberta,10/21/2020,23402,296
+Saskatchewan,10/21/2020,2496,25
+Manitoba,10/21/2020,3626,43
+Ontario,10/21/2020,66686,3097
+Quebec,10/21/2020,96288,6074
+Newfoundland and Labrador,10/21/2020,287,4
+New Brunswick,10/21/2020,319,4
+Nova Scotia,10/21/2020,1097,65
+Prince Edward Island,10/21/2020,64,0
+Yukon,10/21/2020,17,0
+Northwest Territories,10/21/2020,8,0
+Nunavut,10/21/2020,0,0
+Repatriated travellers,10/21/2020,13,0
+Canada,10/21/2020,206360,9864
+British Columbia,10/22/2020,12331,256
+Alberta,10/22/2020,23829,296
+Saskatchewan,10/22/2020,2558,25
+Manitoba,10/22/2020,3773,47
+Ontario,10/22/2020,67527,3106
+Quebec,10/22/2020,97321,6094
+Newfoundland and Labrador,10/22/2020,288,4
+New Brunswick,10/22/2020,322,4
+Nova Scotia,10/22/2020,1097,65
+Prince Edward Island,10/22/2020,64,0
+Yukon,10/22/2020,17,0
+Northwest Territories,10/22/2020,8,0
+Nunavut,10/22/2020,0,0
+Repatriated travellers,10/22/2020,13,0
+Canada,10/22/2020,209148,9897
+British Columbia,10/23/2020,12554,256
+Alberta,10/23/2020,24261,300
+Saskatchewan,10/23/2020,2591,25
+Manitoba,10/23/2020,3935,48
+Ontario,10/23/2020,68353,3115
+Quebec,10/23/2020,98226,6106
+Newfoundland and Labrador,10/23/2020,288,4
+New Brunswick,10/23/2020,324,4
+Nova Scotia,10/23/2020,1097,65
+Prince Edward Island,10/23/2020,64,0
+Yukon,10/23/2020,17,0
+Northwest Territories,10/23/2020,9,0
+Nunavut,10/23/2020,0,0
+Repatriated travellers,10/23/2020,13,0
+Canada,10/23/2020,211732,9923
+British Columbia,10/24/2020,12554,256
+Alberta,10/24/2020,24261,300
+Saskatchewan,10/24/2020,2669,25
+Manitoba,10/24/2020,4088,50
+Ontario,10/24/2020,69331,3121
+Quebec,10/24/2020,99235,6132
+Newfoundland and Labrador,10/24/2020,289,4
+New Brunswick,10/24/2020,326,4
+Nova Scotia,10/24/2020,1100,65
+Prince Edward Island,10/24/2020,64,0
+Yukon,10/24/2020,20,0
+Northwest Territories,10/24/2020,9,0
+Nunavut,10/24/2020,0,0
+Repatriated travellers,10/24/2020,13,0
+Canada,10/24/2020,213959,9957
+British Columbia,10/25/2020,12554,256
+Alberta,10/25/2020,24261,300
+Saskatchewan,10/25/2020,2729,25
+Manitoba,10/25/2020,4249,54
+Ontario,10/25/2020,70373,3128
+Quebec,10/25/2020,100114,6143
+Newfoundland and Labrador,10/25/2020,290,4
+New Brunswick,10/25/2020,328,6
+Nova Scotia,10/25/2020,1100,65
+Prince Edward Island,10/25/2020,64,0
+Yukon,10/25/2020,20,0
+Northwest Territories,10/25/2020,9,0
+Nunavut,10/25/2020,0,0
+Repatriated travellers,10/25/2020,13,0
+Canada,10/25/2020,216104,9981
+British Columbia,10/26/2020,13371,259
+Alberta,10/26/2020,25733,307
+Saskatchewan,10/26/2020,2783,25
+Manitoba,10/26/2020,4349,55
+Ontario,10/26/2020,71224,3134
+Quebec,10/26/2020,100922,6153
+Newfoundland and Labrador,10/26/2020,291,4
+New Brunswick,10/26/2020,331,6
+Nova Scotia,10/26/2020,1101,65
+Prince Edward Island,10/26/2020,64,0
+Yukon,10/26/2020,22,0
+Northwest Territories,10/26/2020,9,0
+Nunavut,10/26/2020,0,0
+Repatriated travellers,10/26/2020,13,0
+Canada,10/26/2020,220213,10008
+British Columbia,10/27/2020,13588,259
+Alberta,10/27/2020,26155,309
+Saskatchewan,10/27/2020,2841,25
+Manitoba,10/27/2020,4532,58
+Ontario,10/27/2020,72051,3138
+Quebec,10/27/2020,101885,6172
+Newfoundland and Labrador,10/27/2020,291,4
+New Brunswick,10/27/2020,334,6
+Nova Scotia,10/27/2020,1102,65
+Prince Edward Island,10/27/2020,64,0
+Yukon,10/27/2020,22,0
+Northwest Territories,10/27/2020,9,0
+Nunavut,10/27/2020,0,0
+Repatriated travellers,10/27/2020,13,0
+Canada,10/27/2020,222887,10036
+British Columbia,10/28/2020,13875,261
+Alberta,10/28/2020,26565,313
+Saskatchewan,10/28/2020,2908,25
+Manitoba,10/28/2020,4701,61
+Ontario,10/28/2020,72885,3143
+Quebec,10/28/2020,102814,6189
+Newfoundland and Labrador,10/28/2020,291,4
+New Brunswick,10/28/2020,337,6
+Nova Scotia,10/28/2020,1102,65
+Prince Edward Island,10/28/2020,64,0
+Yukon,10/28/2020,22,0
+Northwest Territories,10/28/2020,9,0
+Nunavut,10/28/2020,0,0
+Repatriated travellers,10/28/2020,13,0
+Canada,10/28/2020,225586,10067
+British Columbia,10/29/2020,14109,262
+Alberta,10/29/2020,27042,318
+Saskatchewan,10/29/2020,2990,25
+Manitoba,10/29/2020,4894,62
+Ontario,10/29/2020,73819,3153
+Quebec,10/29/2020,103844,6214
+Newfoundland and Labrador,10/29/2020,291,4
+New Brunswick,10/29/2020,341,6
+Nova Scotia,10/29/2020,1102,65
+Prince Edward Island,10/29/2020,64,0
+Yukon,10/29/2020,23,0
+Northwest Territories,10/29/2020,10,0
+Nunavut,10/29/2020,0,0
+Repatriated travellers,10/29/2020,13,0
+Canada,10/29/2020,228542,10109
+British Columbia,10/30/2020,14381,263
+Alberta,10/30/2020,27664,323
+Saskatchewan,10/30/2020,3066,25
+Manitoba,10/30/2020,5374,65
+Ontario,10/30/2020,74715,3162
+Quebec,10/30/2020,104952,6231
+Newfoundland and Labrador,10/30/2020,291,4
+New Brunswick,10/30/2020,342,6
+Nova Scotia,10/30/2020,1104,65
+Prince Edward Island,10/30/2020,64,0
+Yukon,10/30/2020,23,1
+Northwest Territories,10/30/2020,10,0
+Nunavut,10/30/2020,0,0
+Repatriated travellers,10/30/2020,13,0
+Canada,10/30/2020,231999,10145
+British Columbia,10/31/2020,14733,263
+Alberta,10/31/2020,28245,323
+Saskatchewan,10/31/2020,3144,25
+Manitoba,10/31/2020,5723,67
+Ontario,10/31/2020,75730,3171
+Quebec,10/31/2020,106016,6246
+Newfoundland and Labrador,10/31/2020,291,4
+New Brunswick,10/31/2020,343,6
+Nova Scotia,10/31/2020,1109,65
+Prince Edward Island,10/31/2020,64,0
+Yukon,10/31/2020,23,1
+Northwest Territories,10/31/2020,10,0
+Nunavut,10/31/2020,0,0
+Repatriated travellers,10/31/2020,13,0
+Canada,10/31/2020,235444,10171
+British Columbia,11/1/2020,15122,263
+Alberta,11/1/2020,28770,323
+Saskatchewan,11/1/2020,3218,25
+Manitoba,11/1/2020,6034,75
+Ontario,11/1/2020,76707,3180
+Quebec,11/1/2020,106981,6272
+Newfoundland and Labrador,11/1/2020,291,4
+New Brunswick,11/1/2020,344,6
+Nova Scotia,11/1/2020,1111,65
+Prince Edward Island,11/1/2020,64,0
+Yukon,11/1/2020,23,1
+Northwest Territories,11/1/2020,10,0
+Nunavut,11/1/2020,0,0
+Repatriated travellers,11/1/2020,13,0
+Canada,11/1/2020,238688,10214
+British Columbia,11/2/2020,15501,269
+Alberta,11/2/2020,29362,323
+Saskatchewan,11/2/2020,3292,25
+Manitoba,11/2/2020,6275,80
+Ontario,11/2/2020,77655,3187
+Quebec,11/2/2020,108018,6283
+Newfoundland and Labrador,11/2/2020,291,4
+New Brunswick,11/2/2020,344,6
+Nova Scotia,11/2/2020,1113,65
+Prince Edward Island,11/2/2020,64,0
+Yukon,11/2/2020,23,1
+Northwest Territories,11/2/2020,10,0
+Nunavut,11/2/2020,0,0
+Repatriated travellers,11/2/2020,13,0
+Canada,11/2/2020,241961,10243
+British Columbia,11/3/2020,15800,272
+Alberta,11/3/2020,29932,338
+Saskatchewan,11/3/2020,3373,25
+Manitoba,11/3/2020,6377,85
+Ontario,11/3/2020,78705,3201
+Quebec,11/3/2020,108889,6317
+Newfoundland and Labrador,11/3/2020,291,4
+New Brunswick,11/3/2020,344,6
+Nova Scotia,11/3/2020,1114,65
+Prince Edward Island,11/3/2020,64,0
+Yukon,11/3/2020,23,1
+Northwest Territories,11/3/2020,10,0
+Nunavut,11/3/2020,0,0
+Repatriated travellers,11/3/2020,13,0
+Canada,11/3/2020,244935,10314
+British Columbia,11/4/2020,16135,273
+Alberta,11/4/2020,30447,343
+Saskatchewan,11/4/2020,3408,25
+Manitoba,11/4/2020,6751,87
+Ontario,11/4/2020,79692,3217
+Quebec,11/4/2020,109918,6350
+Newfoundland and Labrador,11/4/2020,292,4
+New Brunswick,11/4/2020,347,6
+Nova Scotia,11/4/2020,1118,65
+Prince Edward Island,11/4/2020,64,0
+Yukon,11/4/2020,23,1
+Northwest Territories,11/4/2020,10,0
+Nunavut,11/4/2020,0,0
+Repatriated travellers,11/4/2020,13,0
+Canada,11/4/2020,248218,10371
+British Columbia,11/5/2020,16560,273
+Alberta,11/5/2020,31249,343
+Saskatchewan,11/5/2020,3536,25
+Manitoba,11/5/2020,7177,91
+Ontario,11/5/2020,80690,3230
+Quebec,11/5/2020,111056,6378
+Newfoundland and Labrador,11/5/2020,294,4
+New Brunswick,11/5/2020,349,6
+Nova Scotia,11/5/2020,1119,65
+Prince Edward Island,11/5/2020,64,0
+Yukon,11/5/2020,23,1
+Northwest Territories,11/5/2020,10,0
+Nunavut,11/5/2020,0,0
+Repatriated travellers,11/5/2020,13,0
+Canada,11/5/2020,252140,10416
+British Columbia,11/6/2020,17149,275
+Alberta,11/6/2020,31858,352
+Saskatchewan,11/6/2020,3623,25
+Manitoba,11/6/2020,7419,96
+Ontario,11/6/2020,81693,3244
+Quebec,11/6/2020,112189,6403
+Newfoundland and Labrador,11/6/2020,294,4
+New Brunswick,11/6/2020,350,6
+Nova Scotia,11/6/2020,1121,65
+Prince Edward Island,11/6/2020,66,0
+Yukon,11/6/2020,23,1
+Northwest Territories,11/6/2020,10,0
+Nunavut,11/6/2020,1,0
+Repatriated travellers,11/6/2020,13,0
+Canada,11/6/2020,255809,10471
+British Columbia,11/7/2020,17716,276
+Alberta,11/7/2020,32777,357
+Saskatchewan,11/7/2020,3738,27
+Manitoba,11/7/2020,7689,103
+Ontario,11/7/2020,82825,3255
+Quebec,11/7/2020,113423,6431
+Newfoundland and Labrador,11/7/2020,296,4
+New Brunswick,11/7/2020,353,6
+Nova Scotia,11/7/2020,1125,65
+Prince Edward Island,11/7/2020,66,0
+Yukon,11/7/2020,23,1
+Northwest Territories,11/7/2020,10,0
+Nunavut,11/7/2020,1,0
+Repatriated travellers,11/7/2020,13,0
+Canada,11/7/2020,260055,10525
+British Columbia,11/8/2020,18252,276
+Alberta,11/8/2020,33504,363
+Saskatchewan,11/8/2020,3897,28
+Manitoba,11/8/2020,8130,106
+Ontario,11/8/2020,84153,3268
+Quebec,11/8/2020,114820,6440
+Newfoundland and Labrador,11/8/2020,297,4
+New Brunswick,11/8/2020,354,6
+Nova Scotia,11/8/2020,1128,65
+Prince Edward Island,11/8/2020,66,0
+Yukon,11/8/2020,23,1
+Northwest Territories,11/8/2020,10,0
+Nunavut,11/8/2020,2,0
+Repatriated travellers,11/8/2020,13,0
+Canada,11/8/2020,264649,10557
+British Columbia,11/9/2020,18714,281
+Alberta,11/9/2020,34160,369
+Saskatchewan,11/9/2020,4087,29
+Manitoba,11/9/2020,8495,109
+Ontario,11/9/2020,85395,3280
+Quebec,11/9/2020,115989,6455
+Newfoundland and Labrador,11/9/2020,297,4
+New Brunswick,11/9/2020,355,6
+Nova Scotia,11/9/2020,1129,65
+Prince Edward Island,11/9/2020,66,0
+Yukon,11/9/2020,23,1
+Northwest Territories,11/9/2020,10,0
+Nunavut,11/9/2020,2,0
+Repatriated travellers,11/9/2020,13,0
+Canada,11/9/2020,268735,10599
+British Columbia,11/10/2020,19239,284
+Alberta,11/10/2020,34873,376
+Saskatchewan,11/10/2020,4214,29
+Manitoba,11/10/2020,8878,114
+Ontario,11/10/2020,86783,3295
+Quebec,11/10/2020,117151,6493
+Newfoundland and Labrador,11/10/2020,297,4
+New Brunswick,11/10/2020,355,6
+Nova Scotia,11/10/2020,1132,65
+Prince Edward Island,11/10/2020,67,0
+Yukon,11/10/2020,23,1
+Northwest Territories,11/10/2020,10,0
+Nunavut,11/10/2020,2,0
+Repatriated travellers,11/10/2020,13,0
+Canada,11/10/2020,273037,10667
+British Columbia,11/11/2020,19774,284
+Alberta,11/11/2020,35545,383
+Saskatchewan,11/11/2020,4326,29
+Manitoba,11/11/2020,9308,123
+Ontario,11/11/2020,88209,3310
+Quebec,11/11/2020,118529,6515
+Newfoundland and Labrador,11/11/2020,298,4
+New Brunswick,11/11/2020,355,6
+Nova Scotia,11/11/2020,1134,65
+Prince Edward Island,11/11/2020,68,0
+Yukon,11/11/2020,23,1
+Northwest Territories,11/11/2020,11,0
+Nunavut,11/11/2020,3,0
+Repatriated travellers,11/11/2020,13,0
+Canada,11/11/2020,277596,10720
+British Columbia,11/12/2020,20368,288
+Alberta,11/12/2020,36405,393
+Saskatchewan,11/12/2020,4437,29
+Manitoba,11/12/2020,9782,132
+Ontario,11/12/2020,89784,3328
+Quebec,11/12/2020,119894,6557
+Newfoundland and Labrador,11/12/2020,298,4
+New Brunswick,11/12/2020,356,6
+Nova Scotia,11/12/2020,1134,65
+Prince Edward Island,11/12/2020,68,0
+Yukon,11/12/2020,24,1
+Northwest Territories,11/12/2020,11,0
+Nunavut,11/12/2020,3,0
+Repatriated travellers,11/12/2020,13,0
+Canada,11/12/2020,282577,10803
+British Columbia,11/13/2020,20985,290
+Alberta,11/13/2020,37312,398
+Saskatchewan,11/13/2020,4513,29
+Manitoba,11/13/2020,10216,137
+Ontario,11/13/2020,91180,3347
+Quebec,11/13/2020,121195,6586
+Newfoundland and Labrador,11/13/2020,299,4
+New Brunswick,11/13/2020,358,6
+Nova Scotia,11/13/2020,1136,65
+Prince Edward Island,11/13/2020,68,0
+Yukon,11/13/2020,24,1
+Northwest Territories,11/13/2020,15,0
+Nunavut,11/13/2020,4,0
+Repatriated travellers,11/13/2020,13,0
+Canada,11/13/2020,287318,10863
+British Columbia,11/14/2020,21639,290
+Alberta,11/14/2020,38338,401
+Saskatchewan,11/14/2020,4820,29
+Manitoba,11/14/2020,10453,152
+Ontario,11/14/2020,92761,3367
+Quebec,11/14/2020,122643,6611
+Newfoundland and Labrador,11/14/2020,301,4
+New Brunswick,11/14/2020,364,6
+Nova Scotia,11/14/2020,1142,65
+Prince Edward Island,11/14/2020,68,0
+Yukon,11/14/2020,24,1
+Northwest Territories,11/14/2020,15,0
+Nunavut,11/14/2020,4,0
+Repatriated travellers,11/14/2020,13,0
+Canada,11/14/2020,292585,10926
+British Columbia,11/15/2020,22298,290
+Alberta,11/15/2020,39329,407
+Saskatchewan,11/15/2020,5001,31
+Manitoba,11/15/2020,10947,162
+Ontario,11/15/2020,94009,3401
+Quebec,11/15/2020,123854,6626
+Newfoundland and Labrador,11/15/2020,303,4
+New Brunswick,11/15/2020,367,6
+Nova Scotia,11/15/2020,1144,65
+Prince Edward Island,11/15/2020,68,0
+Yukon,11/15/2020,24,1
+Northwest Territories,11/15/2020,15,0
+Nunavut,11/15/2020,18,0
+Repatriated travellers,11/15/2020,13,0
+Canada,11/15/2020,297390,10993
+British Columbia,11/16/2020,22944,299
+Alberta,11/16/2020,40189,427
+Saskatchewan,11/16/2020,5182,31
+Manitoba,11/16/2020,11339,172
+Ontario,11/16/2020,95496,3411
+Quebec,11/16/2020,125072,6651
+Newfoundland and Labrador,11/16/2020,303,4
+New Brunswick,11/16/2020,375,6
+Nova Scotia,11/16/2020,1146,65
+Prince Edward Island,11/16/2020,68,0
+Yukon,11/16/2020,24,1
+Northwest Territories,11/16/2020,15,0
+Nunavut,11/16/2020,26,0
+Repatriated travellers,11/16/2020,13,0
+Canada,11/16/2020,302192,11067
+British Columbia,11/17/2020,23661,310
+Alberta,11/17/2020,40962,432
+Saskatchewan,11/17/2020,5422,31
+Manitoba,11/17/2020,11608,179
+Ontario,11/17/2020,96745,3423
+Quebec,11/17/2020,126054,6675
+Newfoundland and Labrador,11/17/2020,305,4
+New Brunswick,11/17/2020,379,6
+Nova Scotia,11/17/2020,1151,65
+Prince Edward Island,11/17/2020,68,0
+Yukon,11/17/2020,25,1
+Northwest Territories,11/17/2020,15,0
+Nunavut,11/17/2020,60,0
+Repatriated travellers,11/17/2020,13,0
+Canada,11/17/2020,306468,11126
+British Columbia,11/18/2020,24422,320
+Alberta,11/18/2020,41692,443
+Saskatchewan,11/18/2020,5553,32
+Manitoba,11/18/2020,12007,190
+Ontario,11/18/2020,98162,3455
+Quebec,11/18/2020,127233,6710
+Newfoundland and Labrador,11/18/2020,307,4
+New Brunswick,11/18/2020,388,6
+Nova Scotia,11/18/2020,1154,65
+Prince Edward Island,11/18/2020,68,0
+Yukon,11/18/2020,25,1
+Northwest Territories,11/18/2020,15,0
+Nunavut,11/18/2020,70,0
+Repatriated travellers,11/18/2020,13,0
+Canada,11/18/2020,311109,11226
+British Columbia,11/19/2020,24958,321
+Alberta,11/19/2020,42797,451
+Saskatchewan,11/19/2020,5651,32
+Manitoba,11/19/2020,12482,198
+Ontario,11/19/2020,99372,3483
+Quebec,11/19/2020,128440,6744
+Newfoundland and Labrador,11/19/2020,308,4
+New Brunswick,11/19/2020,392,6
+Nova Scotia,11/19/2020,1155,65
+Prince Edward Island,11/19/2020,68,0
+Yukon,11/19/2020,26,1
+Northwest Territories,11/19/2020,15,0
+Nunavut,11/19/2020,74,0
+Repatriated travellers,11/19/2020,13,0
+Canada,11/19/2020,315751,11305
+British Columbia,11/20/2020,25474,331
+Alberta,11/20/2020,43952,462
+Saskatchewan,11/20/2020,5804,33
+Manitoba,11/20/2020,12919,207
+Ontario,11/20/2020,100790,3491
+Quebec,11/20/2020,129699,6774
+Newfoundland and Labrador,11/20/2020,311,4
+New Brunswick,11/20/2020,401,6
+Nova Scotia,11/20/2020,1160,65
+Prince Edward Island,11/20/2020,68,0
+Yukon,11/20/2020,29,1
+Northwest Territories,11/20/2020,15,0
+Nunavut,11/20/2020,84,0
+Repatriated travellers,11/20/2020,13,0
+Canada,11/20/2020,320719,11374
+British Columbia,11/21/2020,26187,331
+Alberta,11/21/2020,45288,471
+Saskatchewan,11/21/2020,6237,33
+Manitoba,11/21/2020,13304,217
+Ontario,11/21/2020,102378,3512
+Quebec,11/21/2020,130888,6806
+Newfoundland and Labrador,11/21/2020,316,4
+New Brunswick,11/21/2020,424,6
+Nova Scotia,11/21/2020,1168,65
+Prince Edward Island,11/21/2020,68,0
+Yukon,11/21/2020,29,1
+Northwest Territories,11/21/2020,15,0
+Nunavut,11/21/2020,109,0
+Repatriated travellers,11/21/2020,13,0
+Canada,11/21/2020,326424,11446
+British Columbia,11/22/2020,26813,331
+Alberta,11/22/2020,46872,471
+Saskatchewan,11/22/2020,6473,33
+Manitoba,11/22/2020,13544,229
+Ontario,11/22/2020,103912,3526
+Quebec,11/22/2020,132042,6829
+Newfoundland and Labrador,11/22/2020,319,4
+New Brunswick,11/22/2020,430,6
+Nova Scotia,11/22/2020,1179,65
+Prince Edward Island,11/22/2020,68,0
+Yukon,11/22/2020,32,1
+Northwest Territories,11/22/2020,15,0
+Nunavut,11/22/2020,130,0
+Repatriated travellers,11/22/2020,13,0
+Canada,11/22/2020,331842,11495
+British Columbia,11/23/2020,27407,348
+Alberta,11/23/2020,48421,476
+Saskatchewan,11/23/2020,6708,37
+Manitoba,11/23/2020,14087,236
+Ontario,11/23/2020,105501,3545
+Quebec,11/23/2020,133206,6842
+Newfoundland and Labrador,11/23/2020,321,4
+New Brunswick,11/23/2020,445,7
+Nova Scotia,11/23/2020,1190,65
+Prince Edward Island,11/23/2020,69,0
+Yukon,11/23/2020,38,1
+Northwest Territories,11/23/2020,15,0
+Nunavut,11/23/2020,134,0
+Repatriated travellers,11/23/2020,13,0
+Canada,11/23/2020,337555,11561
+British Columbia,11/24/2020,28348,358
+Alberta,11/24/2020,49536,492
+Saskatchewan,11/24/2020,6883,37
+Manitoba,11/24/2020,14558,248
+Ontario,11/24/2020,106510,3559
+Quebec,11/24/2020,134330,6887
+Newfoundland and Labrador,11/24/2020,323,4
+New Brunswick,11/24/2020,450,7
+Nova Scotia,11/24/2020,1227,65
+Prince Edward Island,11/24/2020,69,0
+Yukon,11/24/2020,38,1
+Northwest Territories,11/24/2020,15,0
+Nunavut,11/24/2020,144,0
+Repatriated travellers,11/24/2020,13,0
+Canada,11/24/2020,342444,11658
+British Columbia,11/25/2020,29086,371
+Alberta,11/25/2020,50801,500
+Saskatchewan,11/25/2020,7047,37
+Manitoba,11/25/2020,14907,256
+Ontario,11/25/2020,107883,3594
+Quebec,11/25/2020,135430,6915
+Newfoundland and Labrador,11/25/2020,324,4
+New Brunswick,11/25/2020,453,7
+Nova Scotia,11/25/2020,1243,65
+Prince Edward Island,11/25/2020,70,0
+Yukon,11/25/2020,39,1
+Northwest Territories,11/25/2020,15,0
+Nunavut,11/25/2020,155,0
+Repatriated travellers,11/25/2020,13,0
+Canada,11/25/2020,347466,11750
+British Columbia,11/26/2020,29973,384
+Alberta,11/26/2020,51878,510
+Saskatchewan,11/26/2020,7362,40
+Manitoba,11/26/2020,15288,266
+Ontario,11/26/2020,109361,3615
+Quebec,11/26/2020,136894,6947
+Newfoundland and Labrador,11/26/2020,327,4
+New Brunswick,11/26/2020,465,7
+Nova Scotia,11/26/2020,1257,65
+Prince Edward Island,11/26/2020,70,0
+Yukon,11/26/2020,39,1
+Northwest Territories,11/26/2020,15,0
+Nunavut,11/26/2020,155,0
+Repatriated travellers,11/26/2020,13,0
+Canada,11/26/2020,353097,11839
+British Columbia,11/27/2020,30884,395
+Alberta,11/27/2020,53105,519
+Saskatchewan,11/27/2020,7691,44
+Manitoba,11/27/2020,15632,280
+Ontario,11/27/2020,111216,3635
+Quebec,11/27/2020,138163,6984
+Newfoundland and Labrador,11/27/2020,331,4
+New Brunswick,11/27/2020,477,7
+Nova Scotia,11/27/2020,1266,65
+Prince Edward Island,11/27/2020,70,0
+Yukon,11/27/2020,42,1
+Northwest Territories,11/27/2020,15,0
+Nunavut,11/27/2020,159,0
+Repatriated travellers,11/27/2020,13,0
+Canada,11/27/2020,359064,11934
+British Columbia,11/28/2020,31634,410
+Alberta,11/28/2020,54836,524
+Saskatchewan,11/28/2020,7888,45
+Manitoba,11/28/2020,16118,290
+Ontario,11/28/2020,113038,3664
+Quebec,11/28/2020,139643,7021
+Newfoundland and Labrador,11/28/2020,333,4
+New Brunswick,11/28/2020,481,7
+Nova Scotia,11/28/2020,1280,65
+Prince Edward Island,11/28/2020,72,0
+Yukon,11/28/2020,45,1
+Northwest Territories,11/28/2020,15,0
+Nunavut,11/28/2020,164,0
+Repatriated travellers,11/28/2020,13,0
+Canada,11/28/2020,365560,12031
+British Columbia,11/29/2020,32642,427
+Alberta,11/29/2020,56444,533
+Saskatchewan,11/29/2020,8239,45
+Manitoba,11/29/2020,16483,301
+Ontario,11/29/2020,114746,3688
+Quebec,11/29/2020,141038,7033
+Newfoundland and Labrador,11/29/2020,337,4
+New Brunswick,11/29/2020,495,7
+Nova Scotia,11/29/2020,1290,65
+Prince Edward Island,11/29/2020,72,0
+Yukon,11/29/2020,45,1
+Northwest Territories,11/29/2020,15,0
+Nunavut,11/29/2020,177,0
+Repatriated travellers,11/29/2020,13,0
+Canada,11/29/2020,372036,12104
+British Columbia,11/30/2020,33238,441
+Alberta,11/30/2020,58177,541
+Saskatchewan,11/30/2020,8564,47
+Manitoba,11/30/2020,16825,312
+Ontario,11/30/2020,116492,3696
+Quebec,11/30/2020,142371,7056
+Newfoundland and Labrador,11/30/2020,338,4
+New Brunswick,11/30/2020,501,7
+Nova Scotia,11/30/2020,1305,65
+Prince Edward Island,11/30/2020,72,0
+Yukon,11/30/2020,47,1
+Northwest Territories,11/30/2020,15,0
+Nunavut,11/30/2020,181,0
+Repatriated travellers,11/30/2020,13,0
+Canada,11/30/2020,378139,12170
+British Columbia,12/1/2020,33894,457
+Alberta,12/1/2020,59484,551
+Saskatchewan,12/1/2020,8745,51
+Manitoba,12/1/2020,17107,328
+Ontario,12/1/2020,118199,3703
+Quebec,12/1/2020,143548,7084
+Newfoundland and Labrador,12/1/2020,339,4
+New Brunswick,12/1/2020,508,7
+Nova Scotia,12/1/2020,1315,65
+Prince Edward Island,12/1/2020,72,0
+Yukon,12/1/2020,47,1
+Northwest Territories,12/1/2020,15,0
+Nunavut,12/1/2020,182,0
+Repatriated travellers,12/1/2020,13,0
+Canada,12/1/2020,383468,12251
+British Columbia,12/2/2020,34728,469
+Alberta,12/2/2020,61169,561
+Saskatchewan,12/2/2020,8982,53
+Manitoba,12/2/2020,17384,342
+Ontario,12/2/2020,119922,3738
+Quebec,12/2/2020,145062,7125
+Newfoundland and Labrador,12/2/2020,340,4
+New Brunswick,12/2/2020,514,7
+Nova Scotia,12/2/2020,1332,65
+Prince Edward Island,12/2/2020,72,0
+Yukon,12/2/2020,49,1
+Northwest Territories,12/2/2020,15,0
+Nunavut,12/2/2020,193,0
+Repatriated travellers,12/2/2020,13,0
+Canada,12/2/2020,389775,12365
+British Columbia,12/3/2020,35421,481
+Alberta,12/3/2020,63023,575
+Saskatchewan,12/3/2020,9243,54
+Manitoba,12/3/2020,17751,353
+Ontario,12/3/2020,121746,3752
+Quebec,12/3/2020,146532,7155
+Newfoundland and Labrador,12/3/2020,340,4
+New Brunswick,12/3/2020,520,7
+Nova Scotia,12/3/2020,1343,65
+Prince Edward Island,12/3/2020,73,0
+Yukon,12/3/2020,50,1
+Northwest Territories,12/3/2020,15,0
+Nunavut,12/3/2020,198,0
+Repatriated travellers,12/3/2020,13,0
+Canada,12/3/2020,396268,12447
+British Columbia,12/4/2020,36132,492
+Alberta,12/4/2020,64851,590
+Saskatchewan,12/4/2020,9526,55
+Manitoba,12/4/2020,18069,362
+Ontario,12/4/2020,123526,3777
+Quebec,12/4/2020,147877,7183
+Newfoundland and Labrador,12/4/2020,343,4
+New Brunswick,12/4/2020,528,7
+Nova Scotia,12/4/2020,1358,65
+Prince Edward Island,12/4/2020,73,0
+Yukon,12/4/2020,51,1
+Northwest Territories,12/4/2020,15,0
+Nunavut,12/4/2020,206,0
+Repatriated travellers,12/4/2020,13,0
+Canada,12/4/2020,402568,12536
+British Columbia,12/5/2020,36779,510
+Alberta,12/5/2020,66730,596
+Saskatchewan,12/5/2020,9729,55
+Manitoba,12/5/2020,18423,381
+Ontario,12/5/2020,125385,3797
+Quebec,12/5/2020,149908,7231
+Newfoundland and Labrador,12/5/2020,347,4
+New Brunswick,12/5/2020,530,7
+Nova Scotia,12/5/2020,1364,65
+Prince Edward Island,12/5/2020,76,0
+Yukon,12/5/2020,54,1
+Northwest Territories,12/5/2020,15,0
+Nunavut,12/5/2020,214,0
+Repatriated travellers,12/5/2020,13,0
+Canada,12/5/2020,409567,12647
+British Columbia,12/6/2020,37505,520
+Alberta,12/6/2020,68566,615
+Saskatchewan,12/6/2020,10138,59
+Manitoba,12/6/2020,18806,395
+Ontario,12/6/2020,127309,3812
+Quebec,12/6/2020,151599,7255
+Newfoundland and Labrador,12/6/2020,351,4
+New Brunswick,12/6/2020,534,7
+Nova Scotia,12/6/2020,1368,65
+Prince Edward Island,12/6/2020,80,0
+Yukon,12/6/2020,54,1
+Northwest Territories,12/6/2020,15,0
+Nunavut,12/6/2020,216,0
+Repatriated travellers,12/6/2020,13,0
+Canada,12/6/2020,416554,12733
+British Columbia,12/7/2020,38152,527
+Alberta,12/7/2020,70301,631
+Saskatchewan,12/7/2020,10411,60
+Manitoba,12/7/2020,19131,407
+Ontario,12/7/2020,129234,3838
+Quebec,12/7/2020,153176,7277
+Newfoundland and Labrador,12/7/2020,351,4
+New Brunswick,12/7/2020,536,7
+Nova Scotia,12/7/2020,1376,65
+Prince Edward Island,12/7/2020,84,0
+Yukon,12/7/2020,54,1
+Northwest Territories,12/7/2020,15,0
+Nunavut,12/7/2020,219,0
+Repatriated travellers,12/7/2020,13,0
+Canada,12/7/2020,423053,12817
+British Columbia,12/8/2020,38718,543
+Alberta,12/8/2020,72028,640
+Saskatchewan,12/8/2020,10596,66
+Manitoba,12/8/2020,19376,420
+Ontario,12/8/2020,130910,3848
+Quebec,12/8/2020,154740,7313
+Newfoundland and Labrador,12/8/2020,352,4
+New Brunswick,12/8/2020,541,7
+Nova Scotia,12/8/2020,1383,65
+Prince Edward Island,12/8/2020,84,0
+Yukon,12/8/2020,58,1
+Northwest Territories,12/8/2020,15,0
+Nunavut,12/8/2020,220,0
+Repatriated travellers,12/8/2020,13,0
+Canada,12/8/2020,429034,12907
+British Columbia,12/9/2020,39337,559
+Alberta,12/9/2020,73488,653
+Saskatchewan,12/9/2020,10898,71
+Manitoba,12/9/2020,19655,438
+Ontario,12/9/2020,132800,3876
+Quebec,12/9/2020,156468,7349
+Newfoundland and Labrador,12/9/2020,353,4
+New Brunswick,12/9/2020,542,7
+Nova Scotia,12/9/2020,1389,65
+Prince Edward Island,12/9/2020,84,0
+Yukon,12/9/2020,58,1
+Northwest Territories,12/9/2020,15,0
+Nunavut,12/9/2020,229,0
+Repatriated travellers,12/9/2020,13,0
+Canada,12/9/2020,435329,13023
+British Columbia,12/10/2020,40060,587
+Alberta,12/10/2020,75054,666
+Saskatchewan,12/10/2020,11222,75
+Manitoba,12/10/2020,19947,451
+Ontario,12/10/2020,134783,3911
+Quebec,12/10/2020,158310,7382
+Newfoundland and Labrador,12/10/2020,354,4
+New Brunswick,12/10/2020,546,7
+Nova Scotia,12/10/2020,1393,65
+Prince Edward Island,12/10/2020,84,0
+Yukon,12/10/2020,58,1
+Northwest Territories,12/10/2020,15,0
+Nunavut,12/10/2020,229,0
+Repatriated travellers,12/10/2020,13,0
+Canada,12/10/2020,442068,13149
+British Columbia,12/11/2020,40797,598
+Alberta,12/11/2020,76792,684
+Saskatchewan,12/11/2020,11473,75
+Manitoba,12/11/2020,20392,465
+Ontario,12/11/2020,136631,3956
+Quebec,12/11/2020,160023,7435
+Newfoundland and Labrador,12/11/2020,355,4
+New Brunswick,12/11/2020,554,8
+Nova Scotia,12/11/2020,1402,65
+Prince Edward Island,12/11/2020,84,0
+Yukon,12/11/2020,58,1
+Northwest Territories,12/11/2020,20,0
+Nunavut,12/11/2020,245,0
+Repatriated travellers,12/11/2020,13,0
+Canada,12/11/2020,448839,13291
+British Columbia,12/12/2020,41495,626
+Alberta,12/12/2020,78382,697
+Saskatchewan,12/12/2020,11747,86
+Manitoba,12/12/2020,20750,483
+Ontario,12/12/2020,138504,3973
+Quebec,12/12/2020,161921,7475
+Newfoundland and Labrador,12/12/2020,358,4
+New Brunswick,12/12/2020,555,8
+Nova Scotia,12/12/2020,1409,65
+Prince Edward Island,12/12/2020,89,0
+Yukon,12/12/2020,58,1
+Northwest Territories,12/12/2020,21,0
+Nunavut,12/12/2020,247,0
+Repatriated travellers,12/12/2020,13,0
+Canada,12/12/2020,455549,13418
+British Columbia,12/13/2020,42184,640
+Alberta,12/13/2020,80099,719
+Saskatchewan,12/13/2020,11969,89
+Manitoba,12/13/2020,21023,490
+Ontario,12/13/2020,140181,3989
+Quebec,12/13/2020,163915,7508
+Newfoundland and Labrador,12/13/2020,358,4
+New Brunswick,12/13/2020,557,8
+Nova Scotia,12/13/2020,1415,65
+Prince Edward Island,12/13/2020,89,0
+Yukon,12/13/2020,58,1
+Northwest Territories,12/13/2020,21,0
+Nunavut,12/13/2020,247,0
+Repatriated travellers,12/13/2020,13,0
+Canada,12/13/2020,462129,13513
+British Columbia,12/14/2020,42943,647
+Alberta,12/14/2020,81986,733
+Saskatchewan,12/14/2020,12236,91
+Manitoba,12/14/2020,21264,499
+Ontario,12/14/2020,142121,4012
+Quebec,12/14/2020,165535,7533
+Newfoundland and Labrador,12/14/2020,359,4
+New Brunswick,12/14/2020,558,8
+Nova Scotia,12/14/2020,1420,65
+Prince Edward Island,12/14/2020,89,0
+Yukon,12/14/2020,59,1
+Northwest Territories,12/14/2020,21,0
+Nunavut,12/14/2020,256,0
+Repatriated travellers,12/14/2020,13,0
+Canada,12/14/2020,468860,13593
+British Columbia,12/15/2020,43463,668
+Alberta,12/15/2020,83327,744
+Saskatchewan,12/15/2020,12430,98
+Manitoba,12/15/2020,21535,508
+Ontario,12/15/2020,144396,4038
+Quebec,12/15/2020,167276,7571
+Newfoundland and Labrador,12/15/2020,359,4
+New Brunswick,12/15/2020,559,8
+Nova Scotia,12/15/2020,1426,65
+Prince Edward Island,12/15/2020,89,0
+Yukon,12/15/2020,59,1
+Northwest Territories,12/15/2020,22,0
+Nunavut,12/15/2020,258,0
+Repatriated travellers,12/15/2020,13,0
+Canada,12/15/2020,475212,13705
+British Columbia,12/16/2020,44103,692
+Alberta,12/16/2020,84597,760
+Saskatchewan,12/16/2020,12592,98
+Manitoba,12/16/2020,21826,523
+Ontario,12/16/2020,146535,4081
+Quebec,12/16/2020,169173,7613
+Newfoundland and Labrador,12/16/2020,364,4
+New Brunswick,12/16/2020,567,8
+Nova Scotia,12/16/2020,1430,65
+Prince Edward Island,12/16/2020,89,0
+Yukon,12/16/2020,59,1
+Northwest Territories,12/16/2020,22,0
+Nunavut,12/16/2020,258,0
+Repatriated travellers,12/16/2020,13,0
+Canada,12/16/2020,481628,13845
+British Columbia,12/17/2020,44776,713
+Alberta,12/17/2020,86168,790
+Saskatchewan,12/17/2020,12830,105
+Manitoba,12/17/2020,22047,537
+Ontario,12/17/2020,148967,4104
+Quebec,12/17/2020,171028,7635
+Newfoundland and Labrador,12/17/2020,367,4
+New Brunswick,12/17/2020,573,8
+Nova Scotia,12/17/2020,1436,65
+Prince Edward Island,12/17/2020,90,0
+Yukon,12/17/2020,59,1
+Northwest Territories,12/17/2020,23,0
+Nunavut,12/17/2020,259,0
+Repatriated travellers,12/17/2020,13,0
+Canada,12/17/2020,488636,13962
+British Columbia,12/18/2020,45400,724
+Alberta,12/18/2020,87581,815
+Saskatchewan,12/18/2020,13075,107
+Manitoba,12/18/2020,22397,547
+Ontario,12/18/2020,151257,4144
+Quebec,12/18/2020,172801,7671
+Newfoundland and Labrador,12/18/2020,372,4
+New Brunswick,12/18/2020,573,8
+Nova Scotia,12/18/2020,1442,65
+Prince Edward Island,12/18/2020,90,0
+Yukon,12/18/2020,59,1
+Northwest Territories,12/18/2020,24,0
+Nunavut,12/18/2020,259,0
+Repatriated travellers,12/18/2020,13,0
+Canada,12/18/2020,495343,14086
+British Columbia,12/19/2020,46052,752
+Alberta,12/19/2020,88933,841
+Saskatchewan,12/19/2020,13327,115
+Manitoba,12/19/2020,22630,556
+Ontario,12/19/2020,153614,4171
+Quebec,12/19/2020,174839,7715
+Newfoundland and Labrador,12/19/2020,380,4
+New Brunswick,12/19/2020,578,8
+Nova Scotia,12/19/2020,1443,65
+Prince Edward Island,12/19/2020,91,0
+Yukon,12/19/2020,59,1
+Northwest Territories,12/19/2020,24,0
+Nunavut,12/19/2020,259,0
+Repatriated travellers,12/19/2020,13,0
+Canada,12/19/2020,502242,14228
+British Columbia,12/20/2020,46538,760
+Alberta,12/20/2020,90219,851
+Saskatchewan,12/20/2020,13553,118
+Manitoba,12/20/2020,22859,569
+Ontario,12/20/2020,155930,4196
+Quebec,12/20/2020,176985,7736
+Newfoundland and Labrador,12/20/2020,382,4
+New Brunswick,12/20/2020,574,8
+Nova Scotia,12/20/2020,1445,65
+Prince Edward Island,12/20/2020,91,0
+Yukon,12/20/2020,59,1
+Northwest Territories,12/20/2020,24,0
+Nunavut,12/20/2020,259,1
+Repatriated travellers,12/20/2020,13,0
+Canada,12/20/2020,508931,14309
+British Columbia,12/21/2020,47067,765
+Alberta,12/21/2020,91459,860
+Saskatchewan,12/21/2020,13759,122
+Manitoba,12/21/2020,23025,572
+Ontario,12/21/2020,158053,4213
+Quebec,12/21/2020,179093,7766
+Newfoundland and Labrador,12/21/2020,382,4
+New Brunswick,12/21/2020,578,8
+Nova Scotia,12/21/2020,1447,65
+Prince Edward Island,12/21/2020,91,0
+Yukon,12/21/2020,59,1
+Northwest Territories,12/21/2020,24,0
+Nunavut,12/21/2020,262,1
+Repatriated travellers,12/21/2020,13,0
+Canada,12/21/2020,515312,14377
+British Columbia,12/22/2020,47510,777
+Alberta,12/22/2020,92480,871
+Saskatchewan,12/22/2020,13941,125
+Manitoba,12/22/2020,23180,590
+Ontario,12/22/2020,160255,4234
+Quebec,12/22/2020,181276,7794
+Newfoundland and Labrador,12/22/2020,383,4
+New Brunswick,12/22/2020,580,8
+Nova Scotia,12/22/2020,1454,65
+Prince Edward Island,12/22/2020,91,0
+Yukon,12/22/2020,59,1
+Northwest Territories,12/22/2020,24,0
+Nunavut,12/22/2020,262,1
+Repatriated travellers,12/22/2020,13,0
+Canada,12/22/2020,521508,14470
+British Columbia,12/23/2020,48027,796
+Alberta,12/23/2020,93781,890
+Saskatchewan,12/23/2020,14100,130
+Manitoba,12/23/2020,23381,605
+Ontario,12/23/2020,162663,4275
+Quebec,12/23/2020,183523,7867
+Newfoundland and Labrador,12/23/2020,384,4
+New Brunswick,12/23/2020,585,8
+Nova Scotia,12/23/2020,1458,65
+Prince Edward Island,12/23/2020,91,0
+Yukon,12/23/2020,59,1
+Northwest Territories,12/23/2020,24,0
+Nunavut,12/23/2020,264,1
+Repatriated travellers,12/23/2020,13,0
+Canada,12/23/2020,528353,14642
+British Columbia,12/24/2020,48609,808
+Alberta,12/24/2020,94788,920
+Saskatchewan,12/24/2020,14254,134
+Manitoba,12/24/2020,23624,617
+Ontario,12/24/2020,165110,4324
+Quebec,12/24/2020,185872,7913
+Newfoundland and Labrador,12/24/2020,384,4
+New Brunswick,12/24/2020,587,8
+Nova Scotia,12/24/2020,1465,65
+Prince Edward Island,12/24/2020,94,0
+Yukon,12/24/2020,60,1
+Northwest Territories,12/24/2020,24,0
+Nunavut,12/24/2020,265,1
+Repatriated travellers,12/24/2020,13,0
+Canada,12/24/2020,535149,14795
+British Columbia,12/25/2020,49121,833
+Alberta,12/25/2020,95979,938
+Saskatchewan,12/25/2020,14483,134
+Manitoba,12/25/2020,23624,617
+Ontario,12/25/2020,167269,4324
+Quebec,12/25/2020,185872,7913
+Newfoundland and Labrador,12/25/2020,384,4
+New Brunswick,12/25/2020,588,8
+Nova Scotia,12/25/2020,1465,65
+Prince Edward Island,12/25/2020,94,0
+Yukon,12/25/2020,60,1
+Northwest Territories,12/25/2020,24,0
+Nunavut,12/25/2020,265,1
+Repatriated travellers,12/25/2020,13,0
+Canada,12/25/2020,539241,14838
+British Columbia,12/26/2020,49568,847
+Alberta,12/26/2020,96893,955
+Saskatchewan,12/26/2020,14615,134
+Manitoba,12/26/2020,23624,617
+Ontario,12/26/2020,169411,4405
+Quebec,12/26/2020,190364,8011
+Newfoundland and Labrador,12/26/2020,384,4
+New Brunswick,12/26/2020,590,8
+Nova Scotia,12/26/2020,1465,65
+Prince Edward Island,12/26/2020,94,0
+Yukon,12/26/2020,60,1
+Northwest Territories,12/26/2020,24,0
+Nunavut,12/26/2020,265,1
+Repatriated travellers,12/26/2020,13,0
+Canada,12/26/2020,547370,15048
+British Columbia,12/27/2020,49992,861
+Alberta,12/27/2020,97352,982
+Saskatchewan,12/27/2020,14813,141
+Manitoba,12/27/2020,24145,645
+Ontario,12/27/2020,171416,4423
+Quebec,12/27/2020,192655,8023
+Newfoundland and Labrador,12/27/2020,387,4
+New Brunswick,12/27/2020,592,8
+Nova Scotia,12/27/2020,1465,65
+Prince Edward Island,12/27/2020,94,0
+Yukon,12/27/2020,60,1
+Northwest Territories,12/27/2020,24,0
+Nunavut,12/27/2020,265,1
+Repatriated travellers,12/27/2020,13,0
+Canada,12/27/2020,553273,15154
+British Columbia,12/28/2020,50433,872
+Alberta,12/28/2020,98269,1002
+Saskatchewan,12/28/2020,14907,141
+Manitoba,12/28/2020,24252,654
+Ontario,12/28/2020,173355,4460
+Quebec,12/28/2020,194930,8060
+Newfoundland and Labrador,12/28/2020,389,4
+New Brunswick,12/28/2020,593,8
+Nova Scotia,12/28/2020,1478,65
+Prince Edward Island,12/28/2020,94,0
+Yukon,12/28/2020,60,1
+Northwest Territories,12/28/2020,24,0
+Nunavut,12/28/2020,266,1
+Repatriated travellers,12/28/2020,13,0
+Canada,12/28/2020,559063,15268
+British Columbia,12/29/2020,50815,882
+Alberta,12/29/2020,99141,1028
+Saskatchewan,12/29/2020,15021,151
+Manitoba,12/29/2020,24385,659
+Ontario,12/29/2020,175908,4501
+Quebec,12/29/2020,197311,8124
+Newfoundland and Labrador,12/29/2020,390,4
+New Brunswick,12/29/2020,595,8
+Nova Scotia,12/29/2020,1480,65
+Prince Edward Island,12/29/2020,96,0
+Yukon,12/29/2020,60,1
+Northwest Territories,12/29/2020,24,0
+Nunavut,12/29/2020,266,1
+Repatriated travellers,12/29/2020,13,0
+Canada,12/29/2020,565504,15424
+British Columbia,12/30/2020,51300,893
+Alberta,12/30/2020,100428,1046
+Saskatchewan,12/30/2020,15159,154
+Manitoba,12/30/2020,24513,661
+Ontario,12/30/2020,178831,4520
+Quebec,12/30/2020,199822,8165
+Newfoundland and Labrador,12/30/2020,390,4
+New Brunswick,12/30/2020,596,8
+Nova Scotia,12/30/2020,1483,65
+Prince Edward Island,12/30/2020,96,0
+Yukon,12/30/2020,60,1
+Northwest Territories,12/30/2020,24,0
+Nunavut,12/30/2020,266,1
+Repatriated travellers,12/30/2020,13,0
+Canada,12/30/2020,572981,15518
+British Columbia,12/31/2020,51990,901
+Alberta,12/31/2020,101654,1046
+Saskatchewan,12/31/2020,15349,155
+Manitoba,12/31/2020,24700,667
+Ontario,12/31/2020,182159,4576
+Quebec,12/31/2020,202641,8226
+Newfoundland and Labrador,12/31/2020,390,4
+New Brunswick,12/31/2020,599,9
+Nova Scotia,12/31/2020,1486,65
+Prince Edward Island,12/31/2020,96,0
+Yukon,12/31/2020,60,1
+Northwest Territories,12/31/2020,24,0
+Nunavut,12/31/2020,266,1
+Repatriated travellers,12/31/2020,13,0
+Canada,12/31/2020,581427,15651
+British Columbia,1/1/2021,52555,901
+Alberta,1/1/2021,103015,1046
+Saskatchewan,1/1/2021,15634,155
+Manitoba,1/1/2021,24700,667
+Ontario,1/1/2021,184635,4627
+Quebec,1/1/2021,205449,8311
+Newfoundland and Labrador,1/1/2021,390,4
+New Brunswick,1/1/2021,601,9
+Nova Scotia,1/1/2021,1497,65
+Prince Edward Island,1/1/2021,96,0
+Yukon,1/1/2021,64,1
+Northwest Territories,1/1/2021,24,0
+Nunavut,1/1/2021,266,1
+Repatriated travellers,1/1/2021,13,0
+Canada,1/1/2021,588939,15787
+British Columbia,1/2/2021,53162,901
+Alberta,1/2/2021,103948,1046
+Saskatchewan,1/2/2021,15844,158
+Manitoba,1/2/2021,25026,678
+Ontario,1/2/2021,187998,4671
+Quebec,1/2/2021,207435,8336
+Newfoundland and Labrador,1/2/2021,390,4
+New Brunswick,1/2/2021,611,9
+Nova Scotia,1/2/2021,1499,65
+Prince Edward Island,1/2/2021,96,0
+Yukon,1/2/2021,64,1
+Northwest Territories,1/2/2021,24,0
+Nunavut,1/2/2021,266,1
+Repatriated travellers,1/2/2021,13,0
+Canada,1/2/2021,596376,15870
+British Columbia,1/3/2021,53662,901
+Alberta,1/3/2021,104407,1046
+Saskatchewan,1/3/2021,16080,158
+Manitoba,1/3/2021,25126,683
+Ontario,1/3/2021,190962,4696
+Quebec,1/3/2021,210304,8347
+Newfoundland and Labrador,1/3/2021,390,4
+New Brunswick,1/3/2021,618,9
+Nova Scotia,1/3/2021,1501,65
+Prince Edward Island,1/3/2021,96,0
+Yukon,1/3/2021,64,1
+Northwest Territories,1/3/2021,24,0
+Nunavut,1/3/2021,266,1
+Repatriated travellers,1/3/2021,13,0
+Canada,1/3/2021,603513,15911
+British Columbia,1/4/2021,54201,946
+Alberta,1/4/2021,105535,1142
+Saskatchewan,1/4/2021,16367,160
+Manitoba,1/4/2021,25244,688
+Ontario,1/4/2021,194232,4725
+Quebec,1/4/2021,212850,8379
+Newfoundland and Labrador,1/4/2021,391,4
+New Brunswick,1/4/2021,635,9
+Nova Scotia,1/4/2021,1505,65
+Prince Edward Island,1/4/2021,96,0
+Yukon,1/4/2021,65,1
+Northwest Territories,1/4/2021,24,0
+Nunavut,1/4/2021,266,1
+Repatriated travellers,1/4/2021,13,0
+Canada,1/4/2021,611424,16120
+British Columbia,1/5/2021,54629,954
+Alberta,1/5/2021,106378,1168
+Saskatchewan,1/5/2021,16520,165
+Manitoba,1/5/2021,25374,695
+Ontario,1/5/2021,197585,4776
+Quebec,1/5/2021,215358,8441
+Newfoundland and Labrador,1/5/2021,392,4
+New Brunswick,1/5/2021,662,9
+Nova Scotia,1/5/2021,1508,65
+Prince Edward Island,1/5/2021,97,0
+Yukon,1/5/2021,65,1
+Northwest Territories,1/5/2021,24,0
+Nunavut,1/5/2021,266,1
+Repatriated travellers,1/5/2021,13,0
+Canada,1/5/2021,618871,16279
+British Columbia,1/6/2021,55254,962
+Alberta,1/6/2021,107501,1193
+Saskatchewan,1/6/2021,16804,174
+Manitoba,1/6/2021,25534,705
+Ontario,1/6/2021,201076,4813
+Quebec,1/6/2021,217999,8488
+Newfoundland and Labrador,1/6/2021,392,4
+New Brunswick,1/6/2021,693,9
+Nova Scotia,1/6/2021,1520,65
+Prince Edward Island,1/6/2021,101,0
+Yukon,1/6/2021,66,1
+Northwest Territories,1/6/2021,24,0
+Nunavut,1/6/2021,266,1
+Repatriated travellers,1/6/2021,13,0
+Canada,1/6/2021,627243,16415
+British Columbia,1/7/2021,56015,970
+Alberta,1/7/2021,108469,1217
+Saskatchewan,1/7/2021,17139,177
+Manitoba,1/7/2021,25741,717
+Ontario,1/7/2021,204595,4902
+Quebec,1/7/2021,220518,8561
+Newfoundland and Labrador,1/7/2021,392,4
+New Brunswick,1/7/2021,717,9
+Nova Scotia,1/7/2021,1523,65
+Prince Edward Island,1/7/2021,102,0
+Yukon,1/7/2021,69,1
+Northwest Territories,1/7/2021,24,0
+Nunavut,1/7/2021,266,1
+Repatriated travellers,1/7/2021,13,0
+Canada,1/7/2021,635583,16624
+British Columbia,1/8/2021,56632,988
+Alberta,1/8/2021,109652,1241
+Saskatchewan,1/8/2021,17475,184
+Manitoba,1/8/2021,25963,726
+Ontario,1/8/2021,208394,4928
+Quebec,1/8/2021,223106,8606
+Newfoundland and Labrador,1/8/2021,392,4
+New Brunswick,1/8/2021,735,9
+Nova Scotia,1/8/2021,1525,65
+Prince Edward Island,1/8/2021,102,0
+Yukon,1/8/2021,70,1
+Northwest Territories,1/8/2021,24,0
+Nunavut,1/8/2021,266,1
+Repatriated travellers,1/8/2021,13,0
+Canada,1/8/2021,644349,16753
+British Columbia,1/9/2021,57170,999
+Alberta,1/9/2021,110641,1272
+Saskatchewan,1/9/2021,17807,191
+Manitoba,1/9/2021,26166,733
+Ontario,1/9/2021,211837,4968
+Quebec,1/9/2021,226233,8647
+Newfoundland and Labrador,1/9/2021,392,4
+New Brunswick,1/9/2021,765,9
+Nova Scotia,1/9/2021,1528,65
+Prince Edward Island,1/9/2021,102,0
+Yukon,1/9/2021,70,1
+Northwest Territories,1/9/2021,24,0
+Nunavut,1/9/2021,266,1
+Repatriated travellers,1/9/2021,13,0
+Canada,1/9/2021,653014,16890
+British Columbia,1/10/2021,57677,1005
+Alberta,1/10/2021,111452,1284
+Saskatchewan,1/10/2021,18114,191
+Manitoba,1/10/2021,26317,738
+Ontario,1/10/2021,215782,5029
+Quebec,1/10/2021,228821,8686
+Newfoundland and Labrador,1/10/2021,393,4
+New Brunswick,1/10/2021,779,9
+Nova Scotia,1/10/2021,1528,65
+Prince Edward Island,1/10/2021,102,0
+Yukon,1/10/2021,70,1
+Northwest Territories,1/10/2021,24,0
+Nunavut,1/10/2021,266,1
+Repatriated travellers,1/10/2021,13,0
+Canada,1/10/2021,661334,17013
+British Columbia,1/11/2021,58107,1010
+Alberta,1/11/2021,112091,1307
+Saskatchewan,1/11/2021,18526,199
+Manitoba,1/11/2021,26448,741
+Ontario,1/11/2021,219120,5058
+Quebec,1/11/2021,230690,8735
+Newfoundland and Labrador,1/11/2021,393,4
+New Brunswick,1/11/2021,800,9
+Nova Scotia,1/11/2021,1533,65
+Prince Edward Island,1/11/2021,102,0
+Yukon,1/11/2021,70,1
+Northwest Territories,1/11/2021,24,0
+Nunavut,1/11/2021,266,1
+Repatriated travellers,1/11/2021,13,0
+Canada,1/11/2021,668183,17130
+British Columbia,1/12/2021,58553,1019
+Alberta,1/12/2021,112743,1345
+Saskatchewan,1/12/2021,18774,204
+Manitoba,1/12/2021,26537,748
+Ontario,1/12/2021,222023,5099
+Quebec,1/12/2021,232624,8780
+Newfoundland and Labrador,1/12/2021,393,4
+New Brunswick,1/12/2021,817,11
+Nova Scotia,1/12/2021,1534,65
+Prince Edward Island,1/12/2021,103,0
+Yukon,1/12/2021,70,1
+Northwest Territories,1/12/2021,24,0
+Nunavut,1/12/2021,266,1
+Repatriated travellers,1/12/2021,13,0
+Canada,1/12/2021,674470,17277
+British Columbia,1/13/2021,59072,1031
+Alberta,1/13/2021,113618,1368
+Saskatchewan,1/13/2021,19021,206
+Manitoba,1/13/2021,26693,753
+Ontario,1/13/2021,224984,5173
+Quebec,1/13/2021,234695,8814
+Newfoundland and Labrador,1/13/2021,393,4
+New Brunswick,1/13/2021,836,12
+Nova Scotia,1/13/2021,1542,65
+Prince Edward Island,1/13/2021,103,0
+Yukon,1/13/2021,70,1
+Northwest Territories,1/13/2021,24,0
+Nunavut,1/13/2021,266,1
+Repatriated travellers,1/13/2021,13,0
+Canada,1/13/2021,681330,17428
+British Columbia,1/14/2021,59608,1038
+Alberta,1/14/2021,114585,1389
+Saskatchewan,1/14/2021,19333,206
+Manitoba,1/14/2021,26954,755
+Ontario,1/14/2021,228310,5235
+Quebec,1/14/2021,236827,8876
+Newfoundland and Labrador,1/14/2021,394,4
+New Brunswick,1/14/2021,859,12
+Nova Scotia,1/14/2021,1548,65
+Prince Edward Island,1/14/2021,104,0
+Yukon,1/14/2021,70,1
+Northwest Territories,1/14/2021,24,0
+Nunavut,1/14/2021,266,1
+Repatriated travellers,1/14/2021,13,0
+Canada,1/14/2021,688895,17582
+British Columbia,1/15/2021,60117,1047
+Alberta,1/15/2021,115370,1402
+Saskatchewan,1/15/2021,19715,210
+Manitoba,1/15/2021,27142,759
+Ontario,1/15/2021,231308,5289
+Quebec,1/15/2021,238745,8938
+Newfoundland and Labrador,1/15/2021,395,4
+New Brunswick,1/15/2021,884,12
+Nova Scotia,1/15/2021,1550,65
+Prince Edward Island,1/15/2021,104,0
+Yukon,1/15/2021,70,1
+Northwest Territories,1/15/2021,25,0
+Nunavut,1/15/2021,266,1
+Repatriated travellers,1/15/2021,13,0
+Canada,1/15/2021,695704,17728
+British Columbia,1/16/2021,60701,1064
+Alberta,1/16/2021,116087,1417
+Saskatchewan,1/16/2021,19985,212
+Manitoba,1/16/2021,27322,761
+Ontario,1/16/2021,234364,5340
+Quebec,1/16/2021,240970,9005
+Newfoundland and Labrador,1/16/2021,395,4
+New Brunswick,1/16/2021,911,12
+Nova Scotia,1/16/2021,1554,65
+Prince Edward Island,1/16/2021,104,0
+Yukon,1/16/2021,70,1
+Northwest Territories,1/16/2021,25,0
+Nunavut,1/16/2021,266,1
+Repatriated travellers,1/16/2021,13,0
+Canada,1/16/2021,702767,17882
+British Columbia,1/17/2021,61146,1073
+Alberta,1/17/2021,116837,1436
+Saskatchewan,1/17/2021,20272,215
+Manitoba,1/17/2021,27511,769
+Ontario,1/17/2021,237786,5409
+Quebec,1/17/2021,242914,9055
+Newfoundland and Labrador,1/17/2021,396,4
+New Brunswick,1/17/2021,947,12
+Nova Scotia,1/17/2021,1557,65
+Prince Edward Island,1/17/2021,104,0
+Yukon,1/17/2021,70,1
+Northwest Territories,1/17/2021,28,0
+Nunavut,1/17/2021,266,1
+Repatriated travellers,1/17/2021,13,0
+Canada,1/17/2021,709847,18040
+British Columbia,1/18/2021,61447,1078
+Alberta,1/18/2021,117311,1447
+Saskatchewan,1/18/2021,20562,219
+Manitoba,1/18/2021,27629,773
+Ontario,1/18/2021,240364,5433
+Quebec,1/18/2021,244348,9087
+Newfoundland and Labrador,1/18/2021,396,4
+New Brunswick,1/18/2021,973,12
+Nova Scotia,1/18/2021,1557,65
+Prince Edward Island,1/18/2021,108,0
+Yukon,1/18/2021,70,1
+Northwest Territories,1/18/2021,28,0
+Nunavut,1/18/2021,266,1
+Repatriated travellers,1/18/2021,13,0
+Canada,1/18/2021,715072,18120
+British Columbia,1/19/2021,61912,1090
+Alberta,1/19/2021,117767,1463
+Saskatchewan,1/19/2021,20871,225
+Manitoba,1/19/2021,27740,783
+Ontario,1/19/2021,242277,5479
+Quebec,1/19/2021,245734,9142
+Newfoundland and Labrador,1/19/2021,396,4
+New Brunswick,1/19/2021,1004,13
+Nova Scotia,1/19/2021,1561,65
+Prince Edward Island,1/19/2021,110,0
+Yukon,1/19/2021,70,1
+Northwest Territories,1/19/2021,30,0
+Nunavut,1/19/2021,266,1
+Repatriated travellers,1/19/2021,13,0
+Canada,1/19/2021,719751,18266
+British Columbia,1/20/2021,62412,1104
+Alberta,1/20/2021,118436,1484
+Saskatchewan,1/20/2021,21112,226
+Manitoba,1/20/2021,27893,788
+Ontario,1/20/2021,244932,5568
+Quebec,1/20/2021,247236,9208
+Newfoundland and Labrador,1/20/2021,396,4
+New Brunswick,1/20/2021,1025,13
+Nova Scotia,1/20/2021,1564,65
+Prince Edward Island,1/20/2021,110,0
+Yukon,1/20/2021,70,1
+Northwest Territories,1/20/2021,30,0
+Nunavut,1/20/2021,266,1
+Repatriated travellers,1/20/2021,13,0
+Canada,1/20/2021,725495,18462
+British Columbia,1/21/2021,62976,1119
+Alberta,1/21/2021,119114,1500
+Saskatchewan,1/21/2021,21338,239
+Manitoba,1/21/2021,28089,793
+Ontario,1/21/2021,247564,5614
+Quebec,1/21/2021,248860,9273
+Newfoundland and Labrador,1/21/2021,397,4
+New Brunswick,1/21/2021,1057,13
+Nova Scotia,1/21/2021,1565,65
+Prince Edward Island,1/21/2021,110,0
+Yukon,1/21/2021,70,1
+Northwest Territories,1/21/2021,31,0
+Nunavut,1/21/2021,266,1
+Repatriated travellers,1/21/2021,13,0
+Canada,1/21/2021,731450,18622
+British Columbia,1/22/2021,63484,1128
+Alberta,1/22/2021,119757,1512
+Saskatchewan,1/22/2021,21643,247
+Manitoba,1/22/2021,28260,795
+Ontario,1/22/2021,250226,5701
+Quebec,1/22/2021,250491,9361
+Newfoundland and Labrador,1/22/2021,398,4
+New Brunswick,1/22/2021,1087,13
+Nova Scotia,1/22/2021,1570,65
+Prince Edward Island,1/22/2021,110,0
+Yukon,1/22/2021,70,1
+Northwest Territories,1/22/2021,31,0
+Nunavut,1/22/2021,267,1
+Repatriated travellers,1/22/2021,13,0
+Canada,1/22/2021,737407,18828
+British Columbia,1/23/2021,64011,1128
+Alberta,1/23/2021,120330,1525
+Saskatchewan,1/23/2021,21917,250
+Manitoba,1/23/2021,28476,797
+Ontario,1/23/2021,252585,5753
+Quebec,1/23/2021,252176,9437
+Newfoundland and Labrador,1/23/2021,398,4
+New Brunswick,1/23/2021,1104,13
+Nova Scotia,1/23/2021,1570,65
+Prince Edward Island,1/23/2021,110,0
+Yukon,1/23/2021,70,1
+Northwest Territories,1/23/2021,31,0
+Nunavut,1/23/2021,267,1
+Repatriated travellers,1/23/2021,13,0
+Canada,1/23/2021,743058,18974
+British Columbia,1/24/2021,64482,1128
+Alberta,1/24/2021,120793,1549
+Saskatchewan,1/24/2021,22177,253
+Manitoba,1/24/2021,28697,799
+Ontario,1/24/2021,255002,5803
+Quebec,1/24/2021,253633,9478
+Newfoundland and Labrador,1/24/2021,398,4
+New Brunswick,1/24/2021,1124,13
+Nova Scotia,1/24/2021,1571,65
+Prince Edward Island,1/24/2021,110,0
+Yukon,1/24/2021,70,1
+Northwest Territories,1/24/2021,31,0
+Nunavut,1/24/2021,280,1
+Repatriated travellers,1/24/2021,13,0
+Canada,1/24/2021,748381,19094
+British Columbia,1/25/2021,64828,1154
+Alberta,1/25/2021,121535,1574
+Saskatchewan,1/25/2021,22416,254
+Manitoba,1/25/2021,28810,804
+Ontario,1/25/2021,256960,5846
+Quebec,1/25/2021,254836,9521
+Newfoundland and Labrador,1/25/2021,398,4
+New Brunswick,1/25/2021,1151,14
+Nova Scotia,1/25/2021,1571,65
+Prince Edward Island,1/25/2021,110,0
+Yukon,1/25/2021,70,1
+Northwest Territories,1/25/2021,31,0
+Nunavut,1/25/2021,282,1
+Repatriated travellers,1/25/2021,13,0
+Canada,1/25/2021,753011,19238
+British Columbia,1/26/2021,65234,1168
+Alberta,1/26/2021,121901,1587
+Saskatchewan,1/26/2021,22646,268
+Manitoba,1/26/2021,28902,809
+Ontario,1/26/2021,258700,5909
+Quebec,1/26/2021,256002,9577
+Newfoundland and Labrador,1/26/2021,398,4
+New Brunswick,1/26/2021,1161,14
+Nova Scotia,1/26/2021,1572,65
+Prince Edward Island,1/26/2021,110,0
+Yukon,1/26/2021,70,1
+Northwest Territories,1/26/2021,31,0
+Nunavut,1/26/2021,282,1
+Repatriated travellers,1/26/2021,13,0
+Canada,1/26/2021,757022,19403
+British Columbia,1/27/2021,65719,1172
+Alberta,1/27/2021,122360,1599
+Saskatchewan,1/27/2021,22794,274
+Manitoba,1/27/2021,28996,813
+Ontario,1/27/2021,260370,5958
+Quebec,1/27/2021,257330,9630
+Newfoundland and Labrador,1/27/2021,400,4
+New Brunswick,1/27/2021,1175,16
+Nova Scotia,1/27/2021,1576,65
+Prince Edward Island,1/27/2021,110,0
+Yukon,1/27/2021,70,1
+Northwest Territories,1/27/2021,31,0
+Nunavut,1/27/2021,282,1
+Repatriated travellers,1/27/2021,13,0
+Canada,1/27/2021,761226,19533
+British Columbia,1/28/2021,66265,1184
+Alberta,1/28/2021,122821,1606
+Saskatchewan,1/28/2021,23038,285
+Manitoba,1/28/2021,29128,821
+Ontario,1/28/2021,262463,6014
+Quebec,1/28/2021,258698,9667
+Newfoundland and Labrador,1/28/2021,404,4
+New Brunswick,1/28/2021,1202,16
+Nova Scotia,1/28/2021,1576,65
+Prince Edward Island,1/28/2021,111,0
+Yukon,1/28/2021,70,1
+Northwest Territories,1/28/2021,31,0
+Nunavut,1/28/2021,283,1
+Repatriated travellers,1/28/2021,13,0
+Canada,1/28/2021,766103,19664
+British Columbia,1/29/2021,66779,1189
+Alberta,1/29/2021,123364,1620
+Saskatchewan,1/29/2021,23366,292
+Manitoba,1/29/2021,29280,823
+Ontario,1/29/2021,264300,6072
+Quebec,1/29/2021,259993,9717
+Newfoundland and Labrador,1/29/2021,408,4
+New Brunswick,1/29/2021,1218,17
+Nova Scotia,1/29/2021,1577,65
+Prince Edward Island,1/29/2021,111,0
+Yukon,1/29/2021,70,1
+Northwest Territories,1/29/2021,31,0
+Nunavut,1/29/2021,283,1
+Repatriated travellers,1/29/2021,13,0
+Canada,1/29/2021,770793,19801
+British Columbia,1/30/2021,67187,1189
+Alberta,1/30/2021,123747,1631
+Saskatchewan,1/30/2021,23626,300
+Manitoba,1/30/2021,29446,825
+Ontario,1/30/2021,266363,6145
+Quebec,1/30/2021,261360,9763
+Newfoundland and Labrador,1/30/2021,408,4
+New Brunswick,1/30/2021,1230,18
+Nova Scotia,1/30/2021,1580,65
+Prince Edward Island,1/30/2021,111,0
+Yukon,1/30/2021,70,1
+Northwest Territories,1/30/2021,31,0
+Nunavut,1/30/2021,284,1
+Repatriated travellers,1/30/2021,13,0
+Canada,1/30/2021,775456,19942
+British Columbia,1/31/2021,67660,1189
+Alberta,1/31/2021,124208,1639
+Saskatchewan,1/31/2021,23864,304
+Manitoba,1/31/2021,29564,829
+Ontario,1/31/2021,268211,6188
+Quebec,1/31/2021,262583,9794
+Newfoundland and Labrador,1/31/2021,408,4
+New Brunswick,1/31/2021,1256,18
+Nova Scotia,1/31/2021,1580,65
+Prince Edward Island,1/31/2021,111,0
+Yukon,1/31/2021,70,1
+Northwest Territories,1/31/2021,31,0
+Nunavut,1/31/2021,294,1
+Repatriated travellers,1/31/2021,13,0
+Canada,1/31/2021,779853,20032
+British Columbia,2/1/2021,67937,1210
+Alberta,2/1/2021,124563,1649
+Saskatchewan,2/1/2021,24011,306
+Manitoba,2/1/2021,29651,832
+Ontario,2/1/2021,270180,6224
+Quebec,2/1/2021,263473,9826
+Newfoundland and Labrador,2/1/2021,408,4
+New Brunswick,2/1/2021,1264,18
+Nova Scotia,2/1/2021,1581,65
+Prince Edward Island,2/1/2021,113,0
+Yukon,2/1/2021,70,1
+Northwest Territories,2/1/2021,31,0
+Nunavut,2/1/2021,294,1
+Repatriated travellers,2/1/2021,13,0
+Canada,2/1/2021,783589,20136
+British Columbia,2/2/2021,68366,1218
+Alberta,2/2/2021,124831,1660
+Saskatchewan,2/2/2021,24236,314
+Manitoba,2/2/2021,29733,832
+Ontario,2/2/2021,270925,6238
+Quebec,2/2/2021,264526,9862
+Newfoundland and Labrador,2/2/2021,408,4
+New Brunswick,2/2/2021,1288,18
+Nova Scotia,2/2/2021,1582,65
+Prince Edward Island,2/2/2021,113,0
+Yukon,2/2/2021,70,1
+Northwest Territories,2/2/2021,32,0
+Nunavut,2/2/2021,294,1
+Repatriated travellers,2/2/2021,13,0
+Canada,2/2/2021,786417,20213
+British Columbia,2/3/2021,68780,1234
+Alberta,2/3/2021,125090,1671
+Saskatchewan,2/3/2021,24430,322
+Manitoba,2/3/2021,29858,835
+Ontario,2/3/2021,272097,6305
+Quebec,2/3/2021,265579,9899
+Newfoundland and Labrador,2/3/2021,410,4
+New Brunswick,2/3/2021,1302,18
+Nova Scotia,2/3/2021,1583,65
+Prince Edward Island,2/3/2021,113,0
+Yukon,2/3/2021,70,1
+Northwest Territories,2/3/2021,32,0
+Nunavut,2/3/2021,294,1
+Repatriated travellers,2/3/2021,13,0
+Canada,2/3/2021,789651,20355
+British Columbia,2/4/2021,69245,1240
+Alberta,2/4/2021,125672,1684
+Saskatchewan,2/4/2021,24680,329
+Manitoba,2/4/2021,29968,837
+Ontario,2/4/2021,273660,6393
+Quebec,2/4/2021,266672,9941
+Newfoundland and Labrador,2/4/2021,411,4
+New Brunswick,2/4/2021,1318,18
+Nova Scotia,2/4/2021,1584,65
+Prince Edward Island,2/4/2021,113,0
+Yukon,2/4/2021,70,1
+Northwest Territories,2/4/2021,32,0
+Nunavut,2/4/2021,296,1
+Repatriated travellers,2/4/2021,13,0
+Canada,2/4/2021,793734,20513
+British Columbia,2/5/2021,69716,1246
+Alberta,2/5/2021,126068,1693
+Saskatchewan,2/5/2021,24946,332
+Manitoba,2/5/2021,30078,838
+Ontario,2/5/2021,275330,6438
+Quebec,2/5/2021,267773,9973
+Newfoundland and Labrador,2/5/2021,412,4
+New Brunswick,2/5/2021,1325,18
+Nova Scotia,2/5/2021,1584,65
+Prince Edward Island,2/5/2021,113,0
+Yukon,2/5/2021,70,1
+Northwest Territories,2/5/2021,32,0
+Nunavut,2/5/2021,296,1
+Repatriated travellers,2/5/2021,13,0
+Canada,2/5/2021,797756,20609
+British Columbia,2/6/2021,70144,1246
+Alberta,2/6/2021,126416,1705
+Saskatchewan,2/6/2021,25209,336
+Manitoba,2/6/2021,30158,842
+Ontario,2/6/2021,276718,6483
+Quebec,2/6/2021,268977,9999
+Newfoundland and Labrador,2/6/2021,415,4
+New Brunswick,2/6/2021,1337,20
+Nova Scotia,2/6/2021,1584,65
+Prince Edward Island,2/6/2021,113,0
+Yukon,2/6/2021,70,1
+Northwest Territories,2/6/2021,32,0
+Nunavut,2/6/2021,299,1
+Repatriated travellers,2/6/2021,13,0
+Canada,2/6/2021,801485,20702
+British Columbia,2/7/2021,70609,1246
+Alberta,2/7/2021,126767,1709
+Saskatchewan,2/7/2021,25403,339
+Manitoba,2/7/2021,30237,846
+Ontario,2/7/2021,278207,6505
+Quebec,2/7/2021,270058,10031
+Newfoundland and Labrador,2/7/2021,416,4
+New Brunswick,2/7/2021,1344,20
+Nova Scotia,2/7/2021,1585,65
+Prince Edward Island,2/7/2021,113,0
+Yukon,2/7/2021,70,1
+Northwest Territories,2/7/2021,32,0
+Nunavut,2/7/2021,299,1
+Repatriated travellers,2/7/2021,13,0
+Canada,2/7/2021,805153,20767
+British Columbia,2/8/2021,70952,1259
+Alberta,2/8/2021,127036,1710
+Saskatchewan,2/8/2021,25574,341
+Manitoba,2/8/2021,30289,850
+Ontario,2/8/2021,279472,6538
+Quebec,2/8/2021,270911,10046
+Newfoundland and Labrador,2/8/2021,427,4
+New Brunswick,2/8/2021,1346,20
+Nova Scotia,2/8/2021,1586,65
+Prince Edward Island,2/8/2021,113,0
+Yukon,2/8/2021,70,1
+Northwest Territories,2/8/2021,32,0
+Nunavut,2/8/2021,299,1
+Repatriated travellers,2/8/2021,13,0
+Canada,2/8/2021,808120,20835
+British Columbia,2/9/2021,71387,1263
+Alberta,2/9/2021,127231,1722
+Saskatchewan,2/9/2021,25654,346
+Manitoba,2/9/2021,30360,853
+Ontario,2/9/2021,280494,6555
+Quebec,2/9/2021,271737,10078
+Newfoundland and Labrador,2/9/2021,457,4
+New Brunswick,2/9/2021,1361,21
+Nova Scotia,2/9/2021,1587,65
+Prince Edward Island,2/9/2021,114,0
+Yukon,2/9/2021,70,1
+Northwest Territories,2/9/2021,33,0
+Nunavut,2/9/2021,299,1
+Repatriated travellers,2/9/2021,13,0
+Canada,2/9/2021,810797,20909
+British Columbia,2/10/2021,71856,1269
+Alberta,2/10/2021,127570,1728
+Saskatchewan,2/10/2021,25843,348
+Manitoba,2/10/2021,30417,859
+Ontario,2/10/2021,281566,6596
+Quebec,2/10/2021,272726,10112
+Newfoundland and Labrador,2/10/2021,510,4
+New Brunswick,2/10/2021,1375,21
+Nova Scotia,2/10/2021,1588,65
+Prince Edward Island,2/10/2021,114,0
+Yukon,2/10/2021,70,1
+Northwest Territories,2/10/2021,34,0
+Nunavut,2/10/2021,300,1
+Repatriated travellers,2/10/2021,13,0
+Canada,2/10/2021,813982,21004
+British Columbia,2/11/2021,72305,1278
+Alberta,2/11/2021,127921,1744
+Saskatchewan,2/11/2021,25957,348
+Manitoba,2/11/2021,30507,862
+Ontario,2/11/2021,282511,6614
+Quebec,2/11/2021,273847,10149
+Newfoundland and Labrador,2/11/2021,610,4
+New Brunswick,2/11/2021,1377,22
+Nova Scotia,2/11/2021,1590,65
+Prince Edward Island,2/11/2021,114,0
+Yukon,2/11/2021,70,1
+Northwest Territories,2/11/2021,38,0
+Nunavut,2/11/2021,303,1
+Repatriated travellers,2/11/2021,13,0
+Canada,2/11/2021,817163,21088
+British Columbia,2/12/2021,72750,1288
+Alberta,2/12/2021,128235,1760
+Saskatchewan,2/12/2021,26145,350
+Manitoba,2/12/2021,30588,866
+Ontario,2/12/2021,283587,6632
+Quebec,2/12/2021,274831,10173
+Newfoundland and Labrador,2/12/2021,660,4
+New Brunswick,2/12/2021,1382,22
+Nova Scotia,2/12/2021,1590,65
+Prince Edward Island,2/12/2021,114,0
+Yukon,2/12/2021,70,1
+Northwest Territories,2/12/2021,38,0
+Nunavut,2/12/2021,303,1
+Repatriated travellers,2/12/2021,13,0
+Canada,2/12/2021,820306,21162
+British Columbia,2/13/2021,73202,1298
+Alberta,2/13/2021,128540,1775
+Saskatchewan,2/13/2021,26389,354
+Manitoba,2/13/2021,30687,866
+Ontario,2/13/2021,284887,6651
+Quebec,2/13/2021,275880,10201
+Newfoundland and Labrador,2/13/2021,686,4
+New Brunswick,2/13/2021,1398,22
+Nova Scotia,2/13/2021,1592,65
+Prince Edward Island,2/13/2021,114,0
+Yukon,2/13/2021,71,1
+Northwest Territories,2/13/2021,38,0
+Nunavut,2/13/2021,308,1
+Repatriated travellers,2/13/2021,13,0
+Canada,2/13/2021,823805,21238
+British Columbia,2/14/2021,73633,1303
+Alberta,2/14/2021,128824,1780
+Saskatchewan,2/14/2021,26550,354
+Manitoba,2/14/2021,30765,871
+Ontario,2/14/2021,285868,6693
+Quebec,2/14/2021,276790,10213
+Newfoundland and Labrador,2/14/2021,697,4
+New Brunswick,2/14/2021,1400,22
+Nova Scotia,2/14/2021,1593,65
+Prince Edward Island,2/14/2021,114,0
+Yukon,2/14/2021,71,1
+Northwest Territories,2/14/2021,38,0
+Nunavut,2/14/2021,311,1
+Repatriated travellers,2/14/2021,13,0
+Canada,2/14/2021,826667,21307
+British Columbia,2/15/2021,73981,1310
+Alberta,2/15/2021,129075,1782
+Saskatchewan,2/15/2021,26693,354
+Manitoba,2/15/2021,30836,871
+Ontario,2/15/2021,286832,6706
+Quebec,2/15/2021,277518,10226
+Newfoundland and Labrador,2/15/2021,704,4
+New Brunswick,2/15/2021,1401,23
+Nova Scotia,2/15/2021,1594,65
+Prince Edward Island,2/15/2021,114,0
+Yukon,2/15/2021,72,1
+Northwest Territories,2/15/2021,38,0
+Nunavut,2/15/2021,318,1
+Repatriated travellers,2/15/2021,13,0
+Canada,2/15/2021,829189,21343
+British Columbia,2/16/2021,74283,1314
+Alberta,2/16/2021,129338,1791
+Saskatchewan,2/16/2021,26829,357
+Manitoba,2/16/2021,30931,875
+Ontario,2/16/2021,287736,6719
+Quebec,2/16/2021,278187,10244
+Newfoundland and Labrador,2/16/2021,711,4
+New Brunswick,2/16/2021,1404,24
+Nova Scotia,2/16/2021,1597,65
+Prince Edward Island,2/16/2021,114,0
+Yukon,2/16/2021,72,1
+Northwest Territories,2/16/2021,38,0
+Nunavut,2/16/2021,323,1
+Repatriated travellers,2/16/2021,13,0
+Canada,2/16/2021,831576,21395
+British Columbia,2/17/2021,74710,1317
+Alberta,2/17/2021,129615,1798
+Saskatchewan,2/17/2021,26953,362
+Manitoba,2/17/2021,31006,876
+Ontario,2/17/2021,288583,6729
+Quebec,2/17/2021,278987,10254
+Newfoundland and Labrador,2/17/2021,755,4
+New Brunswick,2/17/2021,1407,24
+Nova Scotia,2/17/2021,1600,65
+Prince Edward Island,2/17/2021,114,0
+Yukon,2/17/2021,72,1
+Northwest Territories,2/17/2021,42,0
+Nunavut,2/17/2021,324,1
+Repatriated travellers,2/17/2021,13,0
+Canada,2/17/2021,834181,21431
+British Columbia,2/18/2021,75327,1321
+Alberta,2/18/2021,130030,1805
+Saskatchewan,2/18/2021,27099,362
+Manitoba,2/18/2021,31143,878
+Ontario,2/18/2021,289621,6773
+Quebec,2/18/2021,279887,10264
+Newfoundland and Labrador,2/18/2021,803,4
+New Brunswick,2/18/2021,1411,24
+Nova Scotia,2/18/2021,1602,65
+Prince Edward Island,2/18/2021,115,0
+Yukon,2/18/2021,72,1
+Northwest Territories,2/18/2021,42,0
+Nunavut,2/18/2021,330,1
+Repatriated travellers,2/18/2021,13,0
+Canada,2/18/2021,837495,21498
+British Columbia,2/19/2021,75835,1327
+Alberta,2/19/2021,130355,1812
+Saskatchewan,2/19/2021,27245,365
+Manitoba,2/19/2021,31235,879
+Ontario,2/19/2021,290771,6820
+Quebec,2/19/2021,280687,10278
+Newfoundland and Labrador,2/19/2021,863,4
+New Brunswick,2/19/2021,1417,24
+Nova Scotia,2/19/2021,1604,65
+Prince Edward Island,2/19/2021,115,0
+Yukon,2/19/2021,72,1
+Northwest Territories,2/19/2021,42,0
+Nunavut,2/19/2021,332,1
+Repatriated travellers,2/19/2021,13,0
+Canada,2/19/2021,840586,21576
+British Columbia,2/20/2021,76339,1327
+Alberta,2/20/2021,130735,1818
+Saskatchewan,2/20/2021,27438,368
+Manitoba,2/20/2021,31329,882
+Ontario,2/20/2021,291999,6848
+Quebec,2/20/2021,281456,10292
+Newfoundland and Labrador,2/20/2021,901,4
+New Brunswick,2/20/2021,1420,24
+Nova Scotia,2/20/2021,1608,65
+Prince Edward Island,2/20/2021,115,0
+Yukon,2/20/2021,72,1
+Northwest Territories,2/20/2021,42,0
+Nunavut,2/20/2021,338,1
+Repatriated travellers,2/20/2021,13,0
+Canada,2/20/2021,843805,21630
+British Columbia,2/21/2021,76814,1327
+Alberta,2/21/2021,131063,1827
+Saskatchewan,2/21/2021,27620,372
+Manitoba,2/21/2021,31386,884
+Ontario,2/21/2021,293086,6861
+Quebec,2/21/2021,282122,10307
+Newfoundland and Labrador,2/21/2021,926,4
+New Brunswick,2/21/2021,1423,25
+Nova Scotia,2/21/2021,1609,65
+Prince Edward Island,2/21/2021,115,0
+Yukon,2/21/2021,72,1
+Northwest Territories,2/21/2021,42,0
+Nunavut,2/21/2021,339,1
+Repatriated travellers,2/21/2021,13,0
+Canada,2/21/2021,846630,21674
+British Columbia,2/22/2021,77263,1335
+Alberta,2/22/2021,131336,1843
+Saskatchewan,2/22/2021,27797,372
+Manitoba,2/22/2021,31475,886
+Ontario,2/22/2021,294144,6872
+Quebec,2/22/2021,282927,10317
+Newfoundland and Labrador,2/22/2021,939,4
+New Brunswick,2/22/2021,1424,26
+Nova Scotia,2/22/2021,1610,65
+Prince Edward Island,2/22/2021,115,0
+Yukon,2/22/2021,72,1
+Northwest Territories,2/22/2021,42,0
+Nunavut,2/22/2021,351,1
+Repatriated travellers,2/22/2021,13,0
+Canada,2/22/2021,849508,21722
+British Columbia,2/23/2021,77858,1336
+Alberta,2/23/2021,131603,1853
+Saskatchewan,2/23/2021,27923,376
+Manitoba,2/23/2021,31545,886
+Ontario,2/23/2021,295119,6884
+Quebec,2/23/2021,283666,10329
+Newfoundland and Labrador,2/23/2021,954,4
+New Brunswick,2/23/2021,1424,26
+Nova Scotia,2/23/2021,1613,65
+Prince Edward Island,2/23/2021,115,0
+Yukon,2/23/2021,72,1
+Northwest Territories,2/23/2021,42,0
+Nunavut,2/23/2021,351,1
+Repatriated travellers,2/23/2021,13,0
+Canada,2/23/2021,852298,21761
+British Columbia,2/24/2021,78350,1338
+Alberta,2/24/2021,132033,1866
+Saskatchewan,2/24/2021,27980,379
+Manitoba,2/24/2021,31587,887
+Ontario,2/24/2021,296173,6893
+Quebec,2/24/2021,284472,10345
+Newfoundland and Labrador,2/24/2021,962,5
+New Brunswick,2/24/2021,1426,26
+Nova Scotia,2/24/2021,1616,65
+Prince Edward Island,2/24/2021,117,0
+Yukon,2/24/2021,72,1
+Northwest Territories,2/24/2021,42,0
+Nunavut,2/24/2021,351,1
+Repatriated travellers,2/24/2021,13,0
+Canada,2/24/2021,855194,21806
+British Columbia,2/25/2021,78782,1348
+Alberta,2/25/2021,132432,1874
+Saskatchewan,2/25/2021,28191,380
+Manitoba,2/25/2021,31657,888
+Ontario,2/25/2021,297311,6916
+Quebec,2/25/2021,285330,10361
+Newfoundland and Labrador,2/25/2021,972,5
+New Brunswick,2/25/2021,1427,26
+Nova Scotia,2/25/2021,1624,65
+Prince Edward Island,2/25/2021,120,0
+Yukon,2/25/2021,72,1
+Northwest Territories,2/25/2021,42,0
+Nunavut,2/25/2021,355,1
+Repatriated travellers,2/25/2021,13,0
+Canada,2/25/2021,858328,21865
+British Columbia,2/26/2021,79340,1355
+Alberta,2/26/2021,132788,1877
+Saskatchewan,2/26/2021,28344,380
+Manitoba,2/26/2021,31719,889
+Ontario,2/26/2021,298569,6944
+Quebec,2/26/2021,286145,10372
+Newfoundland and Labrador,2/26/2021,976,5
+New Brunswick,2/26/2021,1428,26
+Nova Scotia,2/26/2021,1634,65
+Prince Edward Island,2/26/2021,121,0
+Yukon,2/26/2021,72,1
+Northwest Territories,2/26/2021,42,0
+Nunavut,2/26/2021,356,1
+Repatriated travellers,2/26/2021,13,0
+Canada,2/26/2021,861547,21915
+British Columbia,2/27/2021,79909,1355
+Alberta,2/27/2021,133203,1883
+Saskatchewan,2/27/2021,28506,385
+Manitoba,2/27/2021,31809,893
+Ontario,2/27/2021,299754,6960
+Quebec,2/27/2021,287003,10384
+Newfoundland and Labrador,2/27/2021,980,6
+New Brunswick,2/27/2021,1430,26
+Nova Scotia,2/27/2021,1638,65
+Prince Edward Island,2/27/2021,127,0
+Yukon,2/27/2021,72,1
+Northwest Territories,2/27/2021,42,0
+Nunavut,2/27/2021,356,1
+Repatriated travellers,2/27/2021,13,0
+Canada,2/27/2021,864842,21959
+British Columbia,2/28/2021,80454,1355
+Alberta,2/28/2021,133504,1886
+Saskatchewan,2/28/2021,28647,385
+Manitoba,2/28/2021,31859,895
+Ontario,2/28/2021,300816,6980
+Quebec,2/28/2021,287740,10393
+Newfoundland and Labrador,2/28/2021,987,6
+New Brunswick,2/28/2021,1430,27
+Nova Scotia,2/28/2021,1641,65
+Prince Edward Island,2/28/2021,132,0
+Yukon,2/28/2021,72,1
+Northwest Territories,2/28/2021,42,0
+Nunavut,2/28/2021,357,1
+Repatriated travellers,2/28/2021,13,0
+Canada,2/28/2021,867694,21994
+British Columbia,3/1/2021,80929,1363
+Alberta,3/1/2021,133795,1888
+Saskatchewan,3/1/2021,28801,385
+Manitoba,3/1/2021,31894,896
+Ontario,3/1/2021,301839,6986
+Quebec,3/1/2021,288353,10402
+Newfoundland and Labrador,3/1/2021,989,6
+New Brunswick,3/1/2021,1431,27
+Nova Scotia,3/1/2021,1642,65
+Prince Edward Island,3/1/2021,132,0
+Yukon,3/1/2021,72,1
+Northwest Territories,3/1/2021,42,0
+Nunavut,3/1/2021,358,1
+Repatriated travellers,3/1/2021,13,0
+Canada,3/1/2021,870290,22020
+British Columbia,3/2/2021,81367,1365
+Alberta,3/2/2021,134052,1890
+Saskatchewan,3/2/2021,28938,387
+Manitoba,3/2/2021,31950,898
+Ontario,3/2/2021,302805,6997
+Quebec,3/2/2021,288941,10411
+Newfoundland and Labrador,3/2/2021,994,6
+New Brunswick,3/2/2021,1435,28
+Nova Scotia,3/2/2021,1643,65
+Prince Edward Island,3/2/2021,136,0
+Yukon,3/2/2021,72,1
+Northwest Territories,3/2/2021,42,0
+Nunavut,3/2/2021,359,1
+Repatriated travellers,3/2/2021,13,0
+Canada,3/2/2021,872747,22049
+British Columbia,3/3/2021,81909,1372
+Alberta,3/3/2021,134454,1902
+Saskatchewan,3/3/2021,29059,389
+Manitoba,3/3/2021,32000,901
+Ontario,3/3/2021,303763,7014
+Quebec,3/3/2021,289670,10425
+Newfoundland and Labrador,3/3/2021,997,6
+New Brunswick,3/3/2021,1438,28
+Nova Scotia,3/3/2021,1646,65
+Prince Edward Island,3/3/2021,137,0
+Yukon,3/3/2021,72,1
+Northwest Territories,3/3/2021,42,0
+Nunavut,3/3/2021,359,1
+Repatriated travellers,3/3/2021,13,0
+Canada,3/3/2021,875559,22104
+British Columbia,3/4/2021,82473,1376
+Alberta,3/4/2021,134785,1911
+Saskatchewan,3/4/2021,29220,391
+Manitoba,3/4/2021,32051,902
+Ontario,3/4/2021,304757,7024
+Quebec,3/4/2021,290377,10445
+Newfoundland and Labrador,3/4/2021,1002,6
+New Brunswick,3/4/2021,1443,28
+Nova Scotia,3/4/2021,1649,65
+Prince Edward Island,3/4/2021,138,0
+Yukon,3/4/2021,72,1
+Northwest Territories,3/4/2021,42,0
+Nunavut,3/4/2021,369,1
+Repatriated travellers,3/4/2021,13,0
+Canada,3/4/2021,878391,22150
+British Columbia,3/5/2021,83107,1380
+Alberta,3/5/2021,135196,1913
+Saskatchewan,3/5/2021,29430,393
+Manitoba,3/5/2021,32099,903
+Ontario,3/5/2021,306007,7046
+Quebec,3/5/2021,291175,10455
+Newfoundland and Labrador,3/5/2021,1003,6
+New Brunswick,3/5/2021,1447,28
+Nova Scotia,3/5/2021,1651,65
+Prince Edward Island,3/5/2021,139,0
+Yukon,3/5/2021,72,1
+Northwest Territories,3/5/2021,42,0
+Nunavut,3/5/2021,373,1
+Repatriated travellers,3/5/2021,13,0
+Canada,3/5/2021,881754,22191
+British Columbia,3/6/2021,83652,1383
+Alberta,3/6/2021,135537,1916
+Saskatchewan,3/6/2021,29593,396
+Manitoba,3/6/2021,32169,904
+Ontario,3/6/2021,306997,7052
+Quebec,3/6/2021,291924,10465
+Newfoundland and Labrador,3/6/2021,1005,6
+New Brunswick,3/6/2021,1453,28
+Nova Scotia,3/6/2021,1657,65
+Prince Edward Island,3/6/2021,139,0
+Yukon,3/6/2021,72,1
+Northwest Territories,3/6/2021,42,0
+Nunavut,3/6/2021,377,1
+Repatriated travellers,3/6/2021,13,0
+Canada,3/6/2021,884630,22217
+British Columbia,3/7/2021,84184,1387
+Alberta,3/7/2021,135841,1918
+Saskatchewan,3/7/2021,29709,398
+Manitoba,3/7/2021,32225,905
+Ontario,3/7/2021,308296,7067
+Quebec,3/7/2021,292631,10472
+Newfoundland and Labrador,3/7/2021,1006,6
+New Brunswick,3/7/2021,1455,28
+Nova Scotia,3/7/2021,1659,65
+Prince Edward Island,3/7/2021,141,0
+Yukon,3/7/2021,72,1
+Northwest Territories,3/7/2021,42,0
+Nunavut,3/7/2021,381,1
+Repatriated travellers,3/7/2021,13,0
+Canada,3/7/2021,887655,22248
+British Columbia,3/8/2021,84569,1391
+Alberta,3/8/2021,136119,1920
+Saskatchewan,3/8/2021,29805,399
+Manitoba,3/8/2021,32284,906
+Ontario,3/8/2021,309927,7077
+Quebec,3/8/2021,293210,10481
+Newfoundland and Labrador,3/8/2021,1009,6
+New Brunswick,3/8/2021,1459,28
+Nova Scotia,3/8/2021,1659,65
+Prince Edward Island,3/8/2021,143,0
+Yukon,3/8/2021,72,1
+Northwest Territories,3/8/2021,42,0
+Nunavut,3/8/2021,381,1
+Repatriated travellers,3/8/2021,13,0
+Canada,3/8/2021,890692,22275
+British Columbia,3/9/2021,85119,1393
+Alberta,3/9/2021,136374,1926
+Saskatchewan,3/9/2021,29918,400
+Manitoba,3/9/2021,32344,907
+Ontario,3/9/2021,311112,7083
+Quebec,3/9/2021,293860,10493
+Newfoundland and Labrador,3/9/2021,1010,6
+New Brunswick,3/9/2021,1460,29
+Nova Scotia,3/9/2021,1664,65
+Prince Edward Island,3/9/2021,143,0
+Yukon,3/9/2021,72,1
+Northwest Territories,3/9/2021,42,0
+Nunavut,3/9/2021,381,1
+Repatriated travellers,3/9/2021,13,0
+Canada,3/9/2021,893512,22304
+British Columbia,3/10/2021,85650,1394
+Alberta,3/10/2021,136773,1928
+Saskatchewan,3/10/2021,30028,401
+Manitoba,3/10/2021,32418,908
+Ontario,3/10/2021,312428,7099
+Quebec,3/10/2021,294652,10503
+Newfoundland and Labrador,3/10/2021,1010,6
+New Brunswick,3/10/2021,1460,29
+Nova Scotia,3/10/2021,1665,65
+Prince Edward Island,3/10/2021,143,0
+Yukon,3/10/2021,72,1
+Northwest Territories,3/10/2021,42,0
+Nunavut,3/10/2021,381,1
+Repatriated travellers,3/10/2021,13,0
+Canada,3/10/2021,896735,22335
+British Columbia,3/11/2021,86219,1397
+Alberta,3/11/2021,137137,1933
+Saskatchewan,3/11/2021,30193,401
+Manitoba,3/11/2021,32509,911
+Ontario,3/11/2021,313520,7109
+Quebec,3/11/2021,295390,10517
+Newfoundland and Labrador,3/11/2021,1011,6
+New Brunswick,3/11/2021,1462,29
+Nova Scotia,3/11/2021,1665,65
+Prince Edward Island,3/11/2021,143,0
+Yukon,3/11/2021,72,1
+Northwest Territories,3/11/2021,42,0
+Nunavut,3/11/2021,381,1
+Repatriated travellers,3/11/2021,13,0
+Canada,3/11/2021,899757,22370
+British Columbia,3/12/2021,86867,1397
+Alberta,3/12/2021,137562,1935
+Saskatchewan,3/12/2021,30369,404
+Manitoba,3/12/2021,32605,912
+Ontario,3/12/2021,314891,7127
+Quebec,3/12/2021,296129,10524
+Newfoundland and Labrador,3/12/2021,1012,6
+New Brunswick,3/12/2021,1465,30
+Nova Scotia,3/12/2021,1665,65
+Prince Edward Island,3/12/2021,143,0
+Yukon,3/12/2021,72,1
+Northwest Territories,3/12/2021,42,0
+Nunavut,3/12/2021,381,1
+Repatriated travellers,3/12/2021,13,0
+Canada,3/12/2021,903216,22402
+British Columbia,3/13/2021,87422,1401
+Alberta,3/13/2021,138036,1940
+Saskatchewan,3/13/2021,30522,405
+Manitoba,3/13/2021,32699,916
+Ontario,3/13/2021,316359,7138
+Quebec,3/13/2021,296918,10535
+Newfoundland and Labrador,3/13/2021,1012,6
+New Brunswick,3/13/2021,1465,30
+Nova Scotia,3/13/2021,1669,65
+Prince Edward Island,3/13/2021,143,0
+Yukon,3/13/2021,72,1
+Northwest Territories,3/13/2021,42,0
+Nunavut,3/13/2021,383,1
+Repatriated travellers,3/13/2021,13,0
+Canada,3/13/2021,906755,22438
+British Columbia,3/14/2021,87913,1404
+Alberta,3/14/2021,138424,1946
+Saskatchewan,3/14/2021,30617,407
+Manitoba,3/14/2021,32743,917
+Ontario,3/14/2021,318106,7153
+Quebec,3/14/2021,297592,10540
+Newfoundland and Labrador,3/14/2021,1012,6
+New Brunswick,3/14/2021,1470,30
+Nova Scotia,3/14/2021,1670,65
+Prince Edward Island,3/14/2021,143,0
+Yukon,3/14/2021,72,1
+Northwest Territories,3/14/2021,42,0
+Nunavut,3/14/2021,383,1
+Repatriated travellers,3/14/2021,13,0
+Canada,3/14/2021,910200,22470
+British Columbia,3/15/2021,88373,1407
+Alberta,3/15/2021,138788,1949
+Saskatchewan,3/15/2021,30727,407
+Manitoba,3/15/2021,32792,917
+Ontario,3/15/2021,319374,7162
+Quebec,3/15/2021,298186,10550
+Newfoundland and Labrador,3/15/2021,1012,6
+New Brunswick,3/15/2021,1471,30
+Nova Scotia,3/15/2021,1670,65
+Prince Edward Island,3/15/2021,143,0
+Yukon,3/15/2021,72,1
+Northwest Territories,3/15/2021,42,0
+Nunavut,3/15/2021,383,1
+Repatriated travellers,3/15/2021,13,0
+Canada,3/15/2021,913046,22495
+British Columbia,3/16/2021,88929,1407
+Alberta,3/16/2021,139143,1952
+Saskatchewan,3/16/2021,30883,409
+Manitoba,3/16/2021,32900,917
+Ontario,3/16/2021,320448,7173
+Quebec,3/16/2021,298747,10557
+Newfoundland and Labrador,3/16/2021,1013,6
+New Brunswick,3/16/2021,1476,30
+Nova Scotia,3/16/2021,1672,65
+Prince Edward Island,3/16/2021,144,0
+Yukon,3/16/2021,72,1
+Northwest Territories,3/16/2021,42,0
+Nunavut,3/16/2021,383,1
+Repatriated travellers,3/16/2021,13,0
+Canada,3/16/2021,915865,22518
+British Columbia,3/17/2021,89427,1411
+Alberta,3/17/2021,139622,1956
+Saskatchewan,3/17/2021,30970,410
+Manitoba,3/17/2021,32994,917
+Ontario,3/17/2021,321956,7187
+Quebec,3/17/2021,299450,10569
+Newfoundland and Labrador,3/17/2021,1013,6
+New Brunswick,3/17/2021,1477,30
+Nova Scotia,3/17/2021,1674,65
+Prince Edward Island,3/17/2021,144,0
+Yukon,3/17/2021,72,1
+Northwest Territories,3/17/2021,42,0
+Nunavut,3/17/2021,395,4
+Repatriated travellers,3/17/2021,13,0
+Canada,3/17/2021,919249,22556
+British Columbia,3/18/2021,90049,1419
+Alberta,3/18/2021,140127,1957
+Saskatchewan,3/18/2021,31085,411
+Manitoba,3/18/2021,33085,918
+Ontario,3/18/2021,323509,7202
+Quebec,3/18/2021,300152,10576
+Newfoundland and Labrador,3/18/2021,1014,6
+New Brunswick,3/18/2021,1484,30
+Nova Scotia,3/18/2021,1677,66
+Prince Edward Island,3/18/2021,144,0
+Yukon,3/18/2021,72,1
+Northwest Territories,3/18/2021,42,0
+Nunavut,3/18/2021,395,4
+Repatriated travellers,3/18/2021,13,0
+Canada,3/18/2021,922848,22590
+British Columbia,3/19/2021,90786,1421
+Alberta,3/19/2021,140823,1957
+Saskatchewan,3/19/2021,31259,414
+Manitoba,3/19/2021,33176,919
+Ontario,3/19/2021,325254,7212
+Quebec,3/19/2021,300916,10587
+Newfoundland and Labrador,3/19/2021,1014,6
+New Brunswick,3/19/2021,1486,30
+Nova Scotia,3/19/2021,1680,66
+Prince Edward Island,3/19/2021,148,0
+Yukon,3/19/2021,72,1
+Northwest Territories,3/19/2021,47,0
+Nunavut,3/19/2021,395,4
+Repatriated travellers,3/19/2021,13,0
+Canada,3/19/2021,927069,22617
